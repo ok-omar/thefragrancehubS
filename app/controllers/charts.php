@@ -13,7 +13,7 @@ if (isset($_GET['rows-per-page'])) {
 } elseif (isset($_COOKIE['rows-per-page'])) {
     $rows_per_page = $_COOKIE['rows-per-page'];
 } else {
-    $rows_per_page = 3;
+    $rows_per_page = 8;
 }
 
 
