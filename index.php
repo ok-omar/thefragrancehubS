@@ -27,7 +27,7 @@ if ($action == "filldb") {
 
     echo "<h1 style='color: red;'>You will be redirected to homepage in 3 seconds...</h1>";
     sleep(20);
-    header("Location: controllers/homepage.php");
+    header("Location: controllers/charts.php");
     exit;
 
 } elseif ($action == "delete") {
