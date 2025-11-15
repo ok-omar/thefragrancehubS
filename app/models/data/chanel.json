@@ -1,0 +1,2412 @@
+[
+  {
+    "Name": "Chanel Chance",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-chance.jpg",
+    "Gender": "women",
+    "Price": "299.99",
+    "Longevity": "74.4%",
+    "Sillage": "65.25%",
+    "General Notes": [
+      "Iris",
+      "Jasmine",
+      "Vanilla",
+      "Patchouli",
+      "Musk"
+    ],
+    "Main Accords": [
+      "musky",
+      "patchouli",
+      "powdery",
+      "white floral",
+      "woody",
+      "soft spicy",
+      "earthy",
+      "vanilla",
+      "warm spicy",
+      "iris"
+    ],
+    "Main Accords Percentage": {
+      "musky": "100%",
+      "patchouli": "95%",
+      "powdery": "85%",
+      "white floral": "81%",
+      "woody": "75%",
+      "soft spicy": "73%",
+      "earthy": "68%",
+      "vanilla": "64%",
+      "warm spicy": "63%",
+      "iris": "60%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.288
+      },
+      {
+        "name": "winter",
+        "score": 2.491
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.852
+      },
+      {
+        "name": "professional",
+        "score": 1.035
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/244961.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-chance/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#244961"
+  },
+  {
+    "Name": "Chanel Chance Eau Fraiche",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-chance-eau-fraiche.jpg",
+    "Gender": "women",
+    "Price": "149.99",
+    "Longevity": "65.4%",
+    "Sillage": "58.0%",
+    "General Notes": [
+      "Water Hyacinth",
+      "Pink Pepper",
+      "Iris",
+      "Amber",
+      "White Musk"
+    ],
+    "Main Accords": [
+      "woody",
+      "citrus",
+      "aromatic",
+      "floral",
+      "musky",
+      "powdery",
+      "earthy",
+      "white floral",
+      "patchouli",
+      "fresh"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "citrus": "96%",
+      "aromatic": "62%",
+      "floral": "55%",
+      "musky": "53%",
+      "powdery": "53%",
+      "earthy": "50%",
+      "white floral": "47%",
+      "patchouli": "47%",
+      "fresh": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.298
+      },
+      {
+        "name": "fall",
+        "score": 2.106
+      },
+      {
+        "name": "summer",
+        "score": 1.41
+      },
+      {
+        "name": "winter",
+        "score": 1.076
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.406
+      },
+      {
+        "name": "casual",
+        "score": 1.699
+      },
+      {
+        "name": "night out",
+        "score": 0.477
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Citron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citron.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Water Hyacinth",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Hyacinth.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Teak Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Teak%20Wood.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/315035.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-chance-eau-fraiche/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#315035"
+  },
+  {
+    "Name": "Chanel Chance Eau Vive",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-chance-eau-vive.jpg",
+    "Gender": "women",
+    "Price": "310.99",
+    "Longevity": "63.4%",
+    "Sillage": "58.0%",
+    "General Notes": [
+      "Citruses",
+      "Grapefruit",
+      "Blood Orange",
+      "White Musk",
+      "Jasmine",
+      "Iris",
+      "Cedar",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "fresh spicy",
+      "powdery",
+      "white floral",
+      "aromatic",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "52%",
+      "fresh spicy": "46%",
+      "powdery": "46%",
+      "white floral": "46%",
+      "aromatic": "46%",
+      "musky": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.222
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0.873
+      },
+      {
+        "name": "winter",
+        "score": 0.364
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.9
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0.405
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Blood Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Blood%20Orange.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/296558.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-chance-eau-vive/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#296558"
+  },
+  {
+    "Name": "Chanel Chance Eau Tendre",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-chance-eau-tendre.jpg",
+    "Gender": "women",
+    "Price": "208.99",
+    "Longevity": "61.6%",
+    "Sillage": "54.75%",
+    "General Notes": [
+      "Jasmine",
+      "Hyacinth",
+      "Amber",
+      "Virginia Cedar",
+      "Grapefruit"
+    ],
+    "Main Accords": [
+      "floral",
+      "fruity",
+      "citrus",
+      "sweet",
+      "fresh spicy",
+      "powdery",
+      "white floral",
+      "musky",
+      "green",
+      "iris"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "fruity": "83%",
+      "citrus": "80%",
+      "sweet": "73%",
+      "fresh spicy": "70%",
+      "powdery": "69%",
+      "white floral": "64%",
+      "musky": "63%",
+      "green": "59%",
+      "iris": "59%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.192
+      },
+      {
+        "name": "summer",
+        "score": 1.154
+      },
+      {
+        "name": "fall",
+        "score": 0.567
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.858
+      },
+      {
+        "name": "professional",
+        "score": 1.585
+      },
+      {
+        "name": "night out",
+        "score": 0.567
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Quince",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Quince.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Hyacinth",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hyacinth.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/317779.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-chance-eau-tendre/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#317779"
+  },
+  {
+    "Name": "Chance Parfum Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-parfum-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "35",
+    "Longevity": "71%",
+    "Sillage": "64%",
+    "General Notes": [],
+    "Main Accords": [
+      "powdery",
+      "iris",
+      "white floral",
+      "musky",
+      "vanilla",
+      "violet",
+      "earthy",
+      "floral",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "iris": "82%",
+      "white floral": "80%",
+      "musky": "79%",
+      "vanilla": "76%",
+      "violet": "56%",
+      "earthy": "51%",
+      "floral": "45%",
+      "sweet": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.119
+      },
+      {
+        "name": "winter",
+        "score": 0.684
+      },
+      {
+        "name": "spring",
+        "score": 0.45
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.243
+      },
+      {
+        "name": "professional",
+        "score": 0.6
+      },
+      {
+        "name": "casual",
+        "score": 0.579
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-parfum-chanel-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Chance Hair Mist Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-hair-mist-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "63%",
+    "Sillage": "61%",
+    "General Notes": [],
+    "Main Accords": [
+      "patchouli",
+      "white floral",
+      "soft spicy",
+      "amber",
+      "woody",
+      "warm spicy",
+      "earthy",
+      "balsamic",
+      "musky",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "patchouli": "100%",
+      "white floral": "95%",
+      "soft spicy": "78%",
+      "amber": "74%",
+      "woody": "72%",
+      "warm spicy": "65%",
+      "earthy": "58%",
+      "balsamic": "51%",
+      "musky": "49%",
+      "sweet": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.513
+      },
+      {
+        "name": "winter",
+        "score": 2.903
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.701
+      },
+      {
+        "name": "professional",
+        "score": 0.504
+      },
+      {
+        "name": "casual",
+        "score": 0.276
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-hair-mist-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.chanel.com/us/fragrance/p/126990/chance-hair-mist/"
+  },
+  {
+    "Name": "Chance Eau de Toilette Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-de-toilette-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "35",
+    "Longevity": "73%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Patchouli",
+      "Pink Pepper",
+      "Pineapple",
+      "Hiacynth",
+      "Iris",
+      "Lemon",
+      "Jasmine",
+      "Rose",
+      "Patchouli",
+      "Musk",
+      "Vetiver",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "patchouli",
+      "woody",
+      "earthy",
+      "sweet",
+      "citrus",
+      "musky",
+      "fruity",
+      "soft spicy",
+      "aromatic",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "patchouli": "100%",
+      "woody": "97%",
+      "earthy": "92%",
+      "sweet": "91%",
+      "citrus": "90%",
+      "musky": "78%",
+      "fruity": "75%",
+      "soft spicy": "71%",
+      "aromatic": "68%",
+      "powdery": "68%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.011
+      },
+      {
+        "name": "winter",
+        "score": 1.479
+      },
+      {
+        "name": "spring",
+        "score": 1.286
+      },
+      {
+        "name": "summer",
+        "score": 0.9
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.487
+      },
+      {
+        "name": "casual",
+        "score": 1.356
+      },
+      {
+        "name": "night out",
+        "score": 0.702
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Hiacynth",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hiacynth.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-de-toilette-chanel-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Chanel Bleu De Chanel",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-bleu-de-chanel.jpg",
+    "Gender": "men",
+    "Price": "81.99",
+    "Longevity": "67.6%",
+    "Sillage": "55.75%",
+    "General Notes": [
+      "nutmeg",
+      "jasmine",
+      "white musk",
+      "labdanum",
+      "cedar",
+      "ginger"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "warm spicy",
+      "aromatic",
+      "amber",
+      "fresh spicy",
+      "smoky",
+      "balsamic",
+      "green",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "80%",
+      "warm spicy": "73%",
+      "aromatic": "70%",
+      "amber": "67%",
+      "fresh spicy": "60%",
+      "smoky": "53%",
+      "balsamic": "50%",
+      "green": "50%",
+      "musky": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.388
+      },
+      {
+        "name": "winter",
+        "score": 2.176
+      },
+      {
+        "name": "spring",
+        "score": 1.79
+      },
+      {
+        "name": "summer",
+        "score": 1.3
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.51
+      },
+      {
+        "name": "night out",
+        "score": 1.933
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Iso E Super",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iso%20E%20Super.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_autoplus,fl_lossy,dpr_1.1/w_1240/bleu-de-chanel-eau-de-parfum-spray-3-4fl-oz--packshot-default-107360-9564894232606.jpg"
+    ],
+    "Purchase URL": "https://www.chanel.com/ww/fragrance/men/c/7x1x2x34/bleu-de-chanel/?gclsrc=aw.ds&gad_source=1&gad_campaignid=19744219633&gclid=Cj0KCQjwh5vFBhCyARIsAHBx2wzEm4T5RHQaJnYBFDG7B4dywocIy9eNHldjA7Cii7VBXzghBsnJx-AaAh0hEALw_wcB"
+  },
+  {
+    "Name": "Chanel N19 Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-n19-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "59",
+    "Longevity": "63%",
+    "Sillage": "58%",
+    "General Notes": [
+      "Galbanum",
+      "Hiacynth",
+      "Bergamot",
+      "Neroli",
+      "Iris",
+      "Orris Root",
+      "Rose",
+      "Narcissus",
+      "Lily-of-the-Valley",
+      "Jasmine",
+      "Ylang-Ylang",
+      "Oakmoss",
+      "Vetiver",
+      "Leather",
+      "Cedar",
+      "Musk",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "green",
+      "earthy",
+      "woody",
+      "iris",
+      "powdery",
+      "aromatic",
+      "floral",
+      "mossy",
+      "white floral",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "green": "100%",
+      "earthy": "88%",
+      "woody": "87%",
+      "iris": "79%",
+      "powdery": "72%",
+      "aromatic": "71%",
+      "floral": "69%",
+      "mossy": "59%",
+      "white floral": "58%",
+      "fresh spicy": "54%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.987
+      },
+      {
+        "name": "fall",
+        "score": 1.487
+      },
+      {
+        "name": "winter",
+        "score": 0.609
+      },
+      {
+        "name": "summer",
+        "score": 0.6
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.651
+      },
+      {
+        "name": "casual",
+        "score": 0.483
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        },
+        {
+          "name": "Hiacynth",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hiacynth.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-n19-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-19/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS"
+  },
+  {
+    "Name": "Chanel N22 Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-n22-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "69%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Aldehydes",
+      "Neroli",
+      "Lily",
+      "Tuberose",
+      "Lily-of-the-Valley",
+      "Orange Blossom",
+      "Ylang-Ylang",
+      "Jasmine",
+      "White Rose",
+      "Nutmeg",
+      "Iris",
+      "Vanilla",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "white floral",
+      "fresh",
+      "aldehydic",
+      "yellow floral",
+      "iris",
+      "woody",
+      "floral",
+      "powdery",
+      "sweet",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "fresh": "58%",
+      "aldehydic": "54%",
+      "yellow floral": "51%",
+      "iris": "50%",
+      "woody": "50%",
+      "floral": "48%",
+      "powdery": "47%",
+      "sweet": "46%",
+      "fresh spicy": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.06
+      },
+      {
+        "name": "summer",
+        "score": 0.58
+      },
+      {
+        "name": "fall",
+        "score": 0.45
+      },
+      {
+        "name": "winter",
+        "score": 0.35
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.192
+      },
+      {
+        "name": "professional",
+        "score": 0.632
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "White Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Rose.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-n22-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/chanel/chanel-22/women-perfume"
+  },
+  {
+    "Name": "Chance Eau Tendre Hair Mist Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-tendre-hair-mist-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "59",
+    "Longevity": "49%",
+    "Sillage": "50%",
+    "General Notes": [],
+    "Main Accords": [
+      "white floral",
+      "fruity",
+      "citrus",
+      "sweet",
+      "floral",
+      "musky",
+      "fresh",
+      "powdery",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "fruity": "99%",
+      "citrus": "89%",
+      "sweet": "87%",
+      "floral": "78%",
+      "musky": "78%",
+      "fresh": "63%",
+      "powdery": "54%",
+      "fresh spicy": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.211
+      },
+      {
+        "name": "summer",
+        "score": 1.52
+      },
+      {
+        "name": "fall",
+        "score": 0.702
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 2.499
+      },
+      {
+        "name": "professional",
+        "score": 1.036
+      },
+      {
+        "name": "night out",
+        "score": 0.702
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-tendre-hair-mist-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-chance-eau-tendre/hair-mist?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS"
+  },
+  {
+    "Name": "Chance Eau Vive Hair Mist Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-vive-hair-mist-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "59",
+    "Longevity": "53%",
+    "Sillage": "62%",
+    "General Notes": [],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "iris",
+      "white floral",
+      "powdery",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "57%",
+      "iris": "55%",
+      "white floral": "50%",
+      "powdery": "49%",
+      "fresh spicy": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "spring",
+        "score": 0.9
+      },
+      {
+        "name": "fall",
+        "score": 0.513
+      },
+      {
+        "name": "winter",
+        "score": 0.399
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.493
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-vive-hair-mist-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-chance-eau-vive/hair-mist?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS"
+  },
+  {
+    "Name": "Chance Eau Fraiche Hair Mist Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-fraiche-hair-mist-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "53%",
+    "Sillage": "60%",
+    "General Notes": [],
+    "Main Accords": [
+      "citrus",
+      "white floral",
+      "woody",
+      "fresh",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "white floral": "76%",
+      "woody": "71%",
+      "fresh": "49%",
+      "floral": "39%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.78
+      },
+      {
+        "name": "summer",
+        "score": 1.49
+      },
+      {
+        "name": "fall",
+        "score": 0.639
+      },
+      {
+        "name": "winter",
+        "score": 0.497
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.663
+      },
+      {
+        "name": "professional",
+        "score": 1.297
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chance-eau-fraiche-hair-mist-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.walmart.com/ip/Chanel-Chance-Eau-Fraiche-Hair-Mist-35ml-1-2oz/52070000"
+  },
+  {
+    "Name": "Chanel Coco",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-coco.jpg",
+    "Gender": "women",
+    "Price": "264.99",
+    "Longevity": "80.8%",
+    "Sillage": "71.5%",
+    "General Notes": [
+      "Peach",
+      "Coriander",
+      "Amber",
+      "Sandalwood",
+      "Civet"
+    ],
+    "Main Accords": [
+      "amber",
+      "warm spicy",
+      "sweet",
+      "powdery",
+      "woody",
+      "vanilla",
+      "white floral",
+      "rose",
+      "floral",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "amber": "100%",
+      "warm spicy": "77%",
+      "sweet": "69%",
+      "powdery": "67%",
+      "woody": "58%",
+      "vanilla": "57%",
+      "white floral": "56%",
+      "rose": "56%",
+      "floral": "54%",
+      "animalic": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.489
+      },
+      {
+        "name": "fall",
+        "score": 2.138
+      },
+      {
+        "name": "spring",
+        "score": 0.54
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.015
+      },
+      {
+        "name": "professional",
+        "score": 0.808
+      },
+      {
+        "name": "casual",
+        "score": 0.792
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Cloves",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cloves.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Mimosa",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mimosa.png"
+        },
+        {
+          "name": "Clover",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clover.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Opoponax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Opoponax.png"
+        },
+        {
+          "name": "Civet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Civet.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/116995.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-coco/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#116995"
+  },
+  {
+    "Name": "Chanel 19",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-19.jpg",
+    "Gender": "women",
+    "Price": "298.99",
+    "Longevity": "69.4%",
+    "Sillage": "59.75%",
+    "General Notes": [
+      "Rose",
+      "Narcissus",
+      "Oak moss",
+      "Vetiver",
+      "Lily-of-the-valley"
+    ],
+    "Main Accords": [
+      "green",
+      "earthy",
+      "woody",
+      "iris",
+      "mossy",
+      "aromatic",
+      "citrus",
+      "powdery",
+      "white floral",
+      "yellow floral"
+    ],
+    "Main Accords Percentage": {
+      "green": "100%",
+      "earthy": "86%",
+      "woody": "84%",
+      "iris": "66%",
+      "mossy": "66%",
+      "aromatic": "63%",
+      "citrus": "60%",
+      "powdery": "60%",
+      "white floral": "55%",
+      "yellow floral": "52%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.781
+      },
+      {
+        "name": "fall",
+        "score": 1.444
+      },
+      {
+        "name": "summer",
+        "score": 1.2
+      },
+      {
+        "name": "winter",
+        "score": 0.588
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.958
+      },
+      {
+        "name": "casual",
+        "score": 0.54
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/145739.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-19/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#145739"
+  },
+  {
+    "Name": "Chanel Gabrielle",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-gabrielle.jpg",
+    "Gender": "women",
+    "Price": "115.99",
+    "Longevity": "61.0%",
+    "Sillage": "55.75%",
+    "General Notes": [
+      "Black Currant",
+      "Grapefruit",
+      "Mandarin Orange",
+      "Pear",
+      "Orange Blossom",
+      "Lily of the Valley",
+      "Jasmine",
+      "Pink Pepper",
+      "Ylang-Ylang",
+      "Tuberose",
+      "Orris",
+      "Cashmeran",
+      "Musk",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "white floral",
+      "citrus",
+      "woody",
+      "sweet",
+      "fruity",
+      "musky",
+      "yellow floral",
+      "powdery",
+      "tuberose",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "citrus": "93%",
+      "woody": "59%",
+      "sweet": "56%",
+      "fruity": "53%",
+      "musky": "52%",
+      "yellow floral": "50%",
+      "powdery": "50%",
+      "tuberose": "47%",
+      "animalic": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.999
+      },
+      {
+        "name": "summer",
+        "score": 0.93
+      },
+      {
+        "name": "spring",
+        "score": 0.837
+      },
+      {
+        "name": "winter",
+        "score": 0.413
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.457
+      },
+      {
+        "name": "casual",
+        "score": 1.173
+      },
+      {
+        "name": "night out",
+        "score": 0.468
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Cashmeran",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cashmeran.png"
+        },
+        {
+          "name": "Orris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/344389.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-gabrielle/body-lotion?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#344389"
+  },
+  {
+    "Name": "Chanel #5",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-#5.jpg",
+    "Gender": "women",
+    "Price": "112.79",
+    "Longevity": "72.6%",
+    "Sillage": "63.0%",
+    "General Notes": [
+      "Jasmine",
+      "Rose",
+      "Lily-of-the-valley",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "woody",
+      "aldehydic",
+      "fresh",
+      "white floral",
+      "powdery",
+      "earthy",
+      "yellow floral",
+      "iris",
+      "citrus",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "aldehydic": "84%",
+      "fresh": "79%",
+      "white floral": "76%",
+      "powdery": "70%",
+      "earthy": "67%",
+      "yellow floral": "66%",
+      "iris": "60%",
+      "citrus": "56%",
+      "floral": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.844
+      },
+      {
+        "name": "fall",
+        "score": 1.436
+      },
+      {
+        "name": "summer",
+        "score": 1.35
+      },
+      {
+        "name": "winter",
+        "score": 0.7
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.679
+      },
+      {
+        "name": "professional",
+        "score": 1.568
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/304943.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-5/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#238147"
+  },
+  {
+    "Name": "Chanel Cristalle",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-cristalle.jpg",
+    "Gender": "women",
+    "Price": "271.99",
+    "Longevity": "64.4%",
+    "Sillage": "58.0%",
+    "General Notes": [
+      "brazilian rosewood",
+      "jasmine",
+      "honeysuckle",
+      "hiacynth",
+      "vetiver"
+    ],
+    "Main Accords": [
+      "citrus",
+      "earthy",
+      "woody",
+      "mossy",
+      "aromatic",
+      "fresh spicy",
+      "floral",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "earthy": "92%",
+      "woody": "84%",
+      "mossy": "78%",
+      "aromatic": "74%",
+      "fresh spicy": "71%",
+      "floral": "70%",
+      "green": "70%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.678
+      },
+      {
+        "name": "fall",
+        "score": 1.492
+      },
+      {
+        "name": "summer",
+        "score": 1.42
+      },
+      {
+        "name": "winter",
+        "score": 0.588
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.758
+      },
+      {
+        "name": "casual",
+        "score": 1.39
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Hiacynth",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hiacynth.png"
+        },
+        {
+          "name": "Brazilian Rosewood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Brazilian%20Rosewood.png"
+        },
+        {
+          "name": "Honeysuckle",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Honeysuckle.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/406140.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/chanel/chanel-cristalle/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#406140"
+  },
+  {
+    "Name": "Chanel No 46 Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-no-46-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "65%",
+    "Sillage": "76%",
+    "General Notes": [
+      "Bergamot",
+      "Neroli",
+      "Orange",
+      "Ylang-Ylang",
+      "Rose",
+      "Jasmine",
+      "Lily-of-the-Valley",
+      "Orris Root",
+      "Musk",
+      "Sandalwood",
+      "Vanilla",
+      "Cumin",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "white floral",
+      "woody",
+      "powdery",
+      "citrus",
+      "fresh spicy",
+      "floral",
+      "iris",
+      "rose",
+      "yellow floral",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "woody": "98%",
+      "powdery": "93%",
+      "citrus": "89%",
+      "fresh spicy": "70%",
+      "floral": "66%",
+      "iris": "65%",
+      "rose": "64%",
+      "yellow floral": "63%",
+      "musky": "62%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.461
+      },
+      {
+        "name": "fall",
+        "score": 1.44
+      },
+      {
+        "name": "summer",
+        "score": 0.89
+      },
+      {
+        "name": "winter",
+        "score": 0.686
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.956
+      },
+      {
+        "name": "casual",
+        "score": 1.263
+      },
+      {
+        "name": "night out",
+        "score": 0.558
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Cumin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cumin.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-no-46-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.macys.com/shop/brands/chanel/chanel-perfume?id=337973"
+  },
+  {
+    "Name": "Chanel N5 Vintage Chanel for women",
+    "Brand": "Chanel",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-n5-vintage-chanel-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "79%",
+    "Sillage": "68%",
+    "General Notes": [
+      "Aldehydes",
+      "Ylang-Ylang",
+      "Neroli",
+      "Lemon",
+      "Bergamot",
+      "Rose",
+      "Iris",
+      "Jasmine",
+      "Orris Root",
+      "Lily-of-the-Valley",
+      "Civet",
+      "Amber",
+      "Sandalwood",
+      "Musk",
+      "Vanilla",
+      "Oakmoss",
+      "Patchouli",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "aldehydic",
+      "powdery",
+      "woody",
+      "fresh",
+      "white floral",
+      "iris",
+      "musky",
+      "citrus",
+      "earthy",
+      "yellow floral"
+    ],
+    "Main Accords Percentage": {
+      "aldehydic": "100%",
+      "powdery": "95%",
+      "woody": "94%",
+      "fresh": "91%",
+      "white floral": "78%",
+      "iris": "74%",
+      "musky": "71%",
+      "citrus": "70%",
+      "earthy": "69%",
+      "yellow floral": "69%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.037
+      },
+      {
+        "name": "summer",
+        "score": 1.61
+      },
+      {
+        "name": "spring",
+        "score": 1.54
+      },
+      {
+        "name": "winter",
+        "score": 0.658
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.788
+      },
+      {
+        "name": "casual",
+        "score": 1.54
+      },
+      {
+        "name": "night out",
+        "score": 0.639
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Civet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Civet.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/chanel-n5-vintage-chanel-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/chanel/chanel-no-5/women-perfume"
+  }
+]

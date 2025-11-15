@@ -1,0 +1,2494 @@
+[
+  {
+    "Name": "Armani Giorgio Armani for women",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-giorgio-armani-for-women.jpg",
+    "Gender": "women",
+    "Price": "75",
+    "Longevity": "79%",
+    "Sillage": "72%",
+    "General Notes": [
+      "Galbanum",
+      "Marigold",
+      "Aldehydes",
+      "Bergamot",
+      "Pineapple",
+      "Mint",
+      "Narcissus",
+      "Orris Root",
+      "Tuberose",
+      "Rose",
+      "Jasmine",
+      "Cyclamen",
+      "Lily-of-the-Valley",
+      "Orchid",
+      "Oakmoss",
+      "Benzoin",
+      "Cedar",
+      "Amber",
+      "Sandalwood",
+      "Tonka Bean",
+      "Musk"
+    ],
+    "Main Accords": [
+      "green",
+      "aromatic",
+      "woody",
+      "balsamic",
+      "amber",
+      "mossy",
+      "floral",
+      "white floral",
+      "earthy",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "green": "100%",
+      "aromatic": "97%",
+      "woody": "80%",
+      "balsamic": "74%",
+      "amber": "71%",
+      "mossy": "71%",
+      "floral": "69%",
+      "white floral": "66%",
+      "earthy": "65%",
+      "sweet": "65%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.169
+      },
+      {
+        "name": "fall",
+        "score": 1.95
+      },
+      {
+        "name": "winter",
+        "score": 1.646
+      },
+      {
+        "name": "summer",
+        "score": 0.6
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.43
+      },
+      {
+        "name": "casual",
+        "score": 0.873
+      },
+      {
+        "name": "night out",
+        "score": 0.71
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        },
+        {
+          "name": "Marigold",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Marigold.png"
+        },
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Orchid",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orchid.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-giorgio-armani-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Armani Si",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-si.jpg",
+    "Gender": "women",
+    "Price": "139.99",
+    "Longevity": "70.0%",
+    "Sillage": "61.25%",
+    "General Notes": [
+      "Cassis",
+      "May Rose",
+      "Freesia",
+      "Vanilla",
+      "Patchouli",
+      "Woody Notes",
+      "Ambroxan"
+    ],
+    "Main Accords": [
+      "woody",
+      "vanilla",
+      "aromatic",
+      "soft spicy",
+      "fruity",
+      "green",
+      "floral",
+      "patchouli",
+      "rose",
+      "earthy"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "vanilla": "93%",
+      "aromatic": "82%",
+      "soft spicy": "81%",
+      "fruity": "75%",
+      "green": "74%",
+      "floral": "70%",
+      "patchouli": "69%",
+      "rose": "68%",
+      "earthy": "63%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.089
+      },
+      {
+        "name": "fall",
+        "score": 1.887
+      },
+      {
+        "name": "spring",
+        "score": 1.866
+      },
+      {
+        "name": "summer",
+        "score": 0.444
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.186
+      },
+      {
+        "name": "night out",
+        "score": 0.651
+      },
+      {
+        "name": "casual",
+        "score": 0.49
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Cassis",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cassis.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "May Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/May%20Rose.png"
+        },
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Woody Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woody%20Notes.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/243419.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/giorgio-armani/armani-si/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#243419"
+  },
+  {
+    "Name": "Armani New",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-new.jpg",
+    "Gender": "men",
+    "Price": "177.99",
+    "Longevity": "62.4%",
+    "Sillage": "58.75%",
+    "General Notes": [
+      "Bergamot",
+      "Mandarin Orange",
+      "Basil",
+      "Clove",
+      "Lily"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "woody",
+      "warm spicy",
+      "aromatic",
+      "mossy",
+      "earthy",
+      "green",
+      "white floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "97%",
+      "woody": "66%",
+      "warm spicy": "66%",
+      "aromatic": "61%",
+      "mossy": "60%",
+      "earthy": "57%",
+      "green": "53%",
+      "white floral": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.751
+      },
+      {
+        "name": "fall",
+        "score": 1.578
+      },
+      {
+        "name": "summer",
+        "score": 1.318
+      },
+      {
+        "name": "winter",
+        "score": 1.122
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.349
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0.528
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Cloves",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cloves.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/241899.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/giorgio-armani/armani-new/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#241899"
+  },
+  {
+    "Name": "Armani Mania",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-mania.jpg",
+    "Gender": "women",
+    "Price": "28.99",
+    "Longevity": "74.2%",
+    "Sillage": "66.75%",
+    "General Notes": [
+      "Sandalwood",
+      "Vanilla",
+      "Moroccan bay leaf",
+      "Black Currant",
+      "Pink Pepper",
+      "Magnolia",
+      "Peony",
+      "Virginia Cedar",
+      "Amber",
+      "Orange",
+      "Musk"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "powdery",
+      "floral",
+      "soft spicy",
+      "vanilla",
+      "fresh spicy",
+      "musky",
+      "sweet",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "100%",
+      "powdery": "96%",
+      "floral": "93%",
+      "soft spicy": "80%",
+      "vanilla": "78%",
+      "fresh spicy": "77%",
+      "musky": "72%",
+      "sweet": "68%",
+      "amber": "58%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.128
+      },
+      {
+        "name": "winter",
+        "score": 1.866
+      },
+      {
+        "name": "spring",
+        "score": 1.83
+      },
+      {
+        "name": "summer",
+        "score": 1
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.076
+      },
+      {
+        "name": "casual",
+        "score": 1.959
+      },
+      {
+        "name": "night out",
+        "score": 1.774
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Bay Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bay%20Leaf.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        },
+        {
+          "name": "Green Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Mandarin.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        },
+        {
+          "name": "Peony",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peony.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "White Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Sandalwood.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/247778.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/giorgio-armani/armani-mania/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#247778"
+  },
+  {
+    "Name": "Emporio Armani",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/emporio-armani.jpg",
+    "Gender": "women",
+    "Price": "104.99",
+    "Longevity": "58.2%",
+    "Sillage": "48.0%",
+    "General Notes": [
+      "Pear",
+      "Mandarin Orange",
+      "Tuberose",
+      "Bergamot",
+      "Lime",
+      "Pineapple",
+      "Lily of the Valley",
+      "Heliotrope",
+      "Jasmine",
+      "Orris Root",
+      "Vanilla",
+      "Musk",
+      "Almond",
+      "Amber",
+      "Cedar",
+      "Tonka Bean",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "powdery",
+      "aromatic",
+      "woody",
+      "citrus",
+      "fresh spicy",
+      "musky",
+      "warm spicy",
+      "rose",
+      "floral",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "aromatic": "100%",
+      "woody": "96%",
+      "citrus": "95%",
+      "fresh spicy": "91%",
+      "musky": "90%",
+      "warm spicy": "79%",
+      "rose": "65%",
+      "floral": "64%",
+      "sweet": "63%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.306
+      },
+      {
+        "name": "spring",
+        "score": 2.195
+      },
+      {
+        "name": "winter",
+        "score": 1.462
+      },
+      {
+        "name": "summer",
+        "score": 0.95
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 3.032
+      },
+      {
+        "name": "casual",
+        "score": 1.681
+      },
+      {
+        "name": "night out",
+        "score": 1.442
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Yuzu",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Yuzu.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/116747.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/giorgio-armani/emporio-armani/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#116747"
+  },
+  {
+    "Name": "Armani Code",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code.jpg",
+    "Gender": "men",
+    "Price": "13.79",
+    "Longevity": "63.6%",
+    "Sillage": "53.75%",
+    "General Notes": [
+      "tonka bean",
+      "tobacco",
+      "leather",
+      "star anise",
+      "olive blossom"
+    ],
+    "Main Accords": [
+      "citrus",
+      "leather",
+      "anis",
+      "soft spicy",
+      "floral",
+      "tobacco",
+      "sweet",
+      "aromatic",
+      "vanilla",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "leather": "87%",
+      "anis": "83%",
+      "soft spicy": "78%",
+      "floral": "75%",
+      "tobacco": "71%",
+      "sweet": "70%",
+      "aromatic": "65%",
+      "vanilla": "64%",
+      "animalic": "59%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.105
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "winter",
+        "score": 0.576
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.845
+      },
+      {
+        "name": "professional",
+        "score": 1.45
+      },
+      {
+        "name": "night out",
+        "score": 0.97
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Star Anise",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Star%20Anise.png"
+        },
+        {
+          "name": "Olive Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Olive%20Blossom.png"
+        },
+        {
+          "name": "Guaiac Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guaiac%20Wood.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Tobacco",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/149315.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/giorgio-armani/armani-code/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#149315"
+  },
+  {
+    "Name": "Armani Attitude Giorgio Armani for men",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-attitude-giorgio-armani-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "65%",
+    "Sillage": "57%",
+    "General Notes": [
+      "Coffee",
+      "Sicilian Lemon",
+      "Lavender",
+      "Cardamom",
+      "Patchouli",
+      "Amber",
+      "Opoponax",
+      "Chinese Cedar"
+    ],
+    "Main Accords": [
+      "warm spicy",
+      "woody",
+      "amber",
+      "patchouli",
+      "coffee",
+      "aromatic",
+      "lavender",
+      "citrus",
+      "balsamic",
+      "earthy"
+    ],
+    "Main Accords Percentage": {
+      "warm spicy": "100%",
+      "woody": "78%",
+      "amber": "75%",
+      "patchouli": "72%",
+      "coffee": "69%",
+      "aromatic": "66%",
+      "lavender": "65%",
+      "citrus": "56%",
+      "balsamic": "55%",
+      "earthy": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.132
+      },
+      {
+        "name": "winter",
+        "score": 3.107
+      },
+      {
+        "name": "spring",
+        "score": 0.966
+      },
+      {
+        "name": "summer",
+        "score": 0.56
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.654
+      },
+      {
+        "name": "night out",
+        "score": 1.55
+      },
+      {
+        "name": "casual",
+        "score": 0.504
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Coffee",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coffee.png"
+        },
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Opoponax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Opoponax.png"
+        },
+        {
+          "name": "Chinese Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Chinese%20Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-attitude-giorgio-armani-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/giorgio-armani/attitude-armani/men-cologne"
+  },
+  {
+    "Name": "Armani Prive Laque Giorgio Armani unisex",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-prive-laque-giorgio-armani-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "99",
+    "Longevity": "64%",
+    "Sillage": "62%",
+    "General Notes": [
+      "Aldehydes",
+      "White Flowers",
+      "Rose",
+      "Oriental Woodsy notes"
+    ],
+    "Main Accords": [
+      "white floral",
+      "aldehydic",
+      "woody",
+      "rose",
+      "fresh",
+      "soapy",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "aldehydic": "92%",
+      "woody": "83%",
+      "rose": "72%",
+      "fresh": "67%",
+      "soapy": "48%",
+      "animalic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.747
+      },
+      {
+        "name": "spring",
+        "score": 0.67
+      },
+      {
+        "name": "summer",
+        "score": 0.67
+      },
+      {
+        "name": "winter",
+        "score": 0.581
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.67
+      },
+      {
+        "name": "professional",
+        "score": 0.581
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "White Flowers",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Flowers.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oriental Woodsy notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oriental%20Woodsy%20Notes.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-prive-laque-giorgio-armani-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.macys.com/shop/brands/armani-beauty?id=31708"
+  },
+  {
+    "Name": "Armani Mania Giorgio Armani for men",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-mania-giorgio-armani-for-men.jpg",
+    "Gender": "men",
+    "Price": "59",
+    "Longevity": "62%",
+    "Sillage": "52%",
+    "General Notes": [
+      "Mandarin Orange",
+      "Saffron",
+      "Citrus Leaves",
+      "Cedar",
+      "Vetiver",
+      "Musk",
+      "Amber"
+    ],
+    "Main Accords": [
+      "woody",
+      "citrus",
+      "musky",
+      "warm spicy",
+      "aromatic",
+      "powdery",
+      "earthy",
+      "amber",
+      "metallic",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "citrus": "83%",
+      "musky": "68%",
+      "warm spicy": "63%",
+      "aromatic": "63%",
+      "powdery": "61%",
+      "earthy": "53%",
+      "amber": "52%",
+      "metallic": "50%",
+      "green": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.96
+      },
+      {
+        "name": "winter",
+        "score": 1.746
+      },
+      {
+        "name": "spring",
+        "score": 1.564
+      },
+      {
+        "name": "summer",
+        "score": 1.112
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.783
+      },
+      {
+        "name": "night out",
+        "score": 1.636
+      },
+      {
+        "name": "casual",
+        "score": 0.747
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Saffron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Saffron.png"
+        },
+        {
+          "name": "Citrus Leaves",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citrus%20Leaves.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-mania-giorgio-armani-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances?f=b-mania&mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS"
+  },
+  {
+    "Name": "Armani Code Ice Giorgio Armani for men",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-ice-giorgio-armani-for-men.jpg",
+    "Gender": "men",
+    "Price": "3.99",
+    "Longevity": "71%",
+    "Sillage": "60%",
+    "General Notes": [
+      "Mint",
+      "Ginger",
+      "Lemon",
+      "Lavender",
+      "Geranium",
+      "Sage",
+      "Woody Notes",
+      "Guaiac Wood",
+      "Tonka Bean"
+    ],
+    "Main Accords": [
+      "fresh spicy",
+      "aromatic",
+      "green",
+      "citrus",
+      "woody",
+      "lavender",
+      "fresh",
+      "herbal"
+    ],
+    "Main Accords Percentage": {
+      "fresh spicy": "100%",
+      "aromatic": "89%",
+      "green": "66%",
+      "citrus": "62%",
+      "woody": "61%",
+      "lavender": "57%",
+      "fresh": "52%",
+      "herbal": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.229
+      },
+      {
+        "name": "summer",
+        "score": 1.536
+      },
+      {
+        "name": "fall",
+        "score": 0.549
+      },
+      {
+        "name": "winter",
+        "score": 0.427
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.407
+      },
+      {
+        "name": "casual",
+        "score": 1.078
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Woody Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woody%20Notes.png"
+        },
+        {
+          "name": "Guaiac Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guaiac%20Wood.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-ice-giorgio-armani-for-men.jpg"
+    ]
+  },
+  {
+    "Name": "Emporio Armani Night Giorgio Armani for men",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/emporio-armani-night-giorgio-armani-for-men.jpg",
+    "Gender": "men",
+    "Price": "520",
+    "Longevity": "68%",
+    "Sillage": "58%",
+    "General Notes": [
+      "Grapefruit",
+      "Mandarin Orange",
+      "Bergamot",
+      "Violet",
+      "Cardamom",
+      "Sage",
+      "Tonka Bean",
+      "Cedar",
+      "Musk",
+      "Sandalwood",
+      "Patchouli",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "woody",
+      "powdery",
+      "warm spicy",
+      "aromatic",
+      "citrus",
+      "vanilla",
+      "violet",
+      "musky",
+      "patchouli",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "powdery": "92%",
+      "warm spicy": "88%",
+      "aromatic": "79%",
+      "citrus": "76%",
+      "vanilla": "69%",
+      "violet": "67%",
+      "musky": "58%",
+      "patchouli": "52%",
+      "sweet": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.617
+      },
+      {
+        "name": "fall",
+        "score": 2.49
+      },
+      {
+        "name": "spring",
+        "score": 1.237
+      },
+      {
+        "name": "summer",
+        "score": 0.76
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.65
+      },
+      {
+        "name": "night out",
+        "score": 1.709
+      },
+      {
+        "name": "casual",
+        "score": 0.978
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/emporio-armani-night-giorgio-armani-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/emporio-armani-night/s?k=emporio+armani+night"
+  },
+  {
+    "Name": "Armani Code Parfum Giorgio Armani for men",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-parfum-giorgio-armani-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "71%",
+    "Sillage": "54%",
+    "General Notes": [
+      "Bergamot",
+      "Bergamot Leaf",
+      "Iris",
+      "Aldehydes",
+      "Clary Sage",
+      "Orris",
+      "Tonka Bean",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "iris",
+      "aromatic",
+      "powdery",
+      "woody",
+      "citrus",
+      "vanilla",
+      "earthy",
+      "aldehydic",
+      "violet",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "iris": "100%",
+      "aromatic": "88%",
+      "powdery": "81%",
+      "woody": "79%",
+      "citrus": "78%",
+      "vanilla": "60%",
+      "earthy": "58%",
+      "aldehydic": "56%",
+      "violet": "54%",
+      "fresh spicy": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.318
+      },
+      {
+        "name": "fall",
+        "score": 1.175
+      },
+      {
+        "name": "winter",
+        "score": 1.093
+      },
+      {
+        "name": "summer",
+        "score": 0.78
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.543
+      },
+      {
+        "name": "casual",
+        "score": 0.702
+      },
+      {
+        "name": "night out",
+        "score": 0.42
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Bergamot Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot%20Leaf.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Clary Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clary%20Sage.png"
+        },
+        {
+          "name": "Orris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-parfum-giorgio-armani-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/giorgio-armani/armani-code/men-cologne"
+  },
+  {
+    "Name": "Armani Prive Charm' Giorgio Armani for women",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-prive-charm-giorgio-armani-for-women.jpg",
+    "Gender": "women",
+    "Price": "75",
+    "Longevity": "58%",
+    "Sillage": "72%",
+    "General Notes": [
+      "Iris",
+      "Floral Notes",
+      "Calabrian bergamot",
+      "Green Tea",
+      "Guaiac Wood",
+      "Incense",
+      "White Musk",
+      "Patchouli",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "woody",
+      "powdery",
+      "floral",
+      "iris",
+      "musky",
+      "earthy",
+      "citrus",
+      "patchouli",
+      "smoky",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "powdery": "94%",
+      "floral": "91%",
+      "iris": "82%",
+      "musky": "69%",
+      "earthy": "63%",
+      "citrus": "60%",
+      "patchouli": "60%",
+      "smoky": "60%",
+      "green": "58%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.445
+      },
+      {
+        "name": "spring",
+        "score": 1.914
+      },
+      {
+        "name": "winter",
+        "score": 1.18
+      },
+      {
+        "name": "summer",
+        "score": 0.948
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.266
+      },
+      {
+        "name": "casual",
+        "score": 1.177
+      },
+      {
+        "name": "night out",
+        "score": 0.921
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Floral Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Floral%20Notes.png"
+        },
+        {
+          "name": "Calabrian bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Calabrian%20Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Green Tea",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Tea.png"
+        },
+        {
+          "name": "Guaiac Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guaiac%20Wood.png"
+        },
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-prive-charm-giorgio-armani-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Armani Code Luna Giorgio Armani for women",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-luna-giorgio-armani-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "63%",
+    "Sillage": "60%",
+    "General Notes": [
+      "Bitter Orange",
+      "Bergamot",
+      "Petitgrain",
+      "Pear",
+      "Orange Blossom",
+      "Osmanthus",
+      "Mirabilis",
+      "Vanilla",
+      "Tonka Bean",
+      "Leather",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "citrus",
+      "vanilla",
+      "sweet",
+      "white floral",
+      "floral",
+      "fruity",
+      "aromatic",
+      "fresh",
+      "fresh spicy",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "vanilla": "81%",
+      "sweet": "67%",
+      "white floral": "64%",
+      "floral": "61%",
+      "fruity": "51%",
+      "aromatic": "48%",
+      "fresh": "45%",
+      "fresh spicy": "44%",
+      "powdery": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.296
+      },
+      {
+        "name": "summer",
+        "score": 1.45
+      },
+      {
+        "name": "winter",
+        "score": 0.729
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 2.179
+      },
+      {
+        "name": "professional",
+        "score": 1.544
+      },
+      {
+        "name": "night out",
+        "score": 0.567
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bitter Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bitter%20Orange.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Petitgrain",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Petitgrain.png"
+        },
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Osmanthus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Osmanthus.png"
+        },
+        {
+          "name": "Mirabilis",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mirabilis.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-luna-giorgio-armani-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/giorgio-armani/armani-code-luna/women-perfume"
+  },
+  {
+    "Name": "Armani Code Sheer Giorgio Armani for women",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-sheer-giorgio-armani-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "61%",
+    "Sillage": "62%",
+    "General Notes": [
+      "African Orange Flower",
+      "Cyclamen",
+      "Jasmine",
+      "Lily-of-the-Valley",
+      "Musk",
+      "Woodsy Notes"
+    ],
+    "Main Accords": [
+      "white floral",
+      "fresh",
+      "floral",
+      "musky",
+      "woody",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "fresh": "55%",
+      "floral": "55%",
+      "musky": "47%",
+      "woody": "46%",
+      "citrus": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.505
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0.837
+      },
+      {
+        "name": "winter",
+        "score": 0.322
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.34
+      },
+      {
+        "name": "professional",
+        "score": 0.682
+      },
+      {
+        "name": "night out",
+        "score": 0.423
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "African Orange Flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/African%20Orange%20Flower.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Woodsy Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woodsy%20Notes.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-sheer-giorgio-armani-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/giorgio-armani/armani-code-sheer/women-perfume"
+  },
+  {
+    "Name": "Armani Prive Ambre Orient Giorgio Armani unisex",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-prive-ambre-orient-giorgio-armani-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "79%",
+    "Sillage": "75%",
+    "General Notes": [],
+    "Main Accords": [
+      "amber",
+      "woody",
+      "warm spicy",
+      "vanilla",
+      "powdery",
+      "soft spicy",
+      "aromatic",
+      "cinnamon",
+      "balsamic",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "amber": "100%",
+      "woody": "66%",
+      "warm spicy": "61%",
+      "vanilla": "60%",
+      "powdery": "53%",
+      "soft spicy": "52%",
+      "aromatic": "50%",
+      "cinnamon": "50%",
+      "balsamic": "49%",
+      "musky": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.755
+      },
+      {
+        "name": "fall",
+        "score": 2.514
+      },
+      {
+        "name": "spring",
+        "score": 0.35
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.34
+      },
+      {
+        "name": "professional",
+        "score": 1.28
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-prive-ambre-orient-giorgio-armani-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.armani.com/en-us/giorgio-armani/fragrances/armani-prive/"
+  },
+  {
+    "Name": "Armani Code Sport Giorgio Armani for men",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-sport-giorgio-armani-for-men.jpg",
+    "Gender": "men",
+    "Price": "59",
+    "Longevity": "69%",
+    "Sillage": "60%",
+    "General Notes": [
+      "Mint",
+      "Mandarin Orange",
+      "Lemon",
+      "Ginger flower",
+      "Water Notes",
+      "Vetiver",
+      "Amber"
+    ],
+    "Main Accords": [
+      "citrus",
+      "aromatic",
+      "green",
+      "fresh spicy",
+      "fresh",
+      "aquatic"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "aromatic": "75%",
+      "green": "71%",
+      "fresh spicy": "69%",
+      "fresh": "57%",
+      "aquatic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.563
+      },
+      {
+        "name": "summer",
+        "score": 2.392
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.189
+      },
+      {
+        "name": "casual",
+        "score": 1.822
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Ginger flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger%20Flower.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Water Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Notes.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-sport-giorgio-armani-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances?f=b-armani-code-sport&mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS"
+  },
+  {
+    "Name": "Emporio Armani Lui Giorgio Armani for men",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/emporio-armani-lui-giorgio-armani-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "59%",
+    "Sillage": "53%",
+    "General Notes": [
+      "Sage",
+      "Yuzu",
+      "Apple",
+      "Bergamot",
+      "Lemon",
+      "Pineapple",
+      "Mandarin Orange",
+      "Cardamom",
+      "Nutmeg",
+      "Orris Root",
+      "Jasmine",
+      "Cyclamen",
+      "Rose",
+      "Sandalwood",
+      "Oakmoss",
+      "Cedar",
+      "Tonka Bean",
+      "Musk",
+      "Amber"
+    ],
+    "Main Accords": [
+      "woody",
+      "citrus",
+      "aromatic",
+      "powdery",
+      "fruity",
+      "fresh spicy",
+      "sweet",
+      "warm spicy",
+      "mossy",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "citrus": "99%",
+      "aromatic": "80%",
+      "powdery": "75%",
+      "fruity": "65%",
+      "fresh spicy": "64%",
+      "sweet": "59%",
+      "warm spicy": "59%",
+      "mossy": "55%",
+      "musky": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.867
+      },
+      {
+        "name": "spring",
+        "score": 1.451
+      },
+      {
+        "name": "winter",
+        "score": 1.29
+      },
+      {
+        "name": "summer",
+        "score": 0.99
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.742
+      },
+      {
+        "name": "casual",
+        "score": 1.245
+      },
+      {
+        "name": "night out",
+        "score": 0.967
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        },
+        {
+          "name": "Yuzu",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Yuzu.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/emporio-armani-lui-giorgio-armani-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.it/Giorgio-Armani-Emporio-Toilette-Uomo/dp/B000NWD138"
+  },
+  {
+    "Name": "Armani Code Satin Giorgio Armani for women",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-satin-giorgio-armani-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "71%",
+    "Sillage": "64%",
+    "General Notes": [
+      "Ginger",
+      "Sorbet",
+      "Pear",
+      "Orange Blossom",
+      "Neroli",
+      "Jasmine",
+      "Vanilla",
+      "Cacao",
+      "Praline",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "sweet",
+      "white floral",
+      "vanilla",
+      "cacao",
+      "warm spicy",
+      "citrus",
+      "fresh spicy",
+      "fresh",
+      "fruity",
+      "patchouli"
+    ],
+    "Main Accords Percentage": {
+      "sweet": "100%",
+      "white floral": "81%",
+      "vanilla": "72%",
+      "cacao": "68%",
+      "warm spicy": "61%",
+      "citrus": "56%",
+      "fresh spicy": "53%",
+      "fresh": "53%",
+      "fruity": "47%",
+      "patchouli": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.626
+      },
+      {
+        "name": "summer",
+        "score": 1.09
+      },
+      {
+        "name": "spring",
+        "score": 1.034
+      },
+      {
+        "name": "fall",
+        "score": 0.81
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.634
+      },
+      {
+        "name": "night out",
+        "score": 0.992
+      },
+      {
+        "name": "professional",
+        "score": 0.448
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Sorbet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sorbet.png"
+        },
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Cacao",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+        },
+        {
+          "name": "Praline",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Praline.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/armani-code-satin-giorgio-armani-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/giorgio-armani/armani-code/women-perfume"
+  },
+  {
+    "Name": "Emporio Armani She Giorgio Armani for women",
+    "Brand": "Giorgio Armani",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/emporio-armani-she-giorgio-armani-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "63%",
+    "Sillage": "52%",
+    "General Notes": [
+      "Citruses",
+      "Pear",
+      "Heliotrope",
+      "Cardamom",
+      "Angelica",
+      "Jasmine",
+      "White Musk",
+      "Almond",
+      "Cedar",
+      "Vanilla",
+      "Amber"
+    ],
+    "Main Accords": [
+      "powdery",
+      "musky",
+      "almond",
+      "vanilla",
+      "amber",
+      "sweet",
+      "fruity",
+      "citrus",
+      "woody",
+      "warm spicy"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "musky": "88%",
+      "almond": "77%",
+      "vanilla": "75%",
+      "amber": "62%",
+      "sweet": "58%",
+      "fruity": "58%",
+      "citrus": "56%",
+      "woody": "54%",
+      "warm spicy": "52%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.314
+      },
+      {
+        "name": "winter",
+        "score": 2.069
+      },
+      {
+        "name": "summer",
+        "score": 0.56
+      },
+      {
+        "name": "spring",
+        "score": 0.504
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.353
+      },
+      {
+        "name": "professional",
+        "score": 1.426
+      },
+      {
+        "name": "casual",
+        "score": 0.852
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        },
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Heliotrope",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Heliotrope.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Angelica",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Angelica.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Almond",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Almond.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/emporio-armani-she-giorgio-armani-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/giorgio-armani/emporio-armani/women-perfume"
+  }
+]

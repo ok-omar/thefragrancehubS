@@ -1,0 +1,2403 @@
+[
+  {
+    "Name": "Prada",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada.jpg",
+    "Gender": "men",
+    "Price": "176.99",
+    "Longevity": "73.8%",
+    "Sillage": "64.5%",
+    "General Notes": [
+      "Mandarin orange",
+      "Neroli",
+      "Bergamot",
+      "Cardamom",
+      "Orange blossom"
+    ],
+    "Main Accords": [
+      "woody",
+      "warm spicy",
+      "patchouli",
+      "amber",
+      "balsamic",
+      "powdery",
+      "earthy",
+      "citrus",
+      "musky",
+      "vanilla"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "warm spicy": "94%",
+      "patchouli": "92%",
+      "amber": "75%",
+      "balsamic": "64%",
+      "powdery": "55%",
+      "earthy": "55%",
+      "citrus": "49%",
+      "musky": "47%",
+      "vanilla": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.909
+      },
+      {
+        "name": "winter",
+        "score": 3.838
+      },
+      {
+        "name": "summer",
+        "score": 0.49
+      },
+      {
+        "name": "spring",
+        "score": 0.441
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.247
+      },
+      {
+        "name": "professional",
+        "score": 1.422
+      },
+      {
+        "name": "casual",
+        "score": 0.441
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Bitter Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bitter%20Orange.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Mimosa",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mimosa.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/243473.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/prada/prada/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#243473"
+  },
+  {
+    "Name": "Prada Prada for women",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-prada-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "77%",
+    "Sillage": "74%",
+    "General Notes": [
+      "Fruity Notes",
+      "Green Notes",
+      "Tarragon",
+      "Bergamot",
+      "Rose",
+      "Honey",
+      "Carnation",
+      "Jasmine",
+      "Ylang-Ylang",
+      "Patchouli",
+      "Moss",
+      "Vanilla",
+      "Musk",
+      "Benzoin",
+      "Sandalwood",
+      "Ambergris"
+    ],
+    "Main Accords": [
+      "woody",
+      "warm spicy",
+      "sweet",
+      "floral",
+      "amber",
+      "earthy",
+      "mossy",
+      "patchouli",
+      "aromatic",
+      "rose"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "warm spicy": "89%",
+      "sweet": "82%",
+      "floral": "81%",
+      "amber": "76%",
+      "earthy": "74%",
+      "mossy": "70%",
+      "patchouli": "70%",
+      "aromatic": "68%",
+      "rose": "67%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.454
+      },
+      {
+        "name": "winter",
+        "score": 2.758
+      },
+      {
+        "name": "spring",
+        "score": 1.286
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.472
+      },
+      {
+        "name": "professional",
+        "score": 1.38
+      },
+      {
+        "name": "casual",
+        "score": 1.059
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Fruity Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruity%20Notes.png"
+        },
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Tarragon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tarragon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Honey",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Honey.png"
+        },
+        {
+          "name": "Carnation",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carnation.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moss.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-prada-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.prada.com/us/en.html"
+  },
+  {
+    "Name": "Prada Tendre Prada for women",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-tendre-prada-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "68%",
+    "Sillage": "64%",
+    "General Notes": [
+      "Bergamot",
+      "Neroli",
+      "Mandarin Orange",
+      "Lemon",
+      "Tea Leaf",
+      "Tahitian Vetiver",
+      "Guatemalan Cardamom",
+      "Indian Jasmine",
+      "Indonesian Patchouli Leaf",
+      "Benzoin",
+      "Sandalwood",
+      "Virginia Cedar",
+      "French labdanum"
+    ],
+    "Main Accords": [
+      "woody",
+      "citrus",
+      "warm spicy",
+      "aromatic",
+      "amber",
+      "patchouli",
+      "green",
+      "earthy",
+      "white floral",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "citrus": "80%",
+      "warm spicy": "75%",
+      "aromatic": "65%",
+      "amber": "62%",
+      "patchouli": "56%",
+      "green": "52%",
+      "earthy": "52%",
+      "white floral": "51%",
+      "balsamic": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.928
+      },
+      {
+        "name": "winter",
+        "score": 2.73
+      },
+      {
+        "name": "spring",
+        "score": 1.591
+      },
+      {
+        "name": "summer",
+        "score": 1.112
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.458
+      },
+      {
+        "name": "night out",
+        "score": 1.22
+      },
+      {
+        "name": "casual",
+        "score": 0.72
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tea Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tea%20Leaf.png"
+        },
+        {
+          "name": "Tahitian Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tahitian%20Vetiver.png"
+        },
+        {
+          "name": "Guatemalan Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guatemalan%20Cardamom.png"
+        },
+        {
+          "name": "Indian Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Indian%20Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Indonesian Patchouli Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Indonesian%20Patchouli%20Leaf.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        },
+        {
+          "name": "French labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/French%20Labdanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-tendre-prada-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/prada/prada-tendre/women-perfume"
+  },
+  {
+    "Name": "Prada Intense Prada for women",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-intense-prada-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "74%",
+    "Sillage": "68%",
+    "General Notes": [
+      "Orange",
+      "Bitter Orange",
+      "Bergamot",
+      "Mandarin Blossom",
+      "Patchouli",
+      "Peru Balsam",
+      "Tincture of Rose",
+      "Mimosa",
+      "Tonka Bean",
+      "Vanille",
+      "French labdanum",
+      "Sandalwood",
+      "Musk"
+    ],
+    "Main Accords": [
+      "woody",
+      "amber",
+      "balsamic",
+      "vanilla",
+      "patchouli",
+      "citrus",
+      "warm spicy",
+      "powdery",
+      "sweet",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "amber": "95%",
+      "balsamic": "90%",
+      "vanilla": "82%",
+      "patchouli": "73%",
+      "citrus": "68%",
+      "warm spicy": "67%",
+      "powdery": "66%",
+      "sweet": "60%",
+      "musky": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 4.082
+      },
+      {
+        "name": "fall",
+        "score": 3.392
+      },
+      {
+        "name": "summer",
+        "score": 0.68
+      },
+      {
+        "name": "spring",
+        "score": 0.612
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.555
+      },
+      {
+        "name": "professional",
+        "score": 1.64
+      },
+      {
+        "name": "casual",
+        "score": 0.972
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        },
+        {
+          "name": "Bitter Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bitter%20Orange.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Blossom.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Peru Balsam",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peru%20Balsam.png"
+        },
+        {
+          "name": "Tincture of Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tincture%20Of%20Rose.png"
+        },
+        {
+          "name": "Mimosa",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mimosa.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Vanille",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanille.png"
+        },
+        {
+          "name": "French labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/French%20Labdanum.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-intense-prada-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/prada/prada-paradoxe-intense/women-perfume"
+  },
+  {
+    "Name": "Prada Les Infusion De Prada",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-les-infusion-de-prada.jpg",
+    "Gender": "women",
+    "Price": "203.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [
+      "Mandarin Orange",
+      "Fig",
+      "Mastic or Lentisque",
+      "Galbanum"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "citrus",
+      "powdery",
+      "musky",
+      "smoky",
+      "fresh spicy",
+      "amber",
+      "aromatic",
+      "white floral"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "green": "98%",
+      "aromatic": "95%",
+      "balsamic": "95%",
+      "woody": "73%",
+      "sweet": "73%",
+      "citrus": "64%",
+      "terpenic": "56%",
+      "bitter": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.025
+      },
+      {
+        "name": "summer",
+        "score": 1.228
+      },
+      {
+        "name": "winter",
+        "score": 1.176
+      },
+      {
+        "name": "fall",
+        "score": 0.657
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.855
+      },
+      {
+        "name": "casual",
+        "score": 1.014
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Fig",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fig.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Mastic or Lentisque",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mastic%20Or%20Lentisque.png"
+        },
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/304144.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/prada/prada-les-infusion-de-prada/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#304144"
+  },
+  {
+    "Name": "Prada Amber",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-amber.jpg",
+    "Gender": "men",
+    "Price": "142.99",
+    "Longevity": "71.4%",
+    "Sillage": "56.5%",
+    "General Notes": [
+      "patchouli",
+      "labdanum",
+      "leather",
+      "vanilla",
+      "bergamot"
+    ],
+    "Main Accords": [
+      "warm spicy",
+      "amber",
+      "aromatic",
+      "citrus",
+      "woody",
+      "musky",
+      "vanilla",
+      "sweet",
+      "leather",
+      "white floral"
+    ],
+    "Main Accords Percentage": {
+      "warm spicy": "100%",
+      "amber": "80%",
+      "aromatic": "74%",
+      "citrus": "69%",
+      "woody": "65%",
+      "musky": "62%",
+      "vanilla": "60%",
+      "sweet": "58%",
+      "leather": "57%",
+      "white floral": "57%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.743
+      },
+      {
+        "name": "winter",
+        "score": 2.635
+      },
+      {
+        "name": "spring",
+        "score": 1.139
+      },
+      {
+        "name": "summer",
+        "score": 0.69
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.92
+      },
+      {
+        "name": "professional",
+        "score": 1.747
+      },
+      {
+        "name": "casual",
+        "score": 0.969
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Myrrh",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Myrrh.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Saffron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Saffron.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/148131.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/prada/prada-amber/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#148131"
+  },
+  {
+    "Name": "Prada Intense",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-intense.jpg",
+    "Gender": "men",
+    "Price": "15.59",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [
+      "Patchouli",
+      "Labdanum",
+      "Amber",
+      "Musk",
+      "Saffron"
+    ],
+    "Main Accords": [
+      "iris",
+      "powdery",
+      "amber",
+      "woody",
+      "earthy",
+      "leather",
+      "violet",
+      "vanilla",
+      "warm spicy",
+      "patchouli"
+    ],
+    "Main Accords Percentage": {},
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/347661.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/prada/prada-intense/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#208758"
+  },
+  {
+    "Name": "Prada Paradoxe",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-paradoxe.jpg",
+    "Gender": "women",
+    "Price": "184.99",
+    "Longevity": "68.2%",
+    "Sillage": "57.5%",
+    "General Notes": [
+      "Pear",
+      "Tangerine",
+      "Bergamot",
+      "Orange Blossom",
+      "Neroli Essence",
+      "Neroli",
+      "Jasmine Sambac",
+      "Bourbon Vanilla",
+      "Amber",
+      "White Musk",
+      "Benzoin"
+    ],
+    "Main Accords": [
+      "white floral",
+      "citrus",
+      "sweet",
+      "amber",
+      "vanilla",
+      "powdery",
+      "fruity",
+      "musky",
+      "fresh"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "citrus": "89%",
+      "sweet": "62%",
+      "amber": "61%",
+      "vanilla": "60%",
+      "powdery": "51%",
+      "fruity": "50%",
+      "musky": "48%",
+      "fresh": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.35
+      },
+      {
+        "name": "spring",
+        "score": 1.261
+      },
+      {
+        "name": "fall",
+        "score": 1.042
+      },
+      {
+        "name": "winter",
+        "score": 1.028
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.633
+      },
+      {
+        "name": "night out",
+        "score": 1.462
+      },
+      {
+        "name": "professional",
+        "score": 1.018
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        },
+        {
+          "name": "Tangerine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tangerine.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Neroli Essence",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli%20Essence.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/446869.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/prada/prada-paradoxe/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#446869"
+  },
+  {
+    "Name": "Prada Variety",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-variety.jpg",
+    "Gender": "women",
+    "Price": "90.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [
+      "Caramel",
+      "Powdery Notes",
+      "Musk",
+      "Benzoin",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "woody",
+      "warm spicy",
+      "patchouli",
+      "amber",
+      "balsamic",
+      "powdery",
+      "earthy",
+      "citrus",
+      "musky",
+      "vanilla"
+    ],
+    "Main Accords Percentage": {
+      "caramel": "100%",
+      "powdery": "79%",
+      "amber": "65%",
+      "sweet": "65%",
+      "vanilla": "63%",
+      "musky": "56%",
+      "warm spicy": "48%",
+      "balsamic": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.896
+      },
+      {
+        "name": "fall",
+        "score": 1.538
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.979
+      },
+      {
+        "name": "professional",
+        "score": 0.474
+      },
+      {
+        "name": "casual",
+        "score": 0.39
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Caramel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caramel.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Powdery Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Powdery%20Notes.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/357509.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/prada/prada-variety/4-piece-mini-variety-with-prada-la-femme-eau-de-parfum-x-2-and-prada-la-femme-leau-edt-x-2-and-all-are-0.30-oz-mini?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#357509"
+  },
+  {
+    "Name": "Prada L'Homme",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-lhomme.jpg",
+    "Gender": "men",
+    "Price": "129.99",
+    "Longevity": "68.0%",
+    "Sillage": "52.25%",
+    "General Notes": [
+      "Neroli",
+      "Carrot Seeds",
+      "Mate",
+      "Violet",
+      "Iris"
+    ],
+    "Main Accords": [
+      "powdery",
+      "iris",
+      "violet",
+      "woody",
+      "fresh spicy",
+      "warm spicy",
+      "aromatic",
+      "earthy",
+      "amber",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "iris": "88%",
+      "violet": "84%",
+      "woody": "78%",
+      "fresh spicy": "65%",
+      "warm spicy": "61%",
+      "aromatic": "58%",
+      "earthy": "57%",
+      "amber": "55%",
+      "floral": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.196
+      },
+      {
+        "name": "winter",
+        "score": 1.596
+      },
+      {
+        "name": "spring",
+        "score": 0.896
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.726
+      },
+      {
+        "name": "night out",
+        "score": 1.038
+      },
+      {
+        "name": "casual",
+        "score": 0.343
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Black Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Pepper.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Carrot Seeds",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carrot%20Seeds.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Mate",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mate.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/288429.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/prada/prada-lhomme/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#288429"
+  },
+  {
+    "Name": "Prada Candy",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-candy.jpg",
+    "Gender": "women",
+    "Price": "159.99",
+    "Longevity": "58.2%",
+    "Sillage": "48.5%",
+    "General Notes": [
+      "Caramel",
+      "Musk",
+      "Powdery Notes",
+      "Benzoin",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "caramel",
+      "powdery",
+      "amber",
+      "sweet",
+      "vanilla",
+      "musky",
+      "warm spicy",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "caramel": "100%",
+      "powdery": "79%",
+      "amber": "65%",
+      "sweet": "65%",
+      "vanilla": "63%",
+      "musky": "56%",
+      "warm spicy": "48%",
+      "balsamic": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.896
+      },
+      {
+        "name": "fall",
+        "score": 1.538
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.979
+      },
+      {
+        "name": "professional",
+        "score": 0.474
+      },
+      {
+        "name": "casual",
+        "score": 0.39
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Caramel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caramel.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Powdery Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Powdery%20Notes.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/217589.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/prada/prada-candy/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#217589"
+  },
+  {
+    "Name": "Prada L'Homme Absolu Prada for men",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-lhomme-absolu-prada-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "71%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Cardamom",
+      "Black Pepper",
+      "Green Mandarin",
+      "Bergamot",
+      "Iris",
+      "Geranium",
+      "Neroli",
+      "Amber",
+      "Labdanum",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "fresh spicy",
+      "warm spicy",
+      "citrus",
+      "aromatic",
+      "amber",
+      "iris",
+      "woody",
+      "powdery",
+      "violet",
+      "earthy"
+    ],
+    "Main Accords Percentage": {
+      "fresh spicy": "100%",
+      "warm spicy": "90%",
+      "citrus": "89%",
+      "aromatic": "87%",
+      "amber": "81%",
+      "iris": "72%",
+      "woody": "69%",
+      "powdery": "66%",
+      "violet": "51%",
+      "earthy": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.527
+      },
+      {
+        "name": "winter",
+        "score": 2.031
+      },
+      {
+        "name": "spring",
+        "score": 1.41
+      },
+      {
+        "name": "summer",
+        "score": 0.89
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.461
+      },
+      {
+        "name": "night out",
+        "score": 1.53
+      },
+      {
+        "name": "casual",
+        "score": 0.801
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Black Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Pepper.png"
+        },
+        {
+          "name": "Green Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Mandarin.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-l-homme-absolu-prada-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/prada/prada-l-homme-absolu-cologne"
+  },
+  {
+    "Name": "Prada Candy L'Eau Prada for women",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-candy-leau-prada-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "57%",
+    "Sillage": "54%",
+    "General Notes": [
+      "Citruses",
+      "Sweet Pea",
+      "Caramel",
+      "Benzoin",
+      "White Musk"
+    ],
+    "Main Accords": [
+      "caramel",
+      "sweet",
+      "amber",
+      "citrus",
+      "musky",
+      "floral",
+      "warm spicy",
+      "fresh",
+      "powdery",
+      "vanilla"
+    ],
+    "Main Accords Percentage": {
+      "caramel": "100%",
+      "sweet": "91%",
+      "amber": "83%",
+      "citrus": "76%",
+      "musky": "76%",
+      "floral": "72%",
+      "warm spicy": "57%",
+      "fresh": "53%",
+      "powdery": "53%",
+      "vanilla": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.97
+      },
+      {
+        "name": "spring",
+        "score": 1.934
+      },
+      {
+        "name": "winter",
+        "score": 1.675
+      },
+      {
+        "name": "summer",
+        "score": 1.29
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.313
+      },
+      {
+        "name": "casual",
+        "score": 2.264
+      },
+      {
+        "name": "professional",
+        "score": 0.926
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sweet Pea",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sweet%20Pea.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Caramel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caramel.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-candy-l-eau-prada-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.prada-beauty.com/fragrance/candy/"
+  },
+  {
+    "Name": "Prada Candy Collector's Edition Prada for women",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-candy-collectors-edition-prada-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "63%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Caramel",
+      "White Musk",
+      "Powdery Notes",
+      "Benzoin",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "powdery",
+      "musky",
+      "vanilla",
+      "caramel",
+      "amber",
+      "sweet",
+      "warm spicy",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "musky": "81%",
+      "vanilla": "74%",
+      "caramel": "72%",
+      "amber": "66%",
+      "sweet": "58%",
+      "warm spicy": "48%",
+      "balsamic": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.996
+      },
+      {
+        "name": "fall",
+        "score": 1.773
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.291
+      },
+      {
+        "name": "professional",
+        "score": 0.6
+      },
+      {
+        "name": "casual",
+        "score": 0.348
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Caramel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caramel.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Powdery Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Powdery%20Notes.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-candy-collector-s-edition-prada-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.prada-beauty.com/fragrance/candy/"
+  },
+  {
+    "Name": "Prada L'Homme Velvet Edition Prada for men",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-lhomme-velvet-edition-prada-for-men.jpg",
+    "Gender": "men",
+    "Price": "89",
+    "Longevity": "61%",
+    "Sillage": "68%",
+    "General Notes": [
+      "Neroli",
+      "Carrot Seeds",
+      "Cardamom",
+      "Black Pepper",
+      "Iris",
+      "Mate",
+      "Geranium",
+      "Violet",
+      "Cedar",
+      "Sandalwood",
+      "Amber",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "powdery",
+      "woody",
+      "fresh spicy",
+      "aromatic",
+      "warm spicy",
+      "iris",
+      "violet",
+      "earthy",
+      "fresh",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "woody": "88%",
+      "fresh spicy": "80%",
+      "aromatic": "78%",
+      "warm spicy": "69%",
+      "iris": "69%",
+      "violet": "63%",
+      "earthy": "49%",
+      "fresh": "48%",
+      "citrus": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.736
+      },
+      {
+        "name": "spring",
+        "score": 1.449
+      },
+      {
+        "name": "winter",
+        "score": 1.306
+      },
+      {
+        "name": "summer",
+        "score": 0.95
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.372
+      },
+      {
+        "name": "casual",
+        "score": 0.903
+      },
+      {
+        "name": "night out",
+        "score": 0.552
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Carrot Seeds",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carrot%20Seeds.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Black Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Mate",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mate.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-l-homme-velvet-edition-prada-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.nordstromrack.com/s/lhomme-prada-eau-de-toilette/8091348"
+  },
+  {
+    "Name": "Prada Paradoxe Intense",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-paradoxe-intense.jpg",
+    "Gender": "women",
+    "Price": "159.99",
+    "Longevity": "77.8%",
+    "Sillage": "67.0%",
+    "General Notes": [
+      "jasmine",
+      "neroli",
+      "vanilla",
+      "bourbon vanilla",
+      "amber"
+    ],
+    "Main Accords": [
+      "white floral",
+      "vanilla",
+      "mossy",
+      "citrus",
+      "amber",
+      "fruity",
+      "sweet",
+      "earthy",
+      "fresh",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "vanilla": "92%",
+      "mossy": "81%",
+      "citrus": "76%",
+      "fruity": "70%",
+      "amber": "70%",
+      "sweet": "69%",
+      "earthy": "66%",
+      "fresh": "64%",
+      "powdery": "57%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.4
+      },
+      {
+        "name": "winter",
+        "score": 1.388
+      },
+      {
+        "name": "spring",
+        "score": 1.324
+      },
+      {
+        "name": "fall",
+        "score": 1.228
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.738
+      },
+      {
+        "name": "night out",
+        "score": 1.344
+      },
+      {
+        "name": "professional",
+        "score": 0.95
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moss.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Neroli Essence",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli%20Essence.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Ambrofix™",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrofix%E2%84%A2.png"
+        },
+        {
+          "name": "Serenolide",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Serenolide.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/476710.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/prada/prada-paradoxe-intense/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#476710"
+  },
+  {
+    "Name": "Prada Luna Rossa",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-luna-rossa.jpg",
+    "Gender": "men",
+    "Price": "134.99",
+    "Longevity": "63.4%",
+    "Sillage": "51.75%",
+    "General Notes": [
+      "Lavender",
+      "Bitter Orange",
+      "Mint",
+      "Clary Sage",
+      "Ambroxan",
+      "Ambrette (Musk Mallow)"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "lavender",
+      "green",
+      "fresh spicy",
+      "citrus",
+      "musky",
+      "amber",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "lavender": "78%",
+      "green": "67%",
+      "fresh spicy": "66%",
+      "citrus": "64%",
+      "musky": "59%",
+      "amber": "50%",
+      "floral": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.282
+      },
+      {
+        "name": "summer",
+        "score": 1.042
+      },
+      {
+        "name": "fall",
+        "score": 1.031
+      },
+      {
+        "name": "winter",
+        "score": 0.4
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.115
+      },
+      {
+        "name": "night out",
+        "score": 1.031
+      },
+      {
+        "name": "casual",
+        "score": 0.905
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Bitter Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bitter%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Clary Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clary%20Sage.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambrette (Musk Mallow)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrette%20(musk%20Mallow).png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/226539.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/prada/prada-luna-rossa/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#226539"
+  },
+  {
+    "Name": "Prada L'Homme Intense",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-lhomme-intense.jpg",
+    "Gender": "men",
+    "Price": "154.99",
+    "Longevity": "75.8%",
+    "Sillage": "59.5%",
+    "General Notes": [
+      "Leather",
+      "Patchouli",
+      "Tonka Bean",
+      "Iris",
+      "Amber"
+    ],
+    "Main Accords": [
+      "iris",
+      "powdery",
+      "amber",
+      "woody",
+      "earthy",
+      "leather",
+      "violet",
+      "vanilla",
+      "warm spicy",
+      "patchouli"
+    ],
+    "Main Accords Percentage": {
+      "iris": "100%",
+      "powdery": "87%",
+      "amber": "83%",
+      "woody": "80%",
+      "earthy": "69%",
+      "leather": "68%",
+      "violet": "65%",
+      "vanilla": "61%",
+      "warm spicy": "60%",
+      "patchouli": "57%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.981
+      },
+      {
+        "name": "winter",
+        "score": 2.829
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.145
+      },
+      {
+        "name": "professional",
+        "score": 1.082
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/300615.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/prada/prada-lhomme-intense/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#300615"
+  },
+  {
+    "Name": "Prada Candy Kiss",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-candy-kiss.jpg",
+    "Gender": "women",
+    "Price": "110.99",
+    "Longevity": "62.2%",
+    "Sillage": "50.75%",
+    "General Notes": [
+      "Musk",
+      "Bergamot",
+      "Orange blossom",
+      "Vanilla",
+      "Lily of the valley"
+    ],
+    "Main Accords": [
+      "musky",
+      "white floral",
+      "vanilla",
+      "powdery",
+      "sweet",
+      "citrus",
+      "animalic",
+      "soapy"
+    ],
+    "Main Accords Percentage": {
+      "musky": "100%",
+      "white floral": "89%",
+      "vanilla": "84%",
+      "powdery": "81%",
+      "sweet": "66%",
+      "citrus": "59%",
+      "animalic": "52%",
+      "soapy": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.9
+      },
+      {
+        "name": "winter",
+        "score": 0.756
+      },
+      {
+        "name": "summer",
+        "score": 0.59
+      },
+      {
+        "name": "spring",
+        "score": 0.531
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.488
+      },
+      {
+        "name": "professional",
+        "score": 0.958
+      },
+      {
+        "name": "casual",
+        "score": 0.927
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/401209.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/prada/prada-candy-kiss/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#284576"
+  },
+  {
+    "Name": "Prada La Femme",
+    "Brand": "Prada",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/prada-la-femme.jpg",
+    "Gender": "women",
+    "Price": "149.99",
+    "Longevity": "62.2%",
+    "Sillage": "57.75%",
+    "General Notes": [
+      "Tuberose",
+      "Vanilla",
+      "Frangipani",
+      "Iris",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "floral",
+      "tuberose",
+      "beeswax",
+      "tropical",
+      "white floral",
+      "yellow floral",
+      "animalic",
+      "woody",
+      "honey",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "tuberose": "76%",
+      "beeswax": "71%",
+      "tropical": "69%",
+      "white floral": "67%",
+      "yellow floral": "64%",
+      "animalic": "64%",
+      "woody": "64%",
+      "honey": "61%",
+      "powdery": "60%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0.576
+      },
+      {
+        "name": "summer",
+        "score": 0.552
+      },
+      {
+        "name": "winter",
+        "score": 0.448
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.808
+      },
+      {
+        "name": "casual",
+        "score": 0.7
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Carrot Seeds",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carrot%20Seeds.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Frangipani",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Frangipani.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Spices",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Spices.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Beeswax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Beeswax.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/288431.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/prada/prada-la-femme/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#288431"
+  }
+]

@@ -1,0 +1,5394 @@
+[
+  {
+    "Name": "Addict To Life Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/addict-to-life-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "17.99",
+    "Longevity": "63%",
+    "Sillage": "60%",
+    "General Notes": [
+      "Raspberry",
+      "Peach",
+      "Pomegranate",
+      "Rose",
+      "Lily-of-the-Valley",
+      "Jasmine",
+      "Musk",
+      "Virginia Cedar"
+    ],
+    "Main Accords": [
+      "white floral",
+      "rose",
+      "fruity",
+      "sweet",
+      "musky",
+      "floral",
+      "woody",
+      "fresh",
+      "powdery",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "rose": "90%",
+      "fruity": "84%",
+      "sweet": "63%",
+      "musky": "59%",
+      "floral": "58%",
+      "woody": "57%",
+      "fresh": "55%",
+      "powdery": "51%",
+      "green": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.482
+      },
+      {
+        "name": "fall",
+        "score": 1.044
+      },
+      {
+        "name": "summer",
+        "score": 0.814
+      },
+      {
+        "name": "winter",
+        "score": 0.399
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.334
+      },
+      {
+        "name": "professional",
+        "score": 1.101
+      },
+      {
+        "name": "night out",
+        "score": 0.531
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Raspberry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Raspberry.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        },
+        {
+          "name": "Pomegranate",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pomegranate.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/addict-to-life-dior-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Aqua Fahrenheit Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/aqua-fahrenheit-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "74%",
+    "Sillage": "64%",
+    "General Notes": [
+      "Grapefruit",
+      "Mandarin Orange",
+      "Violet",
+      "Mint",
+      "Basil",
+      "Leather",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "citrus",
+      "aromatic",
+      "fresh spicy",
+      "green",
+      "violet",
+      "leather",
+      "powdery",
+      "woody",
+      "animalic",
+      "fresh"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "aromatic": "95%",
+      "fresh spicy": "86%",
+      "green": "82%",
+      "violet": "77%",
+      "leather": "68%",
+      "powdery": "63%",
+      "woody": "53%",
+      "animalic": "49%",
+      "fresh": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.671
+      },
+      {
+        "name": "summer",
+        "score": 1.942
+      },
+      {
+        "name": "fall",
+        "score": 0.477
+      },
+      {
+        "name": "winter",
+        "score": 0.371
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 3.237
+      },
+      {
+        "name": "casual",
+        "score": 1.35
+      },
+      {
+        "name": "night out",
+        "score": 0.408
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/aqua-fahrenheit-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/aqua-fahrenheit/men-cologne"
+  },
+  {
+    "Name": "Chirstian Dior Eau Sauvage Edt",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/chirstian-dior-eau-sauvage-edt.jpg",
+    "Gender": "Men",
+    "Price": "69.00",
+    "Longevity": "55.6%",
+    "Sillage": "49.25%",
+    "General Notes": [
+      "Lemon",
+      "Bergamot",
+      "Basil",
+      "Rosemary",
+      "Caraway",
+      "Fruity Notes",
+      "Jasmine",
+      "Coriander",
+      "Carnation",
+      "Patchouli",
+      "Orris Root",
+      "Sandalwood",
+      "Rose",
+      "Lavender",
+      "Hedione",
+      "Oakmoss",
+      "Vetiver",
+      "Musk",
+      "Amber"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "citrus",
+      "fresh spicy",
+      "woody",
+      "earthy",
+      "mossy",
+      "green",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "citrus": "93%",
+      "fresh spicy": "79%",
+      "woody": "67%",
+      "earthy": "56%",
+      "mossy": "48%",
+      "green": "47%",
+      "floral": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.353
+      },
+      {
+        "name": "summer",
+        "score": 1.212
+      },
+      {
+        "name": "fall",
+        "score": 1.051
+      },
+      {
+        "name": "winter",
+        "score": 0.469
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.636
+      },
+      {
+        "name": "casual",
+        "score": 1.145
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        },
+        {
+          "name": "Rosemary",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rosemary.png"
+        },
+        {
+          "name": "Caraway",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caraway.png"
+        },
+        {
+          "name": "Fruity Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruity%20Notes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Carnation",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carnation.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Hedione",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hedione.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/51aO1BpZ7zL._SL1000.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/chirstian-dior-eau-sauvage-edt?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Christian Dior Dior Sauvage Edp",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/christian-dior-dior-sauvage-edp.jpg",
+    "Gender": "Men",
+    "Price": "85.00",
+    "Longevity": "75.2%",
+    "Sillage": "66.0%",
+    "General Notes": [
+      "Bergamot",
+      "Sichuan Pepper",
+      "Lavender",
+      "Star Anise",
+      "Nutmeg",
+      "Ambroxan",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "fresh spicy",
+      "citrus",
+      "amber",
+      "lavender",
+      "musky",
+      "aromatic",
+      "herbal",
+      "anis",
+      "soft spicy",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "fresh spicy": "100%",
+      "citrus": "82%",
+      "amber": "74%",
+      "lavender": "57%",
+      "musky": "56%",
+      "aromatic": "51%",
+      "herbal": "51%",
+      "anis": "49%",
+      "soft spicy": "49%",
+      "floral": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.575
+      },
+      {
+        "name": "fall",
+        "score": 1.244
+      },
+      {
+        "name": "summer",
+        "score": 0.82
+      },
+      {
+        "name": "winter",
+        "score": 0.592
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.244
+      },
+      {
+        "name": "professional",
+        "score": 1.166
+      },
+      {
+        "name": "casual",
+        "score": 1.074
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sichuan Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sichuan%20Pepper.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Star Anise",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Star%20Anise.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/51yaGRwUeSL._SL1000.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/christian-dior-dior-sauvage-edp?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Christian Dior Santal Noir 450Ml",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/christian-dior-santal-noir-450ml.jpg",
+    "Gender": "Men",
+    "Price": "39.99",
+    "Longevity": "77%",
+    "Sillage": "72%",
+    "General Notes": [],
+    "Main Accords": [],
+    "Main Accords Percentage": {},
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/social.png"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/christian-dior-santal-noir-450ml?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Cruise Collection Escale Aux Marquises Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/cruise-collection-escale-aux-marquises-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "51%",
+    "Sillage": "52%",
+    "General Notes": [],
+    "Main Accords": [
+      "warm spicy",
+      "citrus",
+      "fresh spicy",
+      "aromatic",
+      "white floral",
+      "soft spicy",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "warm spicy": "100%",
+      "citrus": "86%",
+      "fresh spicy": "67%",
+      "aromatic": "63%",
+      "white floral": "53%",
+      "soft spicy": "53%",
+      "sweet": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.215
+      },
+      {
+        "name": "winter",
+        "score": 1
+      },
+      {
+        "name": "summer",
+        "score": 0.86
+      },
+      {
+        "name": "fall",
+        "score": 0.8
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.318
+      },
+      {
+        "name": "casual",
+        "score": 1.044
+      },
+      {
+        "name": "night out",
+        "score": 0.8
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/cruise-collection-escale-aux-marquises-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.co.uk/Dior-ESCALE-MARQUISES-toilette-spray/dp/B005EAD6F2"
+  },
+  {
+    "Name": "Cruise Collection Escale a Parati Dior unisex",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/cruise-collection-escale-a-parati-dior-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "75",
+    "Longevity": "60%",
+    "Sillage": "60%",
+    "General Notes": [
+      "Petitgrain",
+      "Lemon",
+      "Bitter Orange",
+      "Mint",
+      "Palisander Rosewood",
+      "Cinnamon",
+      "Red Berries",
+      "Woodsy Notes",
+      "Tonka Bean"
+    ],
+    "Main Accords": [
+      "citrus",
+      "aromatic",
+      "woody",
+      "green",
+      "fresh spicy",
+      "fresh",
+      "warm spicy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "aromatic": "67%",
+      "woody": "62%",
+      "green": "62%",
+      "fresh spicy": "49%",
+      "fresh": "47%",
+      "warm spicy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.335
+      },
+      {
+        "name": "summer",
+        "score": 1.842
+      },
+      {
+        "name": "fall",
+        "score": 0.926
+      },
+      {
+        "name": "winter",
+        "score": 0.894
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.462
+      },
+      {
+        "name": "casual",
+        "score": 1.37
+      },
+      {
+        "name": "night out",
+        "score": 0.368
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Petitgrain",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Petitgrain.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bitter Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bitter%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Palisander Rosewood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Palisander%20Rosewood.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Red Berries",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Red%20Berries.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Woodsy Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woodsy%20Notes.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/cruise-collection-escale-a-parati-dior-unisex.jpg"
+    ]
+  },
+  {
+    "Name": "Cruise Collection Escale a Pondichery Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/cruise-collection-escale-a-pondichery-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "62%",
+    "Sillage": "58%",
+    "General Notes": [],
+    "Main Accords": [
+      "warm spicy",
+      "green",
+      "white floral",
+      "fresh",
+      "woody",
+      "aromatic",
+      "ozonic",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "warm spicy": "100%",
+      "green": "91%",
+      "white floral": "82%",
+      "fresh": "66%",
+      "woody": "65%",
+      "aromatic": "62%",
+      "ozonic": "50%",
+      "powdery": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.822
+      },
+      {
+        "name": "summer",
+        "score": 1.606
+      },
+      {
+        "name": "winter",
+        "score": 1.455
+      },
+      {
+        "name": "fall",
+        "score": 1.385
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.176
+      },
+      {
+        "name": "night out",
+        "score": 0.8
+      },
+      {
+        "name": "casual",
+        "score": 0.66
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/cruise-collection-escale-a-pondichery-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/christian-dior/escale-a-pondichery-perfume"
+  },
+  {
+    "Name": "Dior Addict 2 Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "59%",
+    "Sillage": "56%",
+    "General Notes": [
+      "Grapefruit",
+      "Freesia",
+      "Orange",
+      "Bergamot",
+      "Pomegranate",
+      "Lotus",
+      "Watermelon",
+      "Pineapple",
+      "Lily-of-the-Valley",
+      "White Musk",
+      "Cedar",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "citrus",
+      "floral",
+      "woody",
+      "fresh spicy",
+      "fruity",
+      "aquatic",
+      "ozonic",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "floral": "73%",
+      "woody": "67%",
+      "fresh spicy": "62%",
+      "fruity": "57%",
+      "aquatic": "56%",
+      "ozonic": "56%",
+      "sweet": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.952
+      },
+      {
+        "name": "spring",
+        "score": 1.63
+      },
+      {
+        "name": "fall",
+        "score": 0.603
+      },
+      {
+        "name": "winter",
+        "score": 0.469
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 2.165
+      },
+      {
+        "name": "professional",
+        "score": 1.269
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pomegranate",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pomegranate.png"
+        },
+        {
+          "name": "Lotus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lotus.png"
+        },
+        {
+          "name": "Watermelon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Watermelon.png"
+        },
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/dior-addict-2/women-perfume"
+  },
+  {
+    "Name": "Dior Addict 2 Sparkle in Pink Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-sparkle-in-pink-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "61%",
+    "Sillage": "57%",
+    "General Notes": [],
+    "Main Accords": [
+      "citrus",
+      "floral",
+      "woody",
+      "fresh spicy",
+      "white floral",
+      "powdery",
+      "sweet",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "floral": "75%",
+      "woody": "62%",
+      "fresh spicy": "54%",
+      "white floral": "51%",
+      "powdery": "48%",
+      "sweet": "46%",
+      "aromatic": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.965
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0.558
+      },
+      {
+        "name": "winter",
+        "score": 0.434
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.972
+      },
+      {
+        "name": "casual",
+        "score": 1.701
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-sparkle-in-pink-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://perfumewarehouse.co.uk/womens/dior-addict-2-sparkle-in-pink.html"
+  },
+  {
+    "Name": "Dior Addict 2 Summer Breeze Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-summer-breeze-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "60%",
+    "Sillage": "59%",
+    "General Notes": [],
+    "Main Accords": [
+      "citrus",
+      "white floral",
+      "woody",
+      "floral",
+      "aromatic",
+      "fresh spicy",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "white floral": "87%",
+      "woody": "82%",
+      "floral": "79%",
+      "aromatic": "53%",
+      "fresh spicy": "47%",
+      "green": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.437
+      },
+      {
+        "name": "summer",
+        "score": 1.282
+      },
+      {
+        "name": "fall",
+        "score": 0.738
+      },
+      {
+        "name": "winter",
+        "score": 0.574
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.327
+      },
+      {
+        "name": "casual",
+        "score": 1.453
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-summer-breeze-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/dior-addict-2/women-perfume"
+  },
+  {
+    "Name": "Dior Addict 2 Summer Litchi Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-summer-litchi-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "55%",
+    "Sillage": "62%",
+    "General Notes": [
+      "Grapefruit",
+      "Litchi",
+      "Rose",
+      "Musk"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fruity",
+      "musky",
+      "rose",
+      "tropical",
+      "fresh",
+      "powdery",
+      "fresh spicy",
+      "aquatic",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fruity": "99%",
+      "musky": "97%",
+      "rose": "90%",
+      "tropical": "89%",
+      "fresh": "69%",
+      "powdery": "64%",
+      "fresh spicy": "50%",
+      "aquatic": "50%",
+      "floral": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 2.852
+      },
+      {
+        "name": "spring",
+        "score": 2.07
+      },
+      {
+        "name": "fall",
+        "score": 0.873
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 2.326
+      },
+      {
+        "name": "professional",
+        "score": 1.184
+      },
+      {
+        "name": "night out",
+        "score": 0.873
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Litchi",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Litchi.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-2-summer-litchi-dior-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Dior Addict Dior Addict Dior Twist Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-dior-addict-dior-twist-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "63%",
+    "Sillage": "77%",
+    "General Notes": [
+      "Bulgarian Rose",
+      "Night blooming Cereus",
+      "Orange Blossom",
+      "Sandalwood",
+      "Tonka Bean",
+      "Bourbon Vanilla"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "white floral",
+      "rose",
+      "woody",
+      "powdery",
+      "sweet",
+      "warm spicy",
+      "amber",
+      "balsamic",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "white floral": "95%",
+      "rose": "77%",
+      "woody": "77%",
+      "powdery": "65%",
+      "sweet": "62%",
+      "warm spicy": "58%",
+      "amber": "53%",
+      "balsamic": "50%",
+      "aromatic": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.793
+      },
+      {
+        "name": "fall",
+        "score": 1.687
+      },
+      {
+        "name": "spring",
+        "score": 0.343
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.694
+      },
+      {
+        "name": "professional",
+        "score": 1.419
+      },
+      {
+        "name": "casual",
+        "score": 0.372
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Night blooming Cereus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Night%20Blooming%20Cereus.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-dior-addict-dior-twist-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.sephora.co.uk/brands/dior/dior-addict"
+  },
+  {
+    "Name": "Dior Addict Eau Sensuelle Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-eau-sensuelle-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "62%",
+    "Sillage": "57%",
+    "General Notes": [
+      "Rose",
+      "Jasmine",
+      "Musk",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "rose",
+      "musky",
+      "white floral",
+      "floral",
+      "powdery",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "rose": "100%",
+      "musky": "79%",
+      "white floral": "77%",
+      "floral": "60%",
+      "powdery": "59%",
+      "woody": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.188
+      },
+      {
+        "name": "spring",
+        "score": 0.6
+      },
+      {
+        "name": "winter",
+        "score": 0.371
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.725
+      },
+      {
+        "name": "night out",
+        "score": 0.711
+      },
+      {
+        "name": "casual",
+        "score": 0.42
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-eau-sensuelle-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/dior-addict-eau-sensuelle/women-perfume"
+  },
+  {
+    "Name": "Dior Addict Eau de Parfum Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-eau-de-parfum-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "50",
+    "Longevity": "83%",
+    "Sillage": "74%",
+    "General Notes": [
+      "Mandarin Orange",
+      "Silkwood Blossom",
+      "Orange Blossom",
+      "Night blooming Cereus",
+      "Bulgarian Rose",
+      "Vanilla",
+      "Tonka Bean",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "white floral",
+      "citrus",
+      "sweet",
+      "powdery",
+      "floral",
+      "fruity"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "white floral": "78%",
+      "citrus": "61%",
+      "sweet": "59%",
+      "powdery": "56%",
+      "floral": "53%",
+      "fruity": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.079
+      },
+      {
+        "name": "winter",
+        "score": 0.9
+      },
+      {
+        "name": "summer",
+        "score": 0.61
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.274
+      },
+      {
+        "name": "professional",
+        "score": 0.824
+      },
+      {
+        "name": "night out",
+        "score": 0.7
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Silkwood Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Silkwood%20Blossom.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Night blooming Cereus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Night%20Blooming%20Cereus.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-eau-de-parfum-dior-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Dior Addict Limited Edition Collect It Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-limited-edition-collect-it-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "77%",
+    "Sillage": "80%",
+    "General Notes": [],
+    "Main Accords": [
+      "white floral",
+      "citrus",
+      "rose",
+      "aromatic",
+      "green",
+      "sweet",
+      "soapy",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "citrus": "89%",
+      "rose": "83%",
+      "aromatic": "52%",
+      "green": "52%",
+      "sweet": "48%",
+      "soapy": "45%",
+      "floral": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.021
+      },
+      {
+        "name": "summer",
+        "score": 1.202
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.7
+      },
+      {
+        "name": "casual",
+        "score": 1.397
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-limited-edition-collect-it-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.sephora.co.uk/brands/dior/dior-addict"
+  },
+  {
+    "Name": "Dior Addict Women Edt",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-addict-women-edt.jpg",
+    "Gender": "Men",
+    "Price": "75.00",
+    "Longevity": "60.0%",
+    "Sillage": "56.0%",
+    "General Notes": [
+      "Sicilian Mandarin",
+      "Jasmine Sambac",
+      "Tunisian Neroli",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "white floral",
+      "citrus",
+      "woody",
+      "vanilla",
+      "powdery",
+      "floral",
+      "fresh"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "citrus": "92%",
+      "woody": "61%",
+      "vanilla": "61%",
+      "powdery": "55%",
+      "floral": "48%",
+      "fresh": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.778
+      },
+      {
+        "name": "summer",
+        "score": 1.39
+      },
+      {
+        "name": "winter",
+        "score": 0.976
+      },
+      {
+        "name": "fall",
+        "score": 0.549
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.634
+      },
+      {
+        "name": "professional",
+        "score": 1.493
+      },
+      {
+        "name": "night out",
+        "score": 0.427
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Sicilian Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Mandarin.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        },
+        {
+          "name": "Tunisian Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tunisian%20Neroli.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/AddictEauFriache.webp"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-addict-women-edt?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Ambre Nuit",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-ambre-nuit.jpg",
+    "Gender": "Men",
+    "Price": "39.99",
+    "Longevity": "68%",
+    "Sillage": "58%",
+    "General Notes": [
+      "Bergamot",
+      "Grapefruit",
+      "Ambergris",
+      "Guaiac Wood",
+      "Cedar",
+      "Patchouli",
+      "Damask Rose",
+      "Pink Pepper"
+    ],
+    "Main Accords": [
+      "rose",
+      "citrus",
+      "soft spicy",
+      "floral",
+      "woody",
+      "fresh spicy",
+      "musky",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "rose": "100%",
+      "citrus": "81%",
+      "soft spicy": "65%",
+      "floral": "54%",
+      "woody": "51%",
+      "fresh spicy": "50%",
+      "musky": "45%",
+      "amber": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.304
+      },
+      {
+        "name": "spring",
+        "score": 1.269
+      },
+      {
+        "name": "summer",
+        "score": 0.81
+      },
+      {
+        "name": "winter",
+        "score": 0.709
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.107
+      },
+      {
+        "name": "professional",
+        "score": 1.005
+      },
+      {
+        "name": "night out",
+        "score": 0.845
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Damask Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Damask%20Rose.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Guaiac Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guaiac%20Wood.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Travelspray_a4bd6b16-bd2a-461e-bf5f-127c11040c9d.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-ambre-nuit?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Bois Talisman",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-bois-talisman.jpg",
+    "Gender": "Men",
+    "Price": "35.0",
+    "Longevity": "65%",
+    "Sillage": "54%",
+    "General Notes": [
+      "Vanilla",
+      "Smoke",
+      "Cedarwood",
+      "Sugar"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "sweet",
+      "woody",
+      "smoky",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "sweet": "88%",
+      "woody": "71%",
+      "smoky": "70%",
+      "powdery": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.397
+      },
+      {
+        "name": "fall",
+        "score": 0.639
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.05
+      },
+      {
+        "name": "professional",
+        "score": 0.803
+      },
+      {
+        "name": "casual",
+        "score": 0.528
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sugar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sugar.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Smoke",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Smoke.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Travelspray_600b6c51-ff09-41e2-b315-568a09b304fc.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-bois-talisman?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Dior Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-dior-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "73%",
+    "Sillage": "67%",
+    "General Notes": [
+      "Aldehydes",
+      "Lilac",
+      "Jasmine",
+      "Narcissus",
+      "Lily-of-the-Valley",
+      "oak moss",
+      "Woodsy Notes",
+      "Amber"
+    ],
+    "Main Accords": [
+      "white floral",
+      "fresh",
+      "woody",
+      "green",
+      "floral",
+      "mossy",
+      "aldehydic",
+      "yellow floral",
+      "amber",
+      "earthy"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "fresh": "98%",
+      "woody": "81%",
+      "green": "78%",
+      "floral": "78%",
+      "mossy": "72%",
+      "aldehydic": "69%",
+      "yellow floral": "65%",
+      "amber": "61%",
+      "earthy": "59%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.384
+      },
+      {
+        "name": "fall",
+        "score": 1.811
+      },
+      {
+        "name": "summer",
+        "score": 1.448
+      },
+      {
+        "name": "winter",
+        "score": 1.055
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.526
+      },
+      {
+        "name": "professional",
+        "score": 1.269
+      },
+      {
+        "name": "night out",
+        "score": 0.61
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Lilac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lilac.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Woodsy Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woodsy%20Notes.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-dior-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.dior.com/en_us"
+  },
+  {
+    "Name": "Dior Fahrenheit Parfum",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-fahrenheit-parfum.jpg",
+    "Gender": "Men",
+    "Price": "112.0",
+    "Longevity": "79%",
+    "Sillage": "69%",
+    "General Notes": [
+      "Suede",
+      "Licorice",
+      "Sicilian Mandarin",
+      "Bourbon Vanilla",
+      "Violet Leaf",
+      "Rum",
+      "Coriander",
+      "Cumin"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "ozonic",
+      "soft spicy",
+      "rum",
+      "aquatic",
+      "leather",
+      "powdery",
+      "sweet",
+      "musky",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "ozonic": "91%",
+      "soft spicy": "78%",
+      "rum": "76%",
+      "aquatic": "75%",
+      "leather": "71%",
+      "powdery": "68%",
+      "sweet": "67%",
+      "musky": "59%",
+      "citrus": "52%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.923
+      },
+      {
+        "name": "winter",
+        "score": 0.9
+      },
+      {
+        "name": "fall",
+        "score": 0.531
+      },
+      {
+        "name": "spring",
+        "score": 0.468
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.657
+      },
+      {
+        "name": "casual",
+        "score": 1.47
+      },
+      {
+        "name": "professional",
+        "score": 0.824
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Suede",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Suede.png"
+        },
+        {
+          "name": "Licorice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Licorice.png"
+        },
+        {
+          "name": "Sicilian Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Mandarin.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        },
+        {
+          "name": "Rum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rum.png"
+        },
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Cumin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cumin.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/FahrenheitParfum.png"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-fahrenheit-parfum?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Feve Delicieuse Discontinued",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-feve-delicieuse-discontinued.jpg",
+    "Gender": "Men",
+    "Price": "55.00",
+    "Longevity": "73.6%",
+    "Sillage": "65.5%",
+    "General Notes": [
+      "Lavender",
+      "Mint",
+      "Bergamot",
+      "Sour Cherry",
+      "Freesia",
+      "Jasmine",
+      "Tonka Bean",
+      "Vanilla",
+      "Cacao Pod",
+      "Caramel",
+      "Praline",
+      "Milk",
+      "Benzoin",
+      "Sandalwood",
+      "Leather",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "sweet",
+      "vanilla",
+      "amber",
+      "warm spicy",
+      "cacao",
+      "aromatic",
+      "caramel",
+      "cherry",
+      "lactonic",
+      "nutty"
+    ],
+    "Main Accords Percentage": {
+      "sweet": "100%",
+      "vanilla": "91%",
+      "amber": "63%",
+      "warm spicy": "61%",
+      "cacao": "54%",
+      "aromatic": "53%",
+      "caramel": "52%",
+      "cherry": "50%",
+      "lactonic": "50%",
+      "nutty": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.933
+      },
+      {
+        "name": "fall",
+        "score": 1.118
+      },
+      {
+        "name": "spring",
+        "score": 0.371
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.755
+      },
+      {
+        "name": "casual",
+        "score": 0.6
+      },
+      {
+        "name": "professional",
+        "score": 0.53
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sour Cherry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sour%20Cherry.png"
+        },
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Cacao Pod",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao%20Pod.png"
+        },
+        {
+          "name": "Caramel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caramel.png"
+        },
+        {
+          "name": "Praline",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Praline.png"
+        },
+        {
+          "name": "Milk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Milk.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/AndyTauer_c188d35d-a5e0-4735-8f0f-1daefbecabf4.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-feve-delicieuse-discontinued?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Gris Dior",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-gris-dior.jpg",
+    "Gender": "Men",
+    "Price": "35.0",
+    "Longevity": "67%",
+    "Sillage": "56%",
+    "General Notes": [],
+    "Main Accords": [
+      "woody",
+      "earthy",
+      "mossy",
+      "rose",
+      "patchouli",
+      "citrus",
+      "warm spicy",
+      "amber",
+      "powdery",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "earthy": "73%",
+      "mossy": "71%",
+      "rose": "70%",
+      "patchouli": "65%",
+      "citrus": "56%",
+      "warm spicy": "54%",
+      "amber": "48%",
+      "powdery": "47%",
+      "floral": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.851
+      },
+      {
+        "name": "winter",
+        "score": 2.144
+      },
+      {
+        "name": "spring",
+        "score": 0.964
+      },
+      {
+        "name": "summer",
+        "score": 0.56
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.43
+      },
+      {
+        "name": "night out",
+        "score": 0.912
+      },
+      {
+        "name": "casual",
+        "score": 0.826
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Travelspray_a4bd6b16-bd2a-461e-bf5f-127c11040c9d.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-gris-dior?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Homme Cologne 2013 Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-cologne-2013-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "4.89",
+    "Longevity": "58%",
+    "Sillage": "49%",
+    "General Notes": [
+      "Calabrian bergamot",
+      "Grapefruit blossom",
+      "Musk"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "white floral",
+      "musky",
+      "powdery",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "56%",
+      "white floral": "56%",
+      "musky": "54%",
+      "powdery": "47%",
+      "aromatic": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.215
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0.486
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.532
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0.486
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Calabrian bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Calabrian%20Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Grapefruit blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-cologne-2013-dior-for-men.jpg"
+    ]
+  },
+  {
+    "Name": "Dior Homme Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "70%",
+    "Sillage": "57%",
+    "General Notes": [
+      "Lavender",
+      "Bergamot",
+      "Sage",
+      "Iris",
+      "Cacao",
+      "Amber",
+      "Leather",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "iris",
+      "cacao",
+      "powdery",
+      "earthy",
+      "aromatic",
+      "woody",
+      "leather",
+      "violet",
+      "warm spicy",
+      "lavender"
+    ],
+    "Main Accords Percentage": {
+      "iris": "100%",
+      "cacao": "77%",
+      "powdery": "77%",
+      "earthy": "74%",
+      "aromatic": "69%",
+      "woody": "66%",
+      "leather": "65%",
+      "violet": "65%",
+      "warm spicy": "64%",
+      "lavender": "61%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.698
+      },
+      {
+        "name": "winter",
+        "score": 1.102
+      },
+      {
+        "name": "spring",
+        "score": 0.483
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.614
+      },
+      {
+        "name": "night out",
+        "score": 0.902
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Cacao",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.dior.com/en_gb/beauty/dior-homme"
+  },
+  {
+    "Name": "Dior Homme Parfum Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-parfum-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "86%",
+    "Sillage": "73%",
+    "General Notes": [
+      "Tuscan Iris",
+      "Italian Orange",
+      "Leather",
+      "Rose",
+      "Sandalwood",
+      "Ambrette (Musk Mallow)",
+      "Agarwood (Oud)",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "iris",
+      "woody",
+      "leather",
+      "powdery",
+      "violet",
+      "floral",
+      "animalic",
+      "earthy",
+      "oud",
+      "rose"
+    ],
+    "Main Accords Percentage": {
+      "iris": "100%",
+      "woody": "95%",
+      "leather": "92%",
+      "powdery": "92%",
+      "violet": "65%",
+      "floral": "62%",
+      "animalic": "61%",
+      "earthy": "58%",
+      "oud": "54%",
+      "rose": "54%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.319
+      },
+      {
+        "name": "winter",
+        "score": 0.665
+      },
+      {
+        "name": "spring",
+        "score": 0.62
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.217
+      },
+      {
+        "name": "night out",
+        "score": 0.552
+      },
+      {
+        "name": "casual",
+        "score": 0.434
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Tuscan Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuscan%20Iris.png"
+        },
+        {
+          "name": "Italian Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Italian%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Ambrette (Musk Mallow)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrette%20(musk%20Mallow).png"
+        },
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-parfum-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.dior.com/en_us/beauty/products/dior-homme-parfum-Y0997193.html"
+  },
+  {
+    "Name": "Dior Homme Sport 2012 Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-sport-2012-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "3.49",
+    "Longevity": "65%",
+    "Sillage": "56%",
+    "General Notes": [
+      "Citron",
+      "Ginger flower",
+      "Iris",
+      "Green Notes",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "citrus",
+      "iris",
+      "fresh spicy",
+      "fresh",
+      "powdery",
+      "woody",
+      "violet",
+      "green",
+      "earthy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "iris": "69%",
+      "fresh spicy": "64%",
+      "fresh": "64%",
+      "powdery": "57%",
+      "woody": "57%",
+      "violet": "50%",
+      "green": "49%",
+      "earthy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.934
+      },
+      {
+        "name": "spring",
+        "score": 1.932
+      },
+      {
+        "name": "fall",
+        "score": 0.881
+      },
+      {
+        "name": "winter",
+        "score": 0.399
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.982
+      },
+      {
+        "name": "casual",
+        "score": 1.54
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Citron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citron.png"
+        },
+        {
+          "name": "Ginger flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger%20Flower.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-sport-2012-dior-for-men.jpg"
+    ]
+  },
+  {
+    "Name": "Dior Homme Sport Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-sport-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "3.49",
+    "Longevity": "66%",
+    "Sillage": "57%",
+    "General Notes": [
+      "Amalfi Lemon",
+      "Grapefruit",
+      "Bergamot",
+      "Elemi resin",
+      "Ginger",
+      "Vetiver",
+      "Virginia Cedar",
+      "Rosemary",
+      "Lavender",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "aromatic",
+      "woody",
+      "fresh"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "74%",
+      "aromatic": "70%",
+      "woody": "52%",
+      "fresh": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.88
+      },
+      {
+        "name": "summer",
+        "score": 1.49
+      },
+      {
+        "name": "fall",
+        "score": 0.468
+      },
+      {
+        "name": "winter",
+        "score": 0.364
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.864
+      },
+      {
+        "name": "casual",
+        "score": 1.39
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Amalfi Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amalfi%20Lemon.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Elemi resin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Elemi%20Resin.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Rosemary",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rosemary.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-sport-dior-for-men.jpg"
+    ]
+  },
+  {
+    "Name": "Dior Homme Voyage Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-voyage-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "72%",
+    "Sillage": "64%",
+    "General Notes": [],
+    "Main Accords": [
+      "warm spicy",
+      "aromatic",
+      "cacao",
+      "lavender",
+      "woody",
+      "amber",
+      "earthy",
+      "herbal",
+      "iris",
+      "leather"
+    ],
+    "Main Accords Percentage": {
+      "warm spicy": "100%",
+      "aromatic": "94%",
+      "cacao": "70%",
+      "lavender": "63%",
+      "woody": "62%",
+      "amber": "61%",
+      "earthy": "60%",
+      "herbal": "54%",
+      "iris": "54%",
+      "leather": "52%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.448
+      },
+      {
+        "name": "winter",
+        "score": 1.922
+      },
+      {
+        "name": "spring",
+        "score": 0.658
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.722
+      },
+      {
+        "name": "professional",
+        "score": 1.374
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-homme-voyage-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/christian-dior/sauvage-cologne"
+  },
+  {
+    "Name": "Dior Passage No.4 Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-passage-no.4-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "55%",
+    "Sillage": "66%",
+    "General Notes": [],
+    "Main Accords": [
+      "tuberose",
+      "white floral",
+      "animalic",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "tuberose": "100%",
+      "white floral": "86%",
+      "animalic": "51%",
+      "green": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0.352
+      },
+      {
+        "name": "summer",
+        "score": 0.264
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.396
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-passage-no-4-dior-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Dior Passage No.8 Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-passage-no.8-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "68%",
+    "Sillage": "78%",
+    "General Notes": [],
+    "Main Accords": [
+      "violet",
+      "powdery",
+      "iris",
+      "leather",
+      "animalic",
+      "earthy",
+      "floral",
+      "woody",
+      "smoky"
+    ],
+    "Main Accords Percentage": {
+      "violet": "100%",
+      "powdery": "92%",
+      "iris": "83%",
+      "leather": "79%",
+      "animalic": "55%",
+      "earthy": "51%",
+      "floral": "48%",
+      "woody": "47%",
+      "smoky": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.831
+      },
+      {
+        "name": "spring",
+        "score": 0.48
+      },
+      {
+        "name": "winter",
+        "score": 0.329
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.881
+      },
+      {
+        "name": "night out",
+        "score": 0.699
+      },
+      {
+        "name": "casual",
+        "score": 0.336
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-passage-no-8-dior-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Dior Rouge Trafalgar",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-rouge-trafalgar.jpg",
+    "Gender": "Men",
+    "Price": "35.0",
+    "Longevity": "64%",
+    "Sillage": "57%",
+    "General Notes": [
+      "Raspberry",
+      "Strawberry",
+      "Cherry",
+      "Mandarin Orange",
+      "Musk",
+      "Patchouli",
+      "Black Currant",
+      "Grapefruit"
+    ],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "citrus",
+      "musky",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "sweet": "66%",
+      "citrus": "53%",
+      "musky": "47%",
+      "woody": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.819
+      },
+      {
+        "name": "summer",
+        "score": 0.53
+      },
+      {
+        "name": "spring",
+        "score": 0.477
+      },
+      {
+        "name": "winter",
+        "score": 0.308
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.873
+      },
+      {
+        "name": "professional",
+        "score": 0.732
+      },
+      {
+        "name": "night out",
+        "score": 0.423
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Raspberry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Raspberry.png"
+        },
+        {
+          "name": "Strawberry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Strawberry.png"
+        },
+        {
+          "name": "Cherry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cherry.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Travelspray_29e5dd2d-d313-41c6-97cc-691ddd5bec2f.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-rouge-trafalgar?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Sauvage Edt",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-sauvage-edt.jpg",
+    "Gender": "Men",
+    "Price": "12.00",
+    "Longevity": "72.4%",
+    "Sillage": "64.0%",
+    "General Notes": [
+      "Calabrian bergamot",
+      "Pepper",
+      "Sichuan Pepper",
+      "Lavender",
+      "Pink Pepper",
+      "Vetiver",
+      "Patchouli",
+      "Geranium",
+      "elemi",
+      "Ambroxan",
+      "Cedar",
+      "Labdanum"
+    ],
+    "Main Accords": [
+      "fresh spicy",
+      "amber",
+      "citrus",
+      "aromatic",
+      "musky",
+      "woody",
+      "lavender",
+      "herbal",
+      "warm spicy"
+    ],
+    "Main Accords Percentage": {
+      "fresh spicy": "100%",
+      "amber": "72%",
+      "citrus": "70%",
+      "aromatic": "63%",
+      "musky": "58%",
+      "woody": "54%",
+      "lavender": "46%",
+      "herbal": "46%",
+      "warm spicy": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.088
+      },
+      {
+        "name": "winter",
+        "score": 1.404
+      },
+      {
+        "name": "spring",
+        "score": 1.071
+      },
+      {
+        "name": "summer",
+        "score": 0.7
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.602
+      },
+      {
+        "name": "professional",
+        "score": 1.568
+      },
+      {
+        "name": "casual",
+        "score": 0.63
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Calabrian bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Calabrian%20Bergamot.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sichuan Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sichuan%20Pepper.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "elemi",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Elemi.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/WhatsApp-Image-2020-10-21-at-12.34.44-AM_1cc5f224-37f2-430b-bd13-d7c9f9f25b80.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-sauvage-edt?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Dior Vanilla Diorama",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dior-vanilla-diorama.jpg",
+    "Gender": "Men",
+    "Price": "35.0",
+    "Longevity": "73%",
+    "Sillage": "58%",
+    "General Notes": [
+      "Orange",
+      "Pink Pepper",
+      "Lemon",
+      "Bourbon Vanilla",
+      "Sandalwood",
+      "Patchouli",
+      "Rum",
+      "Cacao",
+      "Cardamom"
+    ],
+    "Main Accords": [
+      "warm spicy",
+      "vanilla",
+      "woody",
+      "rum",
+      "sweet",
+      "citrus",
+      "cacao",
+      "powdery",
+      "soft spicy",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "warm spicy": "100%",
+      "vanilla": "84%",
+      "woody": "73%",
+      "rum": "63%",
+      "sweet": "62%",
+      "citrus": "61%",
+      "cacao": "60%",
+      "powdery": "57%",
+      "soft spicy": "49%",
+      "aromatic": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.267
+      },
+      {
+        "name": "fall",
+        "score": 1.457
+      },
+      {
+        "name": "spring",
+        "score": 0.885
+      },
+      {
+        "name": "summer",
+        "score": 0.61
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.821
+      },
+      {
+        "name": "night out",
+        "score": 1.388
+      },
+      {
+        "name": "casual",
+        "score": 0.921
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rum.png"
+        },
+        {
+          "name": "Cacao",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Travelspray_600b6c51-ff09-41e2-b315-568a09b304fc.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/dior-vanilla-diorama?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Diorella Parfum Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/diorella-parfum-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "75%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Bergamot",
+      "Green Notes",
+      "Melon",
+      "Lemon",
+      "Honeysuckle",
+      "Peach",
+      "Jasmine",
+      "Rose",
+      "Cyclamen",
+      "Oakmoss",
+      "Vetiver",
+      "Patchouli",
+      "Musk"
+    ],
+    "Main Accords": [
+      "citrus",
+      "white floral",
+      "fruity",
+      "earthy",
+      "woody",
+      "green",
+      "aromatic",
+      "mossy",
+      "fresh",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "white floral": "91%",
+      "fruity": "85%",
+      "earthy": "82%",
+      "woody": "81%",
+      "green": "76%",
+      "aromatic": "73%",
+      "mossy": "62%",
+      "fresh": "60%",
+      "floral": "57%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 3.189
+      },
+      {
+        "name": "summer",
+        "score": 2.056
+      },
+      {
+        "name": "fall",
+        "score": 1.385
+      },
+      {
+        "name": "winter",
+        "score": 0.567
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.781
+      },
+      {
+        "name": "casual",
+        "score": 1.899
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Melon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Melon.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Honeysuckle",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Honeysuckle.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/diorella-parfum-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/diorella/women-perfume"
+  },
+  {
+    "Name": "Dioressence Eau Parfumee Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dioressence-eau-parfumee-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "76%",
+    "Sillage": "60%",
+    "General Notes": [
+      "Fruits",
+      "Bergamot",
+      "Orange",
+      "Aldehydes",
+      "Green Notes",
+      "Patchouli",
+      "Carnation",
+      "Geranium",
+      "Violet",
+      "Orris",
+      "Jasmine",
+      "Rose",
+      "Ylang-Ylang",
+      "Tuberose",
+      "Cinnamon",
+      "Animal notes",
+      "Ambergris",
+      "Vanilla",
+      "Oakmoss",
+      "Benzoin",
+      "Musk",
+      "Patchouli",
+      "Vetiver",
+      "Styrax"
+    ],
+    "Main Accords": [
+      "animalic",
+      "amber",
+      "citrus",
+      "warm spicy",
+      "fresh spicy",
+      "floral",
+      "aromatic",
+      "powdery",
+      "woody",
+      "vanilla"
+    ],
+    "Main Accords Percentage": {
+      "animalic": "100%",
+      "amber": "92%",
+      "citrus": "76%",
+      "warm spicy": "72%",
+      "fresh spicy": "67%",
+      "floral": "66%",
+      "aromatic": "66%",
+      "powdery": "66%",
+      "woody": "63%",
+      "vanilla": "63%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.464
+      },
+      {
+        "name": "fall",
+        "score": 2.063
+      },
+      {
+        "name": "spring",
+        "score": 1.806
+      },
+      {
+        "name": "summer",
+        "score": 0.76
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.105
+      },
+      {
+        "name": "night out",
+        "score": 1.937
+      },
+      {
+        "name": "casual",
+        "score": 1.146
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Fruits",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruits.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        },
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Carnation",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carnation.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Orris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Animal notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Animal%20Notes.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Styrax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Styrax.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dioressence-eau-parfumee-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/dioressence/women-perfume"
+  },
+  {
+    "Name": "Diorever Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/diorever-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "60%",
+    "Sillage": "71%",
+    "General Notes": [],
+    "Main Accords": [],
+    "Main Accords Percentage": {},
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/diorever-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/forever-and-ever/women-perfume"
+  },
+  {
+    "Name": "Diorling Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/diorling-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "156.34",
+    "Longevity": "70%",
+    "Sillage": "64%",
+    "General Notes": [
+      "Hyacinth",
+      "Bergamot",
+      "Rose",
+      "Iris",
+      "Jasmine",
+      "Lily-of-the-Valley",
+      "Leather",
+      "oak moss",
+      "Vetiver",
+      "Musk",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "earthy",
+      "floral",
+      "woody",
+      "green",
+      "leather",
+      "white floral",
+      "rose",
+      "mossy",
+      "fresh spicy",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "earthy": "100%",
+      "floral": "85%",
+      "woody": "80%",
+      "green": "76%",
+      "leather": "75%",
+      "white floral": "74%",
+      "rose": "70%",
+      "mossy": "69%",
+      "fresh spicy": "68%",
+      "powdery": "59%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.52
+      },
+      {
+        "name": "spring",
+        "score": 1.458
+      },
+      {
+        "name": "winter",
+        "score": 0.56
+      },
+      {
+        "name": "summer",
+        "score": 0.456
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.598
+      },
+      {
+        "name": "casual",
+        "score": 0.595
+      },
+      {
+        "name": "night out",
+        "score": 0.45
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Hyacinth",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hyacinth.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/diorling-dior-for-women.jpg"
+    ]
+  },
+  {
+    "Name": "Eau Sauvage Extreme 2010 Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/eau-sauvage-extreme-2010-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "120.68",
+    "Longevity": "69%",
+    "Sillage": "56%",
+    "General Notes": [
+      "Bergamot",
+      "Sicilian Lemon",
+      "Grapefruit",
+      "elemi",
+      "Lavender",
+      "Basil",
+      "Mint",
+      "Jasmine",
+      "Oakmoss",
+      "Virginia Cedar",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "citrus",
+      "fresh spicy",
+      "woody",
+      "green",
+      "earthy",
+      "lavender",
+      "mossy"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "citrus": "79%",
+      "fresh spicy": "77%",
+      "woody": "66%",
+      "green": "61%",
+      "earthy": "52%",
+      "lavender": "49%",
+      "mossy": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.899
+      },
+      {
+        "name": "summer",
+        "score": 1.156
+      },
+      {
+        "name": "fall",
+        "score": 1.01
+      },
+      {
+        "name": "winter",
+        "score": 0.462
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.643
+      },
+      {
+        "name": "casual",
+        "score": 0.711
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "elemi",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Elemi.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        },
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/eau-sauvage-extreme-2010-dior-for-men.jpg"
+    ]
+  },
+  {
+    "Name": "Eau de Cologne Fraiche Dior unisex",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/eau-de-cologne-fraiche-dior-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "30",
+    "Longevity": "64%",
+    "Sillage": "49%",
+    "General Notes": [
+      "Lemon",
+      "Lemon Verbena",
+      "Palisander Rosewood",
+      "Jasmine",
+      "Rose",
+      "Oakmoss",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "citrus",
+      "mossy",
+      "woody",
+      "earthy",
+      "white floral",
+      "aromatic",
+      "rose",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "mossy": "88%",
+      "woody": "84%",
+      "earthy": "76%",
+      "white floral": "52%",
+      "aromatic": "49%",
+      "rose": "48%",
+      "amber": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.804
+      },
+      {
+        "name": "spring",
+        "score": 1.243
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "winter",
+        "score": 0.94
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.878
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0.44
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Lemon Verbena",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon%20Verbena.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Palisander Rosewood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Palisander%20Rosewood.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/eau-de-cologne-fraiche-dior-unisex.jpg"
+    ]
+  },
+  {
+    "Name": "Eau de Dolce Vita Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/eau-de-dolce-vita-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "63%",
+    "Sillage": "60%",
+    "General Notes": [
+      "Grapefruit",
+      "Bergamot",
+      "Mandarin Orange",
+      "Peony",
+      "Freesia",
+      "White Pepper",
+      "Jasmine",
+      "Hedione",
+      "Osmanthus",
+      "Sandalwood",
+      "Vanilla",
+      "White Musk"
+    ],
+    "Main Accords": [
+      "floral",
+      "citrus",
+      "fresh spicy",
+      "fresh",
+      "fruity",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "citrus": "74%",
+      "fresh spicy": "57%",
+      "fresh": "55%",
+      "fruity": "50%",
+      "woody": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.216
+      },
+      {
+        "name": "summer",
+        "score": 1.29
+      },
+      {
+        "name": "fall",
+        "score": 0.414
+      },
+      {
+        "name": "winter",
+        "score": 0.322
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.916
+      },
+      {
+        "name": "professional",
+        "score": 0.914
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Peony",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peony.png"
+        },
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "White Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Pepper.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Hedione",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hedione.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Osmanthus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Osmanthus.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/eau-de-dolce-vita-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.theperfumeshop.com/dior/dolce-vita/eau-de-toilette-spray/p/16650EDTJU"
+  },
+  {
+    "Name": "Fahrenheit 0 Degree Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-0-degree-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "63%",
+    "Sillage": "62%",
+    "General Notes": [
+      "Violet",
+      "Grapefruit",
+      "Musk",
+      "Nutmeg",
+      "Patchouli",
+      "Freesia",
+      "Mandarin Orange",
+      "Leather",
+      "Sandalwood",
+      "Caraway",
+      "Amber",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "powdery",
+      "fresh spicy",
+      "floral",
+      "violet",
+      "leather",
+      "aromatic",
+      "musky",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "95%",
+      "powdery": "91%",
+      "fresh spicy": "87%",
+      "floral": "84%",
+      "violet": "67%",
+      "leather": "63%",
+      "aromatic": "58%",
+      "musky": "55%",
+      "animalic": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.146
+      },
+      {
+        "name": "fall",
+        "score": 1.35
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "winter",
+        "score": 0.665
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.591
+      },
+      {
+        "name": "casual",
+        "score": 1.488
+      },
+      {
+        "name": "night out",
+        "score": 0.873
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Caraway",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caraway.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-0-degree-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/christian-dior/fahrenheit-0-degree-zero-cologne"
+  },
+  {
+    "Name": "Fahrenheit 32 Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-32-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "75%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Orange Blossom",
+      "Vetiver",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "white floral",
+      "sweet",
+      "citrus",
+      "aromatic",
+      "woody",
+      "earthy",
+      "powdery",
+      "soapy"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "white floral": "96%",
+      "sweet": "64%",
+      "citrus": "63%",
+      "aromatic": "57%",
+      "woody": "57%",
+      "earthy": "53%",
+      "powdery": "51%",
+      "soapy": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.299
+      },
+      {
+        "name": "spring",
+        "score": 0.966
+      },
+      {
+        "name": "fall",
+        "score": 0.937
+      },
+      {
+        "name": "summer",
+        "score": 0.63
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.779
+      },
+      {
+        "name": "casual",
+        "score": 0.951
+      },
+      {
+        "name": "night out",
+        "score": 0.7
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-32-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/fahrenheit-32/men-cologne"
+  },
+  {
+    "Name": "Fahrenheit Absolute Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-absolute-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "74%",
+    "Sillage": "65%",
+    "General Notes": [],
+    "Main Accords": [
+      "amber",
+      "balsamic",
+      "smoky",
+      "violet",
+      "warm spicy",
+      "oud",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "amber": "100%",
+      "balsamic": "63%",
+      "smoky": "63%",
+      "violet": "62%",
+      "warm spicy": "61%",
+      "oud": "59%",
+      "powdery": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.851
+      },
+      {
+        "name": "fall",
+        "score": 1.488
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.803
+      },
+      {
+        "name": "professional",
+        "score": 0.318
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-absolute-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/christian-dior/fahrenheit-absolute-cologne"
+  },
+  {
+    "Name": "Fahrenheit Le Parfum Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-le-parfum-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "59",
+    "Longevity": "79%",
+    "Sillage": "69%",
+    "General Notes": [
+      "Suede",
+      "Licorice",
+      "Sicilian Mandarin",
+      "Violet Leaf",
+      "Rum",
+      "Coriander",
+      "Cumin",
+      "Bourbon Vanilla"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "ozonic",
+      "soft spicy",
+      "rum",
+      "aquatic",
+      "leather",
+      "powdery",
+      "sweet",
+      "musky",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "ozonic": "91%",
+      "soft spicy": "78%",
+      "rum": "75%",
+      "aquatic": "75%",
+      "leather": "71%",
+      "powdery": "69%",
+      "sweet": "67%",
+      "musky": "59%",
+      "citrus": "52%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.923
+      },
+      {
+        "name": "winter",
+        "score": 0.9
+      },
+      {
+        "name": "fall",
+        "score": 0.531
+      },
+      {
+        "name": "spring",
+        "score": 0.468
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.657
+      },
+      {
+        "name": "casual",
+        "score": 1.47
+      },
+      {
+        "name": "professional",
+        "score": 0.83
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Suede",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Suede.png"
+        },
+        {
+          "name": "Licorice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Licorice.png"
+        },
+        {
+          "name": "Sicilian Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Mandarin.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        },
+        {
+          "name": "Rum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rum.png"
+        },
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Cumin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cumin.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-le-parfum-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/christian-dior/fahrenheit/parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS"
+  },
+  {
+    "Name": "Fahrenheit Summer Dior for men",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-summer-dior-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "67%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Mandarin Orange",
+      "Grapefruit",
+      "Violet",
+      "Freesia",
+      "Sandalwood",
+      "Cedar",
+      "Amber",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "woody",
+      "citrus",
+      "powdery",
+      "floral",
+      "violet",
+      "warm spicy",
+      "amber",
+      "patchouli"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "citrus": "83%",
+      "powdery": "76%",
+      "floral": "75%",
+      "violet": "64%",
+      "warm spicy": "51%",
+      "amber": "50%",
+      "patchouli": "50%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.158
+      },
+      {
+        "name": "winter",
+        "score": 2.01
+      },
+      {
+        "name": "spring",
+        "score": 1.497
+      },
+      {
+        "name": "summer",
+        "score": 0.83
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.82
+      },
+      {
+        "name": "casual",
+        "score": 1.272
+      },
+      {
+        "name": "night out",
+        "score": 0.908
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/fahrenheit-summer-dior-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/christian-dior/fahrenheit-summer-fragrance/men-cologne"
+  },
+  {
+    "Name": "Forever and Ever Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/forever-and-ever-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "672",
+    "Longevity": "61%",
+    "Sillage": "61%",
+    "General Notes": [
+      "Freesia",
+      "Water Jasmine",
+      "Ivy",
+      "Rose",
+      "Almond Blossom",
+      "Geranium",
+      "Nutmeg",
+      "Musk",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "floral",
+      "rose",
+      "fresh spicy",
+      "white floral",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "rose": "68%",
+      "fresh spicy": "66%",
+      "white floral": "49%",
+      "aromatic": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.322
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.7
+      },
+      {
+        "name": "professional",
+        "score": 0.46
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "Water Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Jasmine.png"
+        },
+        {
+          "name": "Ivy",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ivy.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Almond Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Almond%20Blossom.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/forever-and-ever-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.co.uk/forever-ever-dior/s?k=forever+and+ever+dior"
+  },
+  {
+    "Name": "Jadore Infinissime Intense",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/jadore-infinissime-intense.jpg",
+    "Gender": "women",
+    "Price": "209.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [
+      "Blood Orange",
+      "Pink Pepper",
+      "Bergamot",
+      "Tuberose",
+      "Jasmine Sambac",
+      "Ylang-Ylang",
+      "Lily-of-the-Valley",
+      "Rose",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "white floral",
+      "tuberose",
+      "woody",
+      "yellow floral",
+      "citrus",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "tuberose": "70%",
+      "woody": "62%",
+      "yellow floral": "58%",
+      "citrus": "52%",
+      "sweet": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.558
+      },
+      {
+        "name": "summer",
+        "score": 0.52
+      },
+      {
+        "name": "spring",
+        "score": 0.468
+      },
+      {
+        "name": "winter",
+        "score": 0.434
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.85
+      },
+      {
+        "name": "casual",
+        "score": 0.75
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Blood Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Blood%20Orange.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/495269.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dior/jadore-infinissime-intense/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#495269"
+  },
+  {
+    "Name": "Lily Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/lily-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "49",
+    "Longevity": "68%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Green Notes",
+      "Fruity Notes",
+      "Bergamot",
+      "Brazilian Rosewood",
+      "Lily-of-the-Valley",
+      "Lilac",
+      "Lily",
+      "Jasmine",
+      "Rose",
+      "Musk",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "white floral",
+      "green",
+      "floral",
+      "fresh",
+      "woody",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "green": "74%",
+      "floral": "65%",
+      "fresh": "64%",
+      "woody": "53%",
+      "citrus": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.287
+      },
+      {
+        "name": "summer",
+        "score": 1.534
+      },
+      {
+        "name": "fall",
+        "score": 0.477
+      },
+      {
+        "name": "winter",
+        "score": 0.371
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.5
+      },
+      {
+        "name": "professional",
+        "score": 1.397
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Fruity Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruity%20Notes.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Brazilian Rosewood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Brazilian%20Rosewood.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        },
+        {
+          "name": "Lilac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lilac.png"
+        },
+        {
+          "name": "Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/lily-dior-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/christian-dior/lily-perfume"
+  },
+  {
+    "Name": "Midnight Charm Dior for women",
+    "Brand": "Dior",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/midnight-charm-dior-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "70%",
+    "Sillage": "74%",
+    "General Notes": [
+      "Mandarin Orange",
+      "Fruity Notes",
+      "Green Notes",
+      "Jasmine",
+      "Rose",
+      "Peach",
+      "Leather",
+      "Amber"
+    ],
+    "Main Accords": [
+      "fruity",
+      "citrus",
+      "white floral",
+      "green",
+      "rose",
+      "leather",
+      "amber",
+      "sweet",
+      "animalic",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "citrus": "91%",
+      "white floral": "85%",
+      "green": "72%",
+      "rose": "71%",
+      "leather": "71%",
+      "amber": "68%",
+      "sweet": "64%",
+      "animalic": "61%",
+      "floral": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.925
+      },
+      {
+        "name": "summer",
+        "score": 1.342
+      },
+      {
+        "name": "fall",
+        "score": 0.68
+      },
+      {
+        "name": "winter",
+        "score": 0.544
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.574
+      },
+      {
+        "name": "professional",
+        "score": 1.376
+      },
+      {
+        "name": "night out",
+        "score": 1.106
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Fruity Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruity%20Notes.png"
+        },
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/midnight-charm-dior-for-women.jpg"
+    ]
+  }
+]

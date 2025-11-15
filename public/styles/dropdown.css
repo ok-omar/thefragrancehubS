@@ -1,0 +1,39 @@
+.dropdown details {
+  display: inline-block;
+  position: relative;
+}
+
+.dropdown summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+.dropdown-content {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  margin-top: 2px;
+  z-index: 100;
+}
+
+.dropdown-content a {
+  padding: 4px 8px;
+  text-decoration: none;
+  color: #000;
+}
+
+.dropdown-content a:hover {
+  background-color: #f0f0f0;
+}

@@ -1,0 +1,2458 @@
+[
+  {
+    "Name": "Dolce",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce.jpg",
+    "Gender": "women",
+    "Price": "82.99",
+    "Longevity": "54.4%",
+    "Sillage": "49.75%",
+    "General Notes": [
+      "Neroli",
+      "Papaya Flower",
+      "Water Lily",
+      "Narcissus",
+      "Amaryllis",
+      "Cashmeran",
+      "Musk"
+    ],
+    "Main Accords": [
+      "floral",
+      "musky",
+      "fresh",
+      "powdery",
+      "aquatic",
+      "yellow floral",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "musky": "71%",
+      "fresh": "58%",
+      "powdery": "55%",
+      "aquatic": "54%",
+      "yellow floral": "49%",
+      "green": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.956
+      },
+      {
+        "name": "summer",
+        "score": 1.348
+      },
+      {
+        "name": "fall",
+        "score": 0.639
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.712
+      },
+      {
+        "name": "professional",
+        "score": 0.753
+      },
+      {
+        "name": "night out",
+        "score": 0.639
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Papaya flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Papaya%20Flower.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Water Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Lily.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Amaryllis",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amaryllis.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cashmeran",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cashmeran.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/255098.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#255098"
+  },
+  {
+    "Name": "Dolce & Gabbana",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-&-gabbana.jpg",
+    "Gender": "men",
+    "Price": "98.99",
+    "Longevity": "65%",
+    "Sillage": "53%",
+    "General Notes": [
+      "Mandarin Orange",
+      "Citruses",
+      "Neroli",
+      "Bergamot",
+      "Pepper",
+      "Sage",
+      "Lavender",
+      "Tobacco",
+      "Cedar",
+      "Tonka Bean"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "sweet",
+      "white floral",
+      "powdery",
+      "lactonic",
+      "rum",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "74%",
+      "aromatic": "73%",
+      "lavender": "65%",
+      "tobacco": "56%",
+      "sweet": "51%",
+      "fresh": "50%",
+      "herbal": "49%",
+      "woody": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.911
+      },
+      {
+        "name": "summer",
+        "score": 1.5
+      },
+      {
+        "name": "fall",
+        "score": 0.405
+      },
+      {
+        "name": "winter",
+        "score": 0.315
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.845
+      },
+      {
+        "name": "casual",
+        "score": 1.706
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tobacco",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/263791.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/dolce-and-gabbana/dolce-and-gabbana/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#263791"
+  },
+  {
+    "Name": "Dolce Shine",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-shine.jpg",
+    "Gender": "women",
+    "Price": "80.99",
+    "Longevity": "57.8%",
+    "Sillage": "55.0%",
+    "General Notes": [
+      "Tuberose",
+      "White woods",
+      "Australian Sandalwood",
+      "White Musk",
+      "Orange Blossom"
+    ],
+    "Main Accords": [
+      "white floral",
+      "fruity",
+      "sweet",
+      "tropical",
+      "tuberose",
+      "ozonic",
+      "citrus",
+      "salty",
+      "aldehydic",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "fruity": "85%",
+      "sweet": "79%",
+      "tropical": "69%",
+      "ozonic": "65%",
+      "tuberose": "65%",
+      "citrus": "61%",
+      "aldehydic": "56%",
+      "salty": "56%",
+      "woody": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.682
+      },
+      {
+        "name": "spring",
+        "score": 0.549
+      },
+      {
+        "name": "fall",
+        "score": 0.459
+      },
+      {
+        "name": "winter",
+        "score": 0.357
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.023
+      },
+      {
+        "name": "professional",
+        "score": 0.845
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mango",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mango.png"
+        },
+        {
+          "name": "Quince",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Quince.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Solar Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Solar%20Notes.png"
+        },
+        {
+          "name": "Ozonic notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ozonic%20Notes.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Sea Salt",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sea%20Salt.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Australian Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Australian%20Sandalwood.png"
+        },
+        {
+          "name": "White Woods",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Woods.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/356391.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-shine/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#356391"
+  },
+  {
+    "Name": "Dolce Lily",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-lily.jpg",
+    "Gender": "women",
+    "Price": "99.99",
+    "Longevity": "57.4%",
+    "Sillage": "47.5%",
+    "General Notes": [
+      "bergamot",
+      "lemon",
+      "passionfruit",
+      "rose",
+      "lily"
+    ],
+    "Main Accords": [
+      "citrus",
+      "tropical",
+      "fruity",
+      "sweet",
+      "fresh",
+      "musky",
+      "rose",
+      "powdery",
+      "aromatic",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "tropical": "76%",
+      "fruity": "70%",
+      "sweet": "68%",
+      "fresh": "64%",
+      "musky": "62%",
+      "rose": "62%",
+      "powdery": "57%",
+      "aromatic": "51%",
+      "fresh spicy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 2.248
+      },
+      {
+        "name": "spring",
+        "score": 1.897
+      },
+      {
+        "name": "fall",
+        "score": 0.558
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.948
+      },
+      {
+        "name": "professional",
+        "score": 1.652
+      },
+      {
+        "name": "night out",
+        "score": 0.558
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Passionfruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Passionfruit.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Pink Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Lily.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/438246.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-lily/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#438246"
+  },
+  {
+    "Name": "Dolce Peony",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-peony.jpg",
+    "Gender": "women",
+    "Price": "74.99",
+    "Longevity": "51.8%",
+    "Sillage": "52.25%",
+    "General Notes": [
+      "Cyclamen",
+      "Bergamot",
+      "Pink Pepper",
+      "Peony",
+      "Bulgarian Rose"
+    ],
+    "Main Accords": [
+      "floral",
+      "fresh",
+      "fruity",
+      "sweet",
+      "rose",
+      "honey"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "fresh": "73%",
+      "fruity": "69%",
+      "sweet": "63%",
+      "rose": "56%",
+      "honey": "50%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.73
+      },
+      {
+        "name": "summer",
+        "score": 0.73
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.808
+      },
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        },
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Peony",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peony.png"
+        },
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Mirabelle",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mirabelle.png"
+        },
+        {
+          "name": "Honey",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Honey.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/331217.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-peony/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#331217"
+  },
+  {
+    "Name": "Dolce Rose",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-rose.jpg",
+    "Gender": "women",
+    "Price": "99.99",
+    "Longevity": "54.8%",
+    "Sillage": "47.0%",
+    "General Notes": [
+      "Red Currant",
+      "Green Apple",
+      "Mandarin Orange",
+      "Rose",
+      "Magnolia"
+    ],
+    "Main Accords": [
+      "fruity",
+      "rose",
+      "fresh",
+      "floral",
+      "sweet",
+      "soft spicy",
+      "citrus",
+      "musky",
+      "powdery",
+      "sour"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "rose": "68%",
+      "fresh": "59%",
+      "floral": "57%",
+      "sweet": "52%",
+      "soft spicy": "50%",
+      "citrus": "49%",
+      "musky": "48%",
+      "powdery": "46%",
+      "sour": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.601
+      },
+      {
+        "name": "summer",
+        "score": 1.08
+      },
+      {
+        "name": "fall",
+        "score": 0.432
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.742
+      },
+      {
+        "name": "professional",
+        "score": 0.668
+      },
+      {
+        "name": "night out",
+        "score": 0.432
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Red Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Red%20Currant.png"
+        },
+        {
+          "name": "Green Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Apple.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "May Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/May%20Rose.png"
+        },
+        {
+          "name": "White Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Peach.png"
+        },
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "White Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Wood.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/418968.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-rose/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#385753"
+  },
+  {
+    "Name": "Dolce Violet",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-violet.jpg",
+    "Gender": "women",
+    "Price": "90.99",
+    "Longevity": "52.8%",
+    "Sillage": "43.75%",
+    "General Notes": [
+      "Cassis",
+      "Cyclamen",
+      "Mandarin Orange",
+      "Black Currant",
+      "Violet",
+      "Pear",
+      "Musk",
+      "Madagascar Vanilla",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "fruity",
+      "powdery",
+      "woody",
+      "soft spicy",
+      "fresh",
+      "aromatic",
+      "floral",
+      "violet",
+      "green",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "powdery": "64%",
+      "woody": "58%",
+      "soft spicy": "57%",
+      "fresh": "57%",
+      "aromatic": "56%",
+      "floral": "56%",
+      "violet": "55%",
+      "green": "54%",
+      "sweet": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.954
+      },
+      {
+        "name": "summer",
+        "score": 0.894
+      },
+      {
+        "name": "fall",
+        "score": 0.522
+      },
+      {
+        "name": "winter",
+        "score": 0.406
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.836
+      },
+      {
+        "name": "casual",
+        "score": 1.238
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Cassis",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cassis.png"
+        },
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Madagascar Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Madagascar%20Vanilla.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/465356.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-violet/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#465356"
+  },
+  {
+    "Name": "Dolce Garden",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-garden.jpg",
+    "Gender": "women",
+    "Price": "99.99",
+    "Longevity": "65.8%",
+    "Sillage": "58.25%",
+    "General Notes": [
+      "Magnolia",
+      "Coconut",
+      "Sandalwood",
+      "Vanilla Absolute",
+      "Frangipani"
+    ],
+    "Main Accords": [
+      "floral",
+      "coconut",
+      "vanilla",
+      "sweet",
+      "tropical",
+      "almond",
+      "lactonic",
+      "nutty",
+      "citrus",
+      "fruity"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "coconut": "98%",
+      "vanilla": "97%",
+      "sweet": "94%",
+      "tropical": "79%",
+      "almond": "74%",
+      "lactonic": "74%",
+      "nutty": "70%",
+      "citrus": "69%",
+      "fruity": "59%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.621
+      },
+      {
+        "name": "summer",
+        "score": 1.322
+      },
+      {
+        "name": "winter",
+        "score": 0.873
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.885
+      },
+      {
+        "name": "night out",
+        "score": 0.679
+      },
+      {
+        "name": "professional",
+        "score": 0.552
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Coconut",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coconut.png"
+        },
+        {
+          "name": "Frangipani",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Frangipani.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla Absolute",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla%20Absolute.png"
+        },
+        {
+          "name": "Almond Milk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Almond%20Milk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/310776.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-garden/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#310776"
+  },
+  {
+    "Name": "Dolce & Gabbana Devotion",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-&-gabbana-devotion.jpg",
+    "Gender": "women",
+    "Price": "134.99",
+    "Longevity": "64.8%",
+    "Sillage": "53.75%",
+    "General Notes": [
+      "Panacotta",
+      "Orange Blossom",
+      "Rum",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "sweet",
+      "white floral",
+      "powdery",
+      "lactonic",
+      "rum",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "sweet": "89%",
+      "white floral": "64%",
+      "powdery": "51%",
+      "lactonic": "51%",
+      "rum": "49%",
+      "citrus": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 0.9
+      },
+      {
+        "name": "summer",
+        "score": 0.47
+      },
+      {
+        "name": "spring",
+        "score": 0.423
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.957
+      },
+      {
+        "name": "night out",
+        "score": 0.7
+      },
+      {
+        "name": "professional",
+        "score": 0.682
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Candied Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Candied%20Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Panacotta",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Panacotta.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Rum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rum.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/430036.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-and-gabbana-devotion/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#430036"
+  },
+  {
+    "Name": "Dolce & Gabbana Variety",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-&-gabbana-variety.jpg",
+    "Gender": "men",
+    "Price": "72.99",
+    "Longevity": "82%",
+    "Sillage": "74%",
+    "General Notes": [
+      "Aldehydes",
+      "Basil",
+      "Citruses",
+      "Ivy",
+      "Mandarin Orange",
+      "Freesia",
+      "Bergamot",
+      "Carnation",
+      "Marigold",
+      "Coriander",
+      "Orange Blossom",
+      "Lily",
+      "Jasmine",
+      "Bulgarian Rose",
+      "Lily-of-the-Valley",
+      "Sandalwood",
+      "Vanilla",
+      "Musk",
+      "Tonka Bean"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "floral",
+      "fresh",
+      "white floral",
+      "aldehydic",
+      "citrus",
+      "fresh spicy",
+      "warm spicy",
+      "woody",
+      "vanilla"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "floral": "81%",
+      "fresh": "80%",
+      "white floral": "80%",
+      "aldehydic": "78%",
+      "citrus": "70%",
+      "fresh spicy": "69%",
+      "warm spicy": "68%",
+      "woody": "64%",
+      "vanilla": "63%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.94
+      },
+      {
+        "name": "winter",
+        "score": 1.695
+      },
+      {
+        "name": "summer",
+        "score": 1.5
+      },
+      {
+        "name": "fall",
+        "score": 1.12
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.008
+      },
+      {
+        "name": "casual",
+        "score": 1.997
+      },
+      {
+        "name": "night out",
+        "score": 0.985
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        },
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        },
+        {
+          "name": "Ivy",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ivy.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Freesia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Freesia.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Carnation",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carnation.png"
+        },
+        {
+          "name": "Marigold",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Marigold.png"
+        },
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://fragella.com/images/fragella_logo.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/dolce-and-gabbana/dolce-and-gabbana-variety/5-piece-mens-mini-variety-with-the-one-edt-and-light-blue-edt-and-k-edp-and-k-edt-and-devotion-and-all-are-minis?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#506348"
+  },
+  {
+    "Name": "Dolce Rosa Excelsa",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-rosa-excelsa.jpg",
+    "Gender": "women",
+    "Price": "91.70",
+    "Longevity": "53.8%",
+    "Sillage": "50.75%",
+    "General Notes": [
+      "Papaya flower",
+      "Neroli leaves",
+      "White amaryllis",
+      "White daffodil",
+      "White water lily"
+    ],
+    "Main Accords": [
+      "floral",
+      "rose",
+      "musky",
+      "fresh",
+      "aquatic",
+      "powdery",
+      "woody",
+      "yellow floral"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "rose": "78%",
+      "musky": "66%",
+      "fresh": "52%",
+      "aquatic": "50%",
+      "powdery": "49%",
+      "woody": "48%",
+      "yellow floral": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.52
+      },
+      {
+        "name": "fall",
+        "score": 1.026
+      },
+      {
+        "name": "summer",
+        "score": 0.97
+      },
+      {
+        "name": "winter",
+        "score": 0.336
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.62
+      },
+      {
+        "name": "professional",
+        "score": 0.63
+      },
+      {
+        "name": "night out",
+        "score": 0.594
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Papaya flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Papaya%20Flower.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Turkish Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Turkish%20Rose.png"
+        },
+        {
+          "name": "Water Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Lily.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Amaryllis",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amaryllis.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cashmere Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cashmere%20Wood.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/283271.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-rosa-excelsa/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#283271"
+  },
+  {
+    "Name": "Dolce & Gabbana K",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-&-gabbana-k.jpg",
+    "Gender": "men",
+    "Price": "62.99",
+    "Longevity": "60.2%",
+    "Sillage": "54.75%",
+    "General Notes": [
+      "Blood Orange",
+      "Sicilian Lemon",
+      "Juniper Berries",
+      "Vetiver",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "citrus",
+      "woody",
+      "fresh spicy",
+      "warm spicy",
+      "fresh",
+      "lavender"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "citrus": "87%",
+      "woody": "73%",
+      "fresh spicy": "73%",
+      "warm spicy": "52%",
+      "fresh": "51%",
+      "lavender": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.993
+      },
+      {
+        "name": "summer",
+        "score": 1.38
+      },
+      {
+        "name": "fall",
+        "score": 1.073
+      },
+      {
+        "name": "winter",
+        "score": 1.031
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.207
+      },
+      {
+        "name": "casual",
+        "score": 1.293
+      },
+      {
+        "name": "night out",
+        "score": 0.416
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Juniper Berries",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Juniper%20Berries.png"
+        },
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        },
+        {
+          "name": "Blood Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Blood%20Orange.png"
+        },
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pimento",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pimento.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Clary Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clary%20Sage.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/366079.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/dolce-and-gabbana/dolce-and-gabbana-k/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#366079"
+  },
+  {
+    "Name": "Dolce & Gabbana Intenso",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-&-gabbana-intenso.jpg",
+    "Gender": "men",
+    "Price": "91.99",
+    "Longevity": "61.8%",
+    "Sillage": "53.75%",
+    "General Notes": [
+      "Marigold",
+      "Geranium",
+      "Lavender",
+      "Basil",
+      "Water Notes",
+      "Clary Sage",
+      "Bran",
+      "Moepel Accord",
+      "Hay",
+      "Tobacco",
+      "Amber",
+      "Musk",
+      "Cypress",
+      "Sandalwood",
+      "Labdanum"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "fresh spicy",
+      "herbal",
+      "green",
+      "lavender",
+      "tobacco",
+      "woody",
+      "sweet",
+      "aquatic",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "fresh spicy": "94%",
+      "herbal": "69%",
+      "green": "66%",
+      "lavender": "66%",
+      "tobacco": "63%",
+      "woody": "62%",
+      "sweet": "58%",
+      "aquatic": "52%",
+      "amber": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.228
+      },
+      {
+        "name": "fall",
+        "score": 1.048
+      },
+      {
+        "name": "summer",
+        "score": 0.864
+      },
+      {
+        "name": "winter",
+        "score": 0.826
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.028
+      },
+      {
+        "name": "casual",
+        "score": 0.764
+      },
+      {
+        "name": "night out",
+        "score": 0.49
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Water Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Notes.png"
+        },
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Marigold",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Marigold.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tobacco",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco.png"
+        },
+        {
+          "name": "Hay",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hay.png"
+        },
+        {
+          "name": "Clary Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clary%20Sage.png"
+        },
+        {
+          "name": "Moepel accord",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moepel%20Accord.png"
+        },
+        {
+          "name": "Bran",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bran.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Cypress",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cypress.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/260286.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/dolce-and-gabbana/dolce-and-gabbana-intenso/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#260286"
+  },
+  {
+    "Name": "Dolce & Gabbana Q",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-&-gabbana-q.jpg",
+    "Gender": "women",
+    "Price": "99.99",
+    "Longevity": "54.4%",
+    "Sillage": "44.0%",
+    "General Notes": [
+      "jasmine",
+      "blood orange",
+      "Sicilian lemon",
+      "heliotrope",
+      "cedar"
+    ],
+    "Main Accords": [
+      "citrus",
+      "powdery",
+      "musky",
+      "cherry",
+      "woody",
+      "sweet",
+      "white floral",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "powdery": "66%",
+      "musky": "61%",
+      "cherry": "59%",
+      "woody": "56%",
+      "sweet": "51%",
+      "white floral": "45%",
+      "aromatic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.208
+      },
+      {
+        "name": "fall",
+        "score": 1.053
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "winter",
+        "score": 0.392
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.028
+      },
+      {
+        "name": "casual",
+        "score": 1.206
+      },
+      {
+        "name": "night out",
+        "score": 0.549
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        },
+        {
+          "name": "Blood Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Blood%20Orange.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Cherry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cherry.png"
+        },
+        {
+          "name": "Heliotrope",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Heliotrope.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/456917.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-and-gabbana-q/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#456917"
+  },
+  {
+    "Name": "Dolce Blue Jasmine",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-blue-jasmine.jpg",
+    "Gender": "women",
+    "Price": "114.99",
+    "Longevity": "63.2%",
+    "Sillage": "51.75%",
+    "General Notes": [
+      "jasmine sambac",
+      "cedarwood",
+      "fig"
+    ],
+    "Main Accords": [
+      "white floral",
+      "woody",
+      "fruity",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "woody": "92%",
+      "fruity": "87%",
+      "sweet": "66%",
+      "floral": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.828
+      },
+      {
+        "name": "winter",
+        "score": 0.644
+      },
+      {
+        "name": "spring",
+        "score": 0.44
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.704
+      },
+      {
+        "name": "professional",
+        "score": 0.644
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Fig",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fig.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/488190.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-blue-jasmine/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#488190"
+  },
+  {
+    "Name": "Dolce Floral Drops",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-floral-drops.jpg",
+    "Gender": "women",
+    "Price": "151.99",
+    "Longevity": "53.8%",
+    "Sillage": "50.5%",
+    "General Notes": [
+      "Neroli",
+      "Papaya Flower",
+      "Apple",
+      "Peach",
+      "Water Lily"
+    ],
+    "Main Accords": [
+      "floral",
+      "fruity",
+      "fresh",
+      "green",
+      "aquatic",
+      "musky",
+      "woody",
+      "yellow floral",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "fruity": "77%",
+      "fresh": "74%",
+      "green": "60%",
+      "aquatic": "58%",
+      "musky": "54%",
+      "woody": "54%",
+      "yellow floral": "49%",
+      "powdery": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.22
+      },
+      {
+        "name": "summer",
+        "score": 1.622
+      },
+      {
+        "name": "fall",
+        "score": 0.972
+      },
+      {
+        "name": "winter",
+        "score": 0.378
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.904
+      },
+      {
+        "name": "professional",
+        "score": 1.2
+      },
+      {
+        "name": "night out",
+        "score": 0.486
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Papaya flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Papaya%20Flower.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Water Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Lily.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Amaryllis",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amaryllis.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cashmere Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cashmere%20Wood.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/270466.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-floral-drops/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#270466"
+  },
+  {
+    "Name": "Dolce&Gabbana Perfume for Babies Dolce&Gabbana unisex",
+    "Brand": "Dolce&Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce&gabbana-perfume-for-babies-dolce&gabbana-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "59",
+    "Longevity": "62%",
+    "Sillage": "71%",
+    "General Notes": [],
+    "Main Accords": [
+      "musky",
+      "honey",
+      "sweet",
+      "citrus",
+      "powdery",
+      "ozonic",
+      "aquatic",
+      "floral",
+      "fresh spicy",
+      "fresh"
+    ],
+    "Main Accords Percentage": {
+      "musky": "100%",
+      "honey": "92%",
+      "sweet": "78%",
+      "citrus": "74%",
+      "powdery": "73%",
+      "ozonic": "66%",
+      "aquatic": "61%",
+      "floral": "55%",
+      "fresh spicy": "52%",
+      "fresh": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 2.327
+      },
+      {
+        "name": "spring",
+        "score": 1.726
+      },
+      {
+        "name": "fall",
+        "score": 0.9
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 2.517
+      },
+      {
+        "name": "professional",
+        "score": 1.03
+      },
+      {
+        "name": "night out",
+        "score": 0.9
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-gabbana-perfume-for-babies-dolce-gabbana-unisex.jpg"
+    ]
+  },
+  {
+    "Name": "Dolce&Gabbana Pour Homme 2012 Dolce&Gabbana for men",
+    "Brand": "Dolce&Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce&gabbana-pour-homme-2012-dolce&gabbana-for-men.jpg",
+    "Gender": "men",
+    "Price": "49",
+    "Longevity": "65%",
+    "Sillage": "53%",
+    "General Notes": [
+      "Citruses",
+      "Bergamot",
+      "Neroli",
+      "Mandarin Orange",
+      "Lavender",
+      "Sage",
+      "Pepper",
+      "Tobacco",
+      "Tonka Bean",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "aromatic",
+      "lavender",
+      "tobacco",
+      "sweet",
+      "fresh",
+      "herbal",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "74%",
+      "aromatic": "73%",
+      "lavender": "65%",
+      "tobacco": "56%",
+      "sweet": "51%",
+      "fresh": "50%",
+      "herbal": "49%",
+      "woody": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.911
+      },
+      {
+        "name": "summer",
+        "score": 1.5
+      },
+      {
+        "name": "fall",
+        "score": 0.405
+      },
+      {
+        "name": "winter",
+        "score": 0.315
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.845
+      },
+      {
+        "name": "casual",
+        "score": 1.706
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tobacco",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-gabbana-pour-homme-2012-dolce-gabbana-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/dolce-and-gabbana/dolce-and-gabbana-cologne"
+  },
+  {
+    "Name": "Dolce&Gabbana pour Homme 1994 Dolce&Gabbana for men",
+    "Brand": "Dolce&Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce&gabbana-pour-homme-1994-dolce&gabbana-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "73%",
+    "Sillage": "66%",
+    "General Notes": [
+      "Lavender",
+      "Lemon",
+      "Bergamot",
+      "Clary Sage",
+      "Tarragon",
+      "Mandarin Orange",
+      "Orange",
+      "Neroli",
+      "Pepper",
+      "Cinnamon",
+      "Coriander",
+      "Geranium",
+      "Violet",
+      "Jasmine",
+      "Rose",
+      "Tobacco",
+      "Tonka Bean",
+      "Sandalwood",
+      "Musk",
+      "Cedar",
+      "Amber",
+      "Coumarin",
+      "Iris"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "citrus",
+      "fresh spicy",
+      "woody",
+      "warm spicy",
+      "lavender",
+      "sweet",
+      "powdery",
+      "tobacco",
+      "soft spicy"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "citrus": "88%",
+      "fresh spicy": "77%",
+      "woody": "58%",
+      "warm spicy": "58%",
+      "lavender": "58%",
+      "sweet": "55%",
+      "powdery": "54%",
+      "tobacco": "50%",
+      "soft spicy": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.492
+      },
+      {
+        "name": "fall",
+        "score": 0.986
+      },
+      {
+        "name": "winter",
+        "score": 0.986
+      },
+      {
+        "name": "summer",
+        "score": 0.88
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.434
+      },
+      {
+        "name": "casual",
+        "score": 1.122
+      },
+      {
+        "name": "night out",
+        "score": 0.464
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Clary Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clary%20Sage.png"
+        },
+        {
+          "name": "Tarragon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tarragon.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tobacco",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Coumarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coumarin.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-gabbana-pour-homme-1994-dolce-gabbana-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.sephora.com/ca/en/brand/dolce-gabbana/men"
+  },
+  {
+    "Name": "Dolce & Gabbana Pour Femme",
+    "Brand": "Dolce & Gabbana",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/dolce-&-gabbana-pour-femme.jpg",
+    "Gender": "women",
+    "Price": "96.99",
+    "Longevity": "63.4%",
+    "Sillage": "54.75%",
+    "General Notes": [
+      "Raspberry",
+      "Tangerine",
+      "Marshmallow",
+      "Vanilla",
+      "And Sandalwood."
+    ],
+    "Main Accords": [
+      "sweet",
+      "powdery",
+      "vanilla",
+      "fruity",
+      "white floral",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "sweet": "100%",
+      "powdery": "81%",
+      "vanilla": "72%",
+      "fruity": "62%",
+      "white floral": "60%",
+      "citrus": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 0.648
+      },
+      {
+        "name": "summer",
+        "score": 0.53
+      },
+      {
+        "name": "spring",
+        "score": 0.477
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.077
+      },
+      {
+        "name": "professional",
+        "score": 0.91
+      },
+      {
+        "name": "night out",
+        "score": 0.504
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Raspberry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Raspberry.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Marshmallow",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Marshmallow.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Heliotrope",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Heliotrope.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/232008.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/dolce-and-gabbana/dolce-and-gabbana-pour-femme/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#232008"
+  }
+]

@@ -1,0 +1,1626 @@
+[
+  {
+    "Name": "Saffron Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/saffron-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "49",
+    "Longevity": "51%",
+    "Sillage": "50%",
+    "General Notes": [
+      "Pink Pepper",
+      "Incense",
+      "Bergamot",
+      "Saffron",
+      "Sandalwood",
+      "Iris",
+      "Woodsy Notes",
+      "Guaiac Wood",
+      "Amber",
+      "White Musk"
+    ],
+    "Main Accords": [
+      "woody",
+      "warm spicy",
+      "amber",
+      "powdery",
+      "musky",
+      "metallic",
+      "leather",
+      "smoky",
+      "soft spicy"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "warm spicy": "75%",
+      "amber": "58%",
+      "powdery": "57%",
+      "musky": "49%",
+      "metallic": "49%",
+      "leather": "45%",
+      "smoky": "45%",
+      "soft spicy": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.521
+      },
+      {
+        "name": "winter",
+        "score": 1.914
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.116
+      },
+      {
+        "name": "professional",
+        "score": 1.042
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Saffron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Saffron.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Woodsy Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woodsy%20Notes.png"
+        },
+        {
+          "name": "Guaiac Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guaiac%20Wood.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/saffron-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/jo-malone/jo-malone-saffron/women-perfume"
+  },
+  {
+    "Name": "Vetyver Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/vetyver-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "49",
+    "Longevity": "59%",
+    "Sillage": "56%",
+    "General Notes": [],
+    "Main Accords": [
+      "aromatic",
+      "citrus",
+      "fresh spicy",
+      "woody",
+      "earthy",
+      "anis",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "citrus": "82%",
+      "fresh spicy": "76%",
+      "woody": "73%",
+      "earthy": "67%",
+      "anis": "50%",
+      "sweet": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.438
+      },
+      {
+        "name": "fall",
+        "score": 1.193
+      },
+      {
+        "name": "summer",
+        "score": 0.82
+      },
+      {
+        "name": "winter",
+        "score": 0.511
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.167
+      },
+      {
+        "name": "casual",
+        "score": 1.014
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/vetyver-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/jo-malone/jo-malone-vetyver/women-perfume"
+  },
+  {
+    "Name": "Redcurrant & Cream Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/redcurrant-&-cream-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "110",
+    "Longevity": "49%",
+    "Sillage": "50%",
+    "General Notes": [],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "soft spicy",
+      "fresh",
+      "musky",
+      "sour"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "sweet": "68%",
+      "soft spicy": "56%",
+      "fresh": "52%",
+      "musky": "52%",
+      "sour": "50%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0.52
+      },
+      {
+        "name": "summer",
+        "score": 0.52
+      },
+      {
+        "name": "fall",
+        "score": 0.468
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.928
+      },
+      {
+        "name": "night out",
+        "score": 0.468
+      },
+      {
+        "name": "professional",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/redcurrant-cream-jo-malone-london-unisex.jpg"
+    ]
+  },
+  {
+    "Name": "Assam & Grapefruit Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/assam-&-grapefruit-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "49",
+    "Longevity": "48%",
+    "Sillage": "58%",
+    "General Notes": [
+      "Grapefruit",
+      "Rhuburb",
+      "Violet",
+      "Tea",
+      "Rose",
+      "Cardamom",
+      "Musk",
+      "Almond",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "green",
+      "citrus",
+      "aromatic",
+      "powdery",
+      "fresh",
+      "warm spicy",
+      "musky",
+      "fruity",
+      "fresh spicy",
+      "almond"
+    ],
+    "Main Accords Percentage": {
+      "green": "100%",
+      "citrus": "87%",
+      "aromatic": "65%",
+      "powdery": "61%",
+      "fresh": "61%",
+      "warm spicy": "60%",
+      "musky": "59%",
+      "fruity": "58%",
+      "fresh spicy": "56%",
+      "almond": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.648
+      },
+      {
+        "name": "summer",
+        "score": 2.08
+      },
+      {
+        "name": "fall",
+        "score": 1.011
+      },
+      {
+        "name": "winter",
+        "score": 0.6
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.612
+      },
+      {
+        "name": "casual",
+        "score": 1.393
+      },
+      {
+        "name": "night out",
+        "score": 1.011
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Rhuburb",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rhuburb.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tea",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tea.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Almond",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Almond.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/assam-grapefruit-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.perfume.com/jo-malone/jo-malone-assam-grapefruit/women-perfume"
+  },
+  {
+    "Name": "Oat & Cornflower Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/oat-&-cornflower-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "49",
+    "Longevity": "54%",
+    "Sillage": "52%",
+    "General Notes": [],
+    "Main Accords": [
+      "savory",
+      "nutty",
+      "woody",
+      "lactonic",
+      "floral",
+      "herbal",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "savory": "100%",
+      "nutty": "89%",
+      "woody": "78%",
+      "lactonic": "72%",
+      "floral": "67%",
+      "herbal": "55%",
+      "aromatic": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.055
+      },
+      {
+        "name": "fall",
+        "score": 0.702
+      },
+      {
+        "name": "winter",
+        "score": 0.546
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.096
+      },
+      {
+        "name": "casual",
+        "score": 0.469
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/oat-cornflower-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/jo-malone/jo-malone-oat-and-cornflower-perfume"
+  },
+  {
+    "Name": "Leather & Artemisia Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/leather-&-artemisia-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "49",
+    "Longevity": "54%",
+    "Sillage": "52%",
+    "General Notes": [],
+    "Main Accords": [
+      "aromatic",
+      "leather",
+      "earthy",
+      "woody",
+      "iris",
+      "bitter",
+      "animalic",
+      "powdery",
+      "smoky"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "leather": "100%",
+      "earthy": "91%",
+      "woody": "87%",
+      "iris": "80%",
+      "bitter": "74%",
+      "animalic": "65%",
+      "powdery": "60%",
+      "smoky": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.511
+      },
+      {
+        "name": "spring",
+        "score": 0.7
+      },
+      {
+        "name": "winter",
+        "score": 0.609
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.969
+      },
+      {
+        "name": "night out",
+        "score": 0.855
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/leather-artemisia-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/jo-malone/jo-malone-leather-and-artemisia-cologne"
+  },
+  {
+    "Name": "Lavender & Coriander Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/lavender-&-coriander-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "40%",
+    "Sillage": "55%",
+    "General Notes": [
+      "Coriander",
+      "Juniper",
+      "Lavender",
+      "Wormwood",
+      "Lavender",
+      "Sage",
+      "Tonka Bean"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "lavender",
+      "herbal",
+      "fresh spicy",
+      "soft spicy"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "lavender": "77%",
+      "herbal": "58%",
+      "fresh spicy": "57%",
+      "soft spicy": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0.7
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Juniper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Juniper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Wormwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Wormwood.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/lavender-coriander-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.macys.com/shop/product/jo-malone-london-lavender-coriander-cologne-1-oz.?ID=10529983"
+  },
+  {
+    "Name": "Amber & Patchouli Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/amber-&-patchouli-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "49",
+    "Longevity": "58%",
+    "Sillage": "56%",
+    "General Notes": [],
+    "Main Accords": [
+      "amber",
+      "woody",
+      "patchouli",
+      "warm spicy",
+      "earthy",
+      "balsamic",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "amber": "100%",
+      "woody": "93%",
+      "patchouli": "84%",
+      "warm spicy": "57%",
+      "earthy": "52%",
+      "balsamic": "46%",
+      "animalic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.297
+      },
+      {
+        "name": "winter",
+        "score": 3.015
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.456
+      },
+      {
+        "name": "professional",
+        "score": 0.651
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/amber-patchouli-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/jo-malone/jo-malone-amber-and-patchouli-perfume"
+  },
+  {
+    "Name": "Frangipani Flower Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/frangipani-flower-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "51%",
+    "Sillage": "42%",
+    "General Notes": [],
+    "Main Accords": [
+      "floral",
+      "citrus",
+      "tropical",
+      "white floral",
+      "yellow floral",
+      "woody",
+      "lactonic",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "citrus": "90%",
+      "tropical": "78%",
+      "white floral": "69%",
+      "yellow floral": "56%",
+      "woody": "54%",
+      "lactonic": "54%",
+      "aromatic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.118
+      },
+      {
+        "name": "summer",
+        "score": 1.524
+      },
+      {
+        "name": "fall",
+        "score": 0.486
+      },
+      {
+        "name": "winter",
+        "score": 0.378
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.538
+      },
+      {
+        "name": "casual",
+        "score": 1.51
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/frangipani-flower-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.sephora.com/product/jo-malone-london-frangipani-flower-cologne-P510135"
+  },
+  {
+    "Name": "Cade & Cedarwood Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/cade-&-cedarwood-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "62%",
+    "Sillage": "60%",
+    "General Notes": [],
+    "Main Accords": [
+      "woody",
+      "aromatic",
+      "fresh spicy",
+      "smoky",
+      "vanilla",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "aromatic": "74%",
+      "fresh spicy": "62%",
+      "smoky": "62%",
+      "vanilla": "60%",
+      "powdery": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.24
+      },
+      {
+        "name": "fall",
+        "score": 0.9
+      },
+      {
+        "name": "spring",
+        "score": 0.518
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.722
+      },
+      {
+        "name": "night out",
+        "score": 0.73
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/cade-cedarwood-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.bloomingdales.com/shop/product/jo-malone-london-cade-cedarwood-cologne?ID=3278291"
+  },
+  {
+    "Name": "Orange Bitters Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/orange-bitters-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "57%",
+    "Sillage": "51%",
+    "General Notes": [],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "amber",
+      "fresh",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "51%",
+      "amber": "49%",
+      "fresh": "44%",
+      "powdery": "43%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.44
+      },
+      {
+        "name": "spring",
+        "score": 1.34
+      },
+      {
+        "name": "fall",
+        "score": 0.949
+      },
+      {
+        "name": "winter",
+        "score": 0.749
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.415
+      },
+      {
+        "name": "casual",
+        "score": 1.34
+      },
+      {
+        "name": "night out",
+        "score": 0.49
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/orange-bitters-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/jo-malone-orange-bitters-cologne/s?k=jo+malone+orange+bitters+cologne"
+  },
+  {
+    "Name": "Hemlock & Bergamot Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/hemlock-&-bergamot-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "100",
+    "Longevity": "40%",
+    "Sillage": "50%",
+    "General Notes": [],
+    "Main Accords": [
+      "powdery",
+      "floral",
+      "yellow floral",
+      "vanilla",
+      "almond",
+      "sweet",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "floral": "83%",
+      "yellow floral": "74%",
+      "vanilla": "64%",
+      "almond": "54%",
+      "sweet": "51%",
+      "citrus": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.271
+      },
+      {
+        "name": "winter",
+        "score": 0.576
+      },
+      {
+        "name": "summer",
+        "score": 0.49
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.328
+      },
+      {
+        "name": "professional",
+        "score": 0.992
+      },
+      {
+        "name": "night out",
+        "score": 0.448
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/hemlock-bergamot-jo-malone-london-unisex.jpg"
+    ]
+  },
+  {
+    "Name": "Lupin & Patchouli Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/lupin-&-patchouli-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "49",
+    "Longevity": "63%",
+    "Sillage": "64%",
+    "General Notes": [],
+    "Main Accords": [
+      "patchouli",
+      "floral",
+      "woody",
+      "warm spicy",
+      "earthy",
+      "rose",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "patchouli": "100%",
+      "floral": "78%",
+      "woody": "72%",
+      "warm spicy": "65%",
+      "earthy": "58%",
+      "rose": "56%",
+      "balsamic": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.332
+      },
+      {
+        "name": "winter",
+        "score": 2.311
+      },
+      {
+        "name": "spring",
+        "score": 0.78
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.546
+      },
+      {
+        "name": "night out",
+        "score": 0.52
+      },
+      {
+        "name": "professional",
+        "score": 0.504
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/lupin-patchouli-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancex.com/products/jo-malone/jo-malone-lupin-and-patchouli-cologne"
+  },
+  {
+    "Name": "Tuberose Jo Malone London for women",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tuberose-jo-malone-london-for-women.jpg",
+    "Gender": "women",
+    "Price": "",
+    "Longevity": "65%",
+    "Sillage": "69%",
+    "General Notes": [
+      "African Orange Flower",
+      "Tuberose",
+      "Jasmine",
+      "Peach",
+      "Sandalwood",
+      "Oakmoss"
+    ],
+    "Main Accords": [
+      "white floral",
+      "tuberose",
+      "woody",
+      "animalic",
+      "mossy"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "tuberose": "76%",
+      "woody": "54%",
+      "animalic": "48%",
+      "mossy": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.486
+      },
+      {
+        "name": "winter",
+        "score": 0.378
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.378
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "African Orange Flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/African%20Orange%20Flower.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/tuberose-jo-malone-london-for-women.jpg"
+    ],
+    "Purchase URL": "https://www.saksfifthavenue.com/product/jo-malone-london-tuberose-angelica-cologne-intense-0400018176788.html"
+  },
+  {
+    "Name": "Highland Heather Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/highland-heather-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "61%",
+    "Sillage": "46%",
+    "General Notes": [],
+    "Main Accords": [
+      "aromatic",
+      "woody",
+      "lavender",
+      "floral",
+      "fresh spicy",
+      "amber",
+      "earthy",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "woody": "92%",
+      "lavender": "72%",
+      "floral": "69%",
+      "fresh spicy": "61%",
+      "amber": "53%",
+      "earthy": "49%",
+      "sweet": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.75
+      },
+      {
+        "name": "spring",
+        "score": 1.39
+      },
+      {
+        "name": "winter",
+        "score": 1.068
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.644
+      },
+      {
+        "name": "casual",
+        "score": 0.753
+      },
+      {
+        "name": "night out",
+        "score": 0.53
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/highland-heather-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/Jo-Malone-Highland-Heather-Cologne/dp/B0C4M792TG"
+  },
+  {
+    "Name": "Whisky & Cedarwood Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/whisky-&-cedarwood-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "60%",
+    "Sillage": "57%",
+    "General Notes": [],
+    "Main Accords": [
+      "woody",
+      "whiskey",
+      "warm spicy",
+      "rose",
+      "beeswax",
+      "honey"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "whiskey": "71%",
+      "warm spicy": "62%",
+      "rose": "50%",
+      "beeswax": "50%",
+      "honey": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.396
+      },
+      {
+        "name": "winter",
+        "score": 1.32
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.7
+      },
+      {
+        "name": "night out",
+        "score": 0.496
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/whisky-cedarwood-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.nordstrom.com/s/jo-malone-london-huntsman-savile-row-whisky-cedarwood-cologne/5715510"
+  },
+  {
+    "Name": "Wild Achillea Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/wild-achillea-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "56%",
+    "Sillage": "46%",
+    "General Notes": [],
+    "Main Accords": [
+      "aromatic",
+      "green",
+      "citrus",
+      "floral",
+      "woody",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "green": "77%",
+      "citrus": "65%",
+      "floral": "56%",
+      "woody": "48%",
+      "fresh spicy": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.461
+      },
+      {
+        "name": "summer",
+        "score": 1.112
+      },
+      {
+        "name": "fall",
+        "score": 0.432
+      },
+      {
+        "name": "winter",
+        "score": 0.336
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.549
+      },
+      {
+        "name": "casual",
+        "score": 0.977
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/wild-achillea-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/Jo-Malone-London-Achillea-Cologne/dp/B0C4M6DTTV"
+  },
+  {
+    "Name": "Nutmeg & Ginger Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/nutmeg-&-ginger-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "999",
+    "Longevity": "53%",
+    "Sillage": "51%",
+    "General Notes": [],
+    "Main Accords": [
+      "fresh spicy",
+      "woody",
+      "fresh",
+      "powdery",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "fresh spicy": "100%",
+      "woody": "57%",
+      "fresh": "50%",
+      "powdery": "44%",
+      "citrus": "38%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 0.88
+      },
+      {
+        "name": "spring",
+        "score": 0.842
+      },
+      {
+        "name": "fall",
+        "score": 0.513
+      },
+      {
+        "name": "winter",
+        "score": 0.399
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.967
+      },
+      {
+        "name": "casual",
+        "score": 0.842
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/nutmeg-ginger-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/jo-malone-ginger-nutmeg/s?k=jo+malone+ginger+and+nutmeg"
+  },
+  {
+    "Name": "Melancholy Thistle Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/melancholy-thistle-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "58%",
+    "Sillage": "45%",
+    "General Notes": [],
+    "Main Accords": [
+      "woody",
+      "green",
+      "yellow floral",
+      "herbal",
+      "fresh",
+      "ozonic",
+      "patchouli",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "green": "99%",
+      "yellow floral": "76%",
+      "herbal": "68%",
+      "fresh": "65%",
+      "ozonic": "59%",
+      "patchouli": "57%",
+      "sweet": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.716
+      },
+      {
+        "name": "spring",
+        "score": 1.442
+      },
+      {
+        "name": "fall",
+        "score": 1.299
+      },
+      {
+        "name": "winter",
+        "score": 1.156
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.591
+      },
+      {
+        "name": "casual",
+        "score": 0.968
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/melancholy-thistle-jo-malone-london-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/Jo-Malone-Melancholy-Thistle-Cologne/dp/B0C4M6ZLD8"
+  },
+  {
+    "Name": "Vanilla & Anise Jo Malone London unisex",
+    "Brand": "Jo Malone London",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/vanilla-&-anise-jo-malone-london-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "60%",
+    "Sillage": "56%",
+    "General Notes": [
+      "Star Anise",
+      "Fennel",
+      "Neroli",
+      "Bergamot",
+      "Frangipani",
+      "Orchid",
+      "Clove",
+      "Tuberose",
+      "Jasmine",
+      "Vanilla",
+      "Tonka Bean",
+      "Vetiver",
+      "Amber"
+    ],
+    "Main Accords": [
+      "soft spicy",
+      "anis",
+      "vanilla",
+      "floral",
+      "powdery",
+      "white floral",
+      "citrus",
+      "sweet",
+      "fresh",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "soft spicy": "100%",
+      "anis": "89%",
+      "vanilla": "83%",
+      "floral": "82%",
+      "powdery": "64%",
+      "white floral": "58%",
+      "citrus": "53%",
+      "sweet": "50%",
+      "fresh": "47%",
+      "aromatic": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.096
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "winter",
+        "score": 0.747
+      },
+      {
+        "name": "fall",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.821
+      },
+      {
+        "name": "professional",
+        "score": 1.278
+      },
+      {
+        "name": "night out",
+        "score": 0.581
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Star Anise",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Star%20Anise.png"
+        },
+        {
+          "name": "Fennel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fennel.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Frangipani",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Frangipani.png"
+        },
+        {
+          "name": "Orchid",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orchid.png"
+        },
+        {
+          "name": "Clove",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clove.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/vanilla-anise-jo-malone-london-unisex.jpg"
+    ]
+  }
+]

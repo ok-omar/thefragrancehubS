@@ -1,0 +1,1953 @@
+[
+  {
+    "Name": "Louis Vuitton Imagination",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-imagination.jpg",
+    "Gender": "unisex",
+    "Price": "9.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [],
+    "Main Accords": [],
+    "Main Accords Percentage": {},
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/454176.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/louis-vuitton/louis-vuitton-imagination/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#454176"
+  },
+  {
+    "Name": "Louis Vuitton L'Immensite",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-limmensite.jpg",
+    "Gender": "men",
+    "Price": "10.99",
+    "Longevity": "70.8%",
+    "Sillage": "58.75%",
+    "General Notes": [
+      "Grapefruit",
+      "Ginger",
+      "Bergamot",
+      "Water Notes",
+      "Sage",
+      "Rosemary",
+      "Geranium",
+      "Ambroxan",
+      "Amber",
+      "Labdanum"
+    ],
+    "Main Accords": [
+      "citrus",
+      "aromatic",
+      "amber",
+      "fresh spicy",
+      "aquatic",
+      "warm spicy",
+      "fresh",
+      "musky",
+      "herbal",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "aromatic": "90%",
+      "amber": "87%",
+      "fresh spicy": "81%",
+      "aquatic": "65%",
+      "warm spicy": "64%",
+      "fresh": "58%",
+      "musky": "58%",
+      "herbal": "54%",
+      "woody": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.3
+      },
+      {
+        "name": "summer",
+        "score": 2.165
+      },
+      {
+        "name": "spring",
+        "score": 2.11
+      },
+      {
+        "name": "winter",
+        "score": 1.644
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.008
+      },
+      {
+        "name": "casual",
+        "score": 2
+      },
+      {
+        "name": "night out",
+        "score": 1.904
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Water Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Water%20Notes.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        },
+        {
+          "name": "Rosemary",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rosemary.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/452646.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/louis-vuitton/louis-vuitton-limmensite/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#452646"
+  },
+  {
+    "Name": "Symphony Louis Vuitton",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/symphony-louis-vuitton.jpg",
+    "Gender": "unisex",
+    "Price": "595.00",
+    "Longevity": "78.8%",
+    "Sillage": "65%",
+    "General Notes": [
+      "Grapefruit",
+      "Bergamot",
+      "Ginger"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "aromatic",
+      "fresh",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "73%",
+      "aromatic": "46%",
+      "fresh": "41%",
+      "floral": "35%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.982
+      },
+      {
+        "name": "summer",
+        "score": 1.41
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.555
+      },
+      {
+        "name": "professional",
+        "score": 1.26
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://us.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-symphony--LP0249_PM2_Front%20view.png"
+    ],
+    "Purchase URL": "https://us.louisvuitton.com/eng-us/products/symphony-nvprod3230006v/LP0249"
+  },
+  {
+    "Name": "Louis Vuitton Attrapereves",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-attrapereves.jpg",
+    "Gender": "unisex",
+    "Price": "11.99",
+    "Longevity": "69.8%",
+    "Sillage": "62.25%",
+    "General Notes": [
+      "Litchi",
+      "Ginger",
+      "Bergamot",
+      "Peony",
+      "Turkish Rose",
+      "Cacao",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "rose",
+      "fresh",
+      "floral",
+      "warm spicy",
+      "fruity",
+      "tropical",
+      "patchouli",
+      "cacao",
+      "woody",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "rose": "100%",
+      "fresh": "99%",
+      "floral": "96%",
+      "warm spicy": "78%",
+      "fruity": "71%",
+      "tropical": "65%",
+      "patchouli": "63%",
+      "cacao": "59%",
+      "woody": "52%",
+      "citrus": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.409
+      },
+      {
+        "name": "summer",
+        "score": 2.02
+      },
+      {
+        "name": "winter",
+        "score": 1.648
+      },
+      {
+        "name": "fall",
+        "score": 1.533
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 2.121
+      },
+      {
+        "name": "professional",
+        "score": 0.772
+      },
+      {
+        "name": "night out",
+        "score": 0.624
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Litchi",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Litchi.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Peony",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peony.png"
+        },
+        {
+          "name": "Turkish Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Turkish%20Rose.png"
+        },
+        {
+          "name": "Cacao",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/454179.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/louis-vuitton/louis-vuitton-attrapereves/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#454179"
+  },
+  {
+    "Name": "Louis Vuitton Meteore",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-meteore.jpg",
+    "Gender": "men",
+    "Price": "10.99",
+    "Longevity": "71.6%",
+    "Sillage": "57.25%",
+    "General Notes": [
+      "Mandarin Orange",
+      "Sicilian Orange",
+      "Calabrian bergamot",
+      "Pink Pepper",
+      "Pepper",
+      "Tunisian Neroli",
+      "Indonesian Nutmeg",
+      "Guatemalan Cardamom",
+      "Java vetiver oil"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "aromatic",
+      "warm spicy",
+      "soft spicy",
+      "woody",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "77%",
+      "aromatic": "58%",
+      "warm spicy": "46%",
+      "soft spicy": "46%",
+      "woody": "46%",
+      "sweet": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.306
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0.782
+      },
+      {
+        "name": "winter",
+        "score": 0.782
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.702
+      },
+      {
+        "name": "casual",
+        "score": 1.164
+      },
+      {
+        "name": "night out",
+        "score": 0.368
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Sicilian Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Orange.png"
+        },
+        {
+          "name": "Calabrian bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Calabrian%20Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        },
+        {
+          "name": "Tunisian Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tunisian%20Neroli.png"
+        },
+        {
+          "name": "Indonesian Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Indonesian%20Nutmeg.png"
+        },
+        {
+          "name": "Guatemalan Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guatemalan%20Cardamom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Java vetiver oil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Java%20Vetiver%20Oil.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/452658.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/louis-vuitton/louis-vuitton-meteore/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#452658"
+  },
+  {
+    "Name": "Louis Vuitton Cosmic Cloud",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-cosmic-cloud.jpg",
+    "Gender": "unisex",
+    "Price": "12.99",
+    "Longevity": "74.0%",
+    "Sillage": "55.5%",
+    "General Notes": [],
+    "Main Accords": [
+      "musky",
+      "fruity",
+      "powdery",
+      "woody",
+      "citrus",
+      "animalic",
+      "fresh spicy",
+      "aromatic",
+      "soft spicy",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "musky": "100%",
+      "fruity": "78%",
+      "powdery": "67%",
+      "woody": "56%",
+      "citrus": "55%",
+      "animalic": "48%",
+      "fresh spicy": "47%",
+      "aromatic": "47%",
+      "soft spicy": "47%",
+      "floral": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.404
+      },
+      {
+        "name": "spring",
+        "score": 1.284
+      },
+      {
+        "name": "summer",
+        "score": 0.55
+      },
+      {
+        "name": "winter",
+        "score": 0.392
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.704
+      },
+      {
+        "name": "night out",
+        "score": 0.9
+      },
+      {
+        "name": "casual",
+        "score": 0.817
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/471042.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/louis-vuitton/louis-vuitton-cosmic-cloud/parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#471042"
+  },
+  {
+    "Name": "Reminiscences Louis Vuitton unisex",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/reminiscences-louis-vuitton-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "70%",
+    "Sillage": "83%",
+    "General Notes": [],
+    "Main Accords": [],
+    "Main Accords Percentage": {},
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/reminiscences-louis-vuitton-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.nordstrom.com/brands/louis-vuitton"
+  },
+  {
+    "Name": "Louis Vuitton Nouveau Monde",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-nouveau-monde.jpg",
+    "Gender": "men",
+    "Price": "11.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [],
+    "Main Accords": [],
+    "Main Accords Percentage": {},
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/452654.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/louis-vuitton/louis-vuitton-nouveau-monde/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#452654"
+  },
+  {
+    "Name": "Louis Vuitton Matiere Noire",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-matiere-noire.jpg",
+    "Gender": "women",
+    "Price": "9.99",
+    "Longevity": "73.0%",
+    "Sillage": "67.25%",
+    "General Notes": [
+      "watery notes",
+      "blackcurrant syrup",
+      "incense",
+      "benzoin",
+      "agarwood"
+    ],
+    "Main Accords": [
+      "floral",
+      "rose",
+      "fruity",
+      "patchouli",
+      "woody",
+      "oud",
+      "amber",
+      "warm spicy",
+      "aquatic",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "rose": "96%",
+      "fruity": "93%",
+      "patchouli": "82%",
+      "woody": "81%",
+      "oud": "80%",
+      "amber": "79%",
+      "warm spicy": "79%",
+      "aquatic": "73%",
+      "balsamic": "70%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 3.135
+      },
+      {
+        "name": "fall",
+        "score": 2.725
+      },
+      {
+        "name": "spring",
+        "score": 1
+      },
+      {
+        "name": "summer",
+        "score": 0.657
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.422
+      },
+      {
+        "name": "casual",
+        "score": 1.284
+      },
+      {
+        "name": "professional",
+        "score": 0.567
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Blackcurrant Syrup",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Blackcurrant%20Syrup.png"
+        },
+        {
+          "name": "Watery Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Watery%20Notes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        },
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/452647.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/louis-vuitton/louis-vuitton-matiere-noire/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#452647"
+  },
+  {
+    "Name": "Louis Vuitton Ombre Nomade",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-ombre-nomade.jpg",
+    "Gender": "unisex",
+    "Price": "9.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [],
+    "Main Accords": [],
+    "Main Accords Percentage": {},
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "night out",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/250x250/452657.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/louis-vuitton/louis-vuitton-ombre-nomade/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#452657"
+  },
+  {
+    "Name": "Louis Vuitton Heures d'Absence",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-heures-dabsence.jpg",
+    "Gender": "unisex",
+    "Price": "9.99",
+    "Longevity": "64.8%",
+    "Sillage": "54.25%",
+    "General Notes": [
+      "Jasmine Sambac",
+      "May Rose",
+      "Mimosa",
+      "Pitosporum",
+      "Raspberry",
+      "Musk",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "white floral",
+      "sweet",
+      "rose",
+      "powdery",
+      "yellow floral",
+      "floral",
+      "fruity",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "sweet": "72%",
+      "rose": "71%",
+      "powdery": "70%",
+      "yellow floral": "66%",
+      "floral": "65%",
+      "fruity": "55%",
+      "musky": "52%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0.65
+      },
+      {
+        "name": "fall",
+        "score": 0.468
+      },
+      {
+        "name": "summer",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.887
+      },
+      {
+        "name": "night out",
+        "score": 0.468
+      },
+      {
+        "name": "professional",
+        "score": 0.42
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        },
+        {
+          "name": "May Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/May%20Rose.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Mimosa",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mimosa.png"
+        },
+        {
+          "name": "Pitosporum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pitosporum.png"
+        },
+        {
+          "name": "Raspberry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Raspberry.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/454177.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/louis-vuitton/louis-vuitton-heures-dabsence/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#454177"
+  },
+  {
+    "Name": "LVERS Louis Vuitton unisex",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/lvers-louis-vuitton-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "73%",
+    "Sillage": "59%",
+    "General Notes": [
+      "Galbanum",
+      "Bergamot",
+      "Ginger",
+      "Solar Notes",
+      "Sandalwood",
+      "Cedarwood"
+    ],
+    "Main Accords": [
+      "woody",
+      "green",
+      "powdery",
+      "aromatic",
+      "fresh spicy",
+      "balsamic",
+      "warm spicy",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "green": "61%",
+      "powdery": "57%",
+      "aromatic": "55%",
+      "fresh spicy": "49%",
+      "balsamic": "47%",
+      "warm spicy": "46%",
+      "citrus": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.489
+      },
+      {
+        "name": "spring",
+        "score": 1.287
+      },
+      {
+        "name": "fall",
+        "score": 1.268
+      },
+      {
+        "name": "summer",
+        "score": 0.826
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.509
+      },
+      {
+        "name": "casual",
+        "score": 0.414
+      },
+      {
+        "name": "night out",
+        "score": 0.368
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Solar Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Solar%20Notes.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/lvers-louis-vuitton-unisex.jpg"
+    ],
+    "Purchase URL": "https://microperfumes.com/products/lovers-retail-bottle"
+  },
+  {
+    "Name": "Rhapsody Louis Vuitton unisex",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/rhapsody-louis-vuitton-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "87%",
+    "Sillage": "78%",
+    "General Notes": [],
+    "Main Accords": [
+      "white floral",
+      "mossy",
+      "earthy",
+      "fresh",
+      "green",
+      "woody",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "mossy": "88%",
+      "earthy": "72%",
+      "fresh": "68%",
+      "green": "55%",
+      "woody": "52%",
+      "aromatic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.428
+      },
+      {
+        "name": "fall",
+        "score": 1.044
+      },
+      {
+        "name": "summer",
+        "score": 1.01
+      },
+      {
+        "name": "winter",
+        "score": 0.364
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.299
+      },
+      {
+        "name": "casual",
+        "score": 0.68
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/rhapsody-louis-vuitton-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.walmart.com/ip/Rhapsody-by-Louis-Vuitton-Eau-De-Parfum-Vial-0-06oz-2ml-Spray-New-With-Box/1716742515"
+  },
+  {
+    "Name": "Myriad Louis Vuitton unisex",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/myriad-louis-vuitton-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "88%",
+    "Sillage": "83%",
+    "General Notes": [
+      "Saffron",
+      "Bulgarian Rose",
+      "Grasse Rose",
+      "Assam Oud",
+      "Ambrette",
+      "White Musk",
+      "Cacao"
+    ],
+    "Main Accords": [
+      "oud",
+      "rose",
+      "warm spicy",
+      "metallic",
+      "floral",
+      "leather",
+      "tobacco"
+    ],
+    "Main Accords Percentage": {
+      "oud": "100%",
+      "rose": "98%",
+      "warm spicy": "76%",
+      "metallic": "58%",
+      "floral": "54%",
+      "leather": "52%",
+      "tobacco": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 0.76
+      },
+      {
+        "name": "fall",
+        "score": 0.608
+      },
+      {
+        "name": "spring",
+        "score": 0.54
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 0.92
+      },
+      {
+        "name": "casual",
+        "score": 0.378
+      },
+      {
+        "name": "professional",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Saffron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Saffron.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Grasse Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grasse%20Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Assam Oud",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Assam%20Oud.png"
+        },
+        {
+          "name": "Ambrette",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrette.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Cacao",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/myriad-louis-vuitton-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.perfumesamplesanddecants.com/products/louis-vuitton-myriad-perfume-samples"
+  },
+  {
+    "Name": "Louis Vuitton Fleur De Desert",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-fleur-de-desert.jpg",
+    "Gender": "unisex",
+    "Price": "11.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [
+      "Honey",
+      "Cinnamon",
+      "Jasmine",
+      "Rose",
+      "Orange Blossom",
+      "Agarwood (Oud)",
+      "Ambroxan",
+      "Ambrette (Musk Mallow)"
+    ],
+    "Main Accords": [
+      "white floral",
+      "honey",
+      "floral",
+      "oud",
+      "amber",
+      "musky",
+      "sweet",
+      "rose",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "honey": "72%",
+      "floral": "68%",
+      "oud": "66%",
+      "amber": "63%",
+      "musky": "61%",
+      "sweet": "59%",
+      "rose": "57%",
+      "citrus": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.179
+      },
+      {
+        "name": "spring",
+        "score": 1.085
+      },
+      {
+        "name": "winter",
+        "score": 0.504
+      },
+      {
+        "name": "summer",
+        "score": 0.45
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.235
+      },
+      {
+        "name": "night out",
+        "score": 1.179
+      },
+      {
+        "name": "professional",
+        "score": 0.36
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Honey",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Honey.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Ambrette (Musk Mallow)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrette%20(musk%20Mallow).png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/250x250/471043.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/louis-vuitton/louis-vuitton-fleur-de-desert/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#471043"
+  },
+  {
+    "Name": "Imagination Louis Vuitton for men",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/imagination-louis-vuitton-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "72%",
+    "Sillage": "58%",
+    "General Notes": [
+      "Citron",
+      "Calabrian bergamot",
+      "Sicilian Orange",
+      "Tunisian Neroli",
+      "Nigerian Ginger",
+      "Ceylon Cinnamon",
+      "Chinese Black Tea",
+      "Ambroxan",
+      "Guaiac Wood",
+      "Olibanum"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "fresh",
+      "green",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "62%",
+      "fresh": "55%",
+      "green": "50%",
+      "amber": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.85
+      },
+      {
+        "name": "summer",
+        "score": 1.85
+      },
+      {
+        "name": "fall",
+        "score": 0.49
+      },
+      {
+        "name": "winter",
+        "score": 0.392
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.45
+      },
+      {
+        "name": "professional",
+        "score": 1.25
+      },
+      {
+        "name": "night out",
+        "score": 0.49
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Citron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citron.png"
+        },
+        {
+          "name": "Calabrian bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Calabrian%20Bergamot.png"
+        },
+        {
+          "name": "Sicilian Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tunisian Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tunisian%20Neroli.png"
+        },
+        {
+          "name": "Nigerian Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nigerian%20Ginger.png"
+        },
+        {
+          "name": "Ceylon Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ceylon%20Cinnamon.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Chinese Black Tea",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Chinese%20Black%20Tea.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Guaiac Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guaiac%20Wood.png"
+        },
+        {
+          "name": "Olibanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Olibanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/imagination-louis-vuitton-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/imagination-louis-vuitton-men-perfume/s?k=imagination+louis+vuitton+for+men+perfume"
+  },
+  {
+    "Name": "Pur Oud Louis Vuitton unisex",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/pur-oud-louis-vuitton-unisex.jpg",
+    "Gender": "unisex",
+    "Price": "",
+    "Longevity": "88%",
+    "Sillage": "82%",
+    "General Notes": [],
+    "Main Accords": [
+      "oud",
+      "fresh spicy",
+      "musky",
+      "amber",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "oud": "100%",
+      "fresh spicy": "44%",
+      "musky": "32%",
+      "amber": "32%",
+      "balsamic": "31%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.608
+      },
+      {
+        "name": "winter",
+        "score": 0.473
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 0.608
+      },
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/pur-oud-louis-vuitton-unisex.jpg"
+    ],
+    "Purchase URL": "https://www.perfumesdutyfree.com/product/pur-oud-louis-vuitton-edp-100ml/"
+  },
+  {
+    "Name": "Orage Louis Vuitton for men",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/orage-louis-vuitton-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "65%",
+    "Sillage": "56%",
+    "General Notes": [
+      "Bergamot",
+      "Grapefruit",
+      "Hedione",
+      "Iris",
+      "Pepper",
+      "Java vetiver oil",
+      "Patchouli",
+      "Iso E Super",
+      "White Musk"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "aromatic",
+      "fresh spicy",
+      "earthy",
+      "patchouli",
+      "musky",
+      "warm spicy",
+      "powdery",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "94%",
+      "aromatic": "74%",
+      "fresh spicy": "69%",
+      "earthy": "67%",
+      "patchouli": "58%",
+      "musky": "53%",
+      "warm spicy": "48%",
+      "powdery": "48%",
+      "floral": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.649
+      },
+      {
+        "name": "spring",
+        "score": 1.888
+      },
+      {
+        "name": "winter",
+        "score": 1.602
+      },
+      {
+        "name": "summer",
+        "score": 1
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.486
+      },
+      {
+        "name": "casual",
+        "score": 1.229
+      },
+      {
+        "name": "night out",
+        "score": 0.861
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Hedione",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hedione.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Java vetiver oil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Java%20Vetiver%20Oil.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Iso E Super",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iso%20E%20Super.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/orage-louis-vuitton-for-men.jpg"
+    ],
+    "Purchase URL": "https://islandperfumebar.com/products/orage-louis-vuitton-for-men"
+  },
+  {
+    "Name": "Louis Vuitton Spell On You",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-spell-on-you.jpg",
+    "Gender": "unisex",
+    "Price": "11.99",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [
+      "Violet",
+      "Tuscan Iris",
+      "Green Notes",
+      "Rose",
+      "Tuscan Iris",
+      "Chinese Jasmine",
+      "Peach",
+      "Acácia",
+      "White Musk"
+    ],
+    "Main Accords": [
+      "powdery",
+      "violet",
+      "floral",
+      "rose",
+      "iris",
+      "fruity",
+      "green",
+      "musky",
+      "white floral"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "violet": "92%",
+      "floral": "86%",
+      "rose": "81%",
+      "iris": "60%",
+      "fruity": "55%",
+      "green": "55%",
+      "musky": "50%",
+      "white floral": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.3
+      },
+      {
+        "name": "fall",
+        "score": 0.45
+      },
+      {
+        "name": "summer",
+        "score": 0.33
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.095
+      },
+      {
+        "name": "casual",
+        "score": 0.602
+      },
+      {
+        "name": "night out",
+        "score": 0.45
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Tuscan Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuscan%20Iris.png"
+        },
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Tuscan Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuscan%20Iris.png"
+        },
+        {
+          "name": "Chinese Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Chinese%20Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        },
+        {
+          "name": "Acácia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ac%C3%A1cia.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/454174.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/louis-vuitton/louis-vuitton-spell-on-you/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#454174"
+  },
+  {
+    "Name": "Louis Vuitton Rose Des Vents",
+    "Brand": "Louis Vuitton",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/louis-vuitton-rose-des-vents.jpg",
+    "Gender": "women",
+    "Price": "11.99",
+    "Longevity": "63.4%",
+    "Sillage": "57.25%",
+    "General Notes": [
+      "Peach",
+      "Green Notes",
+      "Black Currant",
+      "May Rose",
+      "Rose",
+      "Turkish Rose",
+      "Iris",
+      "White Musk",
+      "Cedar",
+      "Orris Root",
+      "Pepper",
+      "Violet Leaf"
+    ],
+    "Main Accords": [
+      "rose",
+      "powdery",
+      "fruity",
+      "green",
+      "woody",
+      "iris",
+      "musky",
+      "floral",
+      "fresh spicy",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "rose": "100%",
+      "powdery": "81%",
+      "fruity": "80%",
+      "green": "71%",
+      "woody": "67%",
+      "iris": "66%",
+      "musky": "65%",
+      "floral": "60%",
+      "fresh spicy": "48%",
+      "sweet": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.188
+      },
+      {
+        "name": "spring",
+        "score": 1.168
+      },
+      {
+        "name": "winter",
+        "score": 0.469
+      },
+      {
+        "name": "summer",
+        "score": 0.426
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.594
+      },
+      {
+        "name": "casual",
+        "score": 0.69
+      },
+      {
+        "name": "night out",
+        "score": 0.585
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        },
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "May Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/May%20Rose.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Turkish Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Turkish%20Rose.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        },
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/452648.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/louis-vuitton/louis-vuitton-rose-des-vents/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#452648"
+  }
+]

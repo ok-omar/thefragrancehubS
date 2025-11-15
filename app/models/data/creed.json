@@ -1,0 +1,6444 @@
+[
+  {
+    "Name": "Creed - Eladaria",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed---eladaria.jpg",
+    "Gender": "Women",
+    "Longevity": "67.2%",
+    "Sillage": "61.2%",
+    "General Notes": [
+      "Pink pepper",
+      "Bergamot",
+      "Mandarin",
+      "Trio of roses",
+      "Powdery notes",
+      "Peony",
+      "Lily of the valley",
+      "Vanilla",
+      "Ambroxan",
+      "Cashmeran",
+      "Musk"
+    ],
+    "Main Accords": [
+      "citrus",
+      "musky",
+      "amber",
+      "rose",
+      "powdery",
+      "floral",
+      "white floral",
+      "fresh",
+      "vanilla",
+      "soft spicy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "musky": "99%",
+      "amber": "92%",
+      "rose": "91%",
+      "powdery": "89%",
+      "floral": "77%",
+      "white floral": "76%",
+      "fresh": "75%",
+      "vanilla": "60%",
+      "soft spicy": "59%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.42
+      },
+      {
+        "name": "fall",
+        "score": 1.811
+      },
+      {
+        "name": "summer",
+        "score": 1.75
+      },
+      {
+        "name": "winter",
+        "score": 1.276
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.231
+      },
+      {
+        "name": "casual",
+        "score": 2.189
+      },
+      {
+        "name": "professional",
+        "score": 1.334
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pink pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Trio of roses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Trio%20Of%20Roses.png"
+        },
+        {
+          "name": "Powdery notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Powdery%20Notes.png"
+        },
+        {
+          "name": "Peony",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peony.png"
+        },
+        {
+          "name": "Lily of the valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily%20Of%20The%20Valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Cashmeran",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cashmeran.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Acqua-Eladaria_front_75ml--2.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-eladaria?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Acqua Fiorentina",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-acqua-fiorentina.jpg",
+    "Gender": "Men",
+    "Price": "3.50",
+    "Longevity": "60.2%",
+    "Sillage": "60.0%",
+    "General Notes": [
+      "Apple",
+      "Plum",
+      "Bergamot",
+      "Rose",
+      "Pear"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fruity",
+      "woody",
+      "fresh",
+      "fresh spicy",
+      "sweet",
+      "aromatic",
+      "green",
+      "rose"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fruity": "94%",
+      "woody": "57%",
+      "fresh": "55%",
+      "fresh spicy": "54%",
+      "sweet": "53%",
+      "aromatic": "51%",
+      "green": "46%",
+      "rose": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.175
+      },
+      {
+        "name": "summer",
+        "score": 1.826
+      },
+      {
+        "name": "fall",
+        "score": 0.513
+      },
+      {
+        "name": "winter",
+        "score": 0.399
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.123
+      },
+      {
+        "name": "casual",
+        "score": 1.768
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Plum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Plum.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Sicilian Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Bergamot.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Grapefruit.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/WhatsApp-Image-2020-10-24-at-3.23.06-PM.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-acqua-fiorentina?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Acqua Originale Green Neroli",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-acqua-originale-green-neroli.jpg",
+    "Gender": "Men",
+    "Price": "164.00",
+    "Longevity": "43.8%",
+    "Sillage": "45.5%",
+    "General Notes": [
+      "mint",
+      "petitgrain paraguay",
+      "rosemary",
+      "caraway",
+      "tarragon"
+    ],
+    "Main Accords": [
+      "citrus",
+      "aromatic",
+      "green",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "aromatic": "83%",
+      "green": "70%",
+      "fresh spicy": "61%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.041
+      },
+      {
+        "name": "summer",
+        "score": 1.42
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.26
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Blood Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Blood%20Mandarin.png"
+        },
+        {
+          "name": "Petitgrain Paraguay",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Petitgrain%20Paraguay.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Tarragon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tarragon.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Mint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mint.png"
+        },
+        {
+          "name": "Italian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Italian%20Lemon.png"
+        },
+        {
+          "name": "Caraway",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caraway.png"
+        },
+        {
+          "name": "Rosemary",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rosemary.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/green-neroli-100ml.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-acqua-originale-green-neroli?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aqua Original Zeste Mandarine",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aqua-original-zeste-mandarine.jpg",
+    "Gender": "Men",
+    "Price": "185.00",
+    "Longevity": "42.8%",
+    "Sillage": "36.0%",
+    "General Notes": [
+      "Lemon Leaf",
+      "Italian Orange",
+      "Yellow Mandarin",
+      "Italian Lemon",
+      "Indian Patchouli",
+      "Petitgrain Paraguay",
+      "Orangewood"
+    ],
+    "Main Accords": [
+      "citrus",
+      "patchouli"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "patchouli": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "spring",
+        "score": 0.9
+      },
+      {
+        "name": "winter",
+        "score": 0.392
+      },
+      {
+        "name": "fall",
+        "score": 0.343
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "professional",
+        "score": 0.8
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon%20Leaf.png"
+        },
+        {
+          "name": "Italian Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Italian%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Yellow Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Yellow%20Mandarin.png"
+        },
+        {
+          "name": "Italian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Italian%20Lemon.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Indian Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Indian%20Patchouli.png"
+        },
+        {
+          "name": "Petitgrain Paraguay",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Petitgrain%20Paraguay.png"
+        },
+        {
+          "name": "Orangewood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orangewood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/zeste-mandarine-100ml.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aqua-original-zeste-mandarine?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus 100Ml",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-100ml.jpg",
+    "Gender": "Men",
+    "Price": "239.00",
+    "Longevity": "68.2%",
+    "Sillage": "58.25%",
+    "General Notes": [
+      "Bergamot",
+      "Black Currant",
+      "Apple",
+      "Lemon",
+      "Pink Pepper",
+      "Pineapple",
+      "Patchouli",
+      "Moroccan Jasmine",
+      "Birch",
+      "Musk",
+      "oak moss",
+      "Ambroxan",
+      "Cedarwood"
+    ],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "woody",
+      "leather",
+      "smoky",
+      "citrus",
+      "musky",
+      "tropical",
+      "fresh",
+      "mossy"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "sweet": "68%",
+      "woody": "64%",
+      "leather": "64%",
+      "smoky": "57%",
+      "citrus": "55%",
+      "musky": "54%",
+      "tropical": "52%",
+      "fresh": "52%",
+      "mossy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.486
+      },
+      {
+        "name": "fall",
+        "score": 1.062
+      },
+      {
+        "name": "spring",
+        "score": 1.015
+      },
+      {
+        "name": "winter",
+        "score": 0.448
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.423
+      },
+      {
+        "name": "night out",
+        "score": 1.155
+      },
+      {
+        "name": "professional",
+        "score": 0.888
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Moroccan Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moroccan%20Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-aventus-100ml-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-100ml?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus 2Ml",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-2ml.jpg",
+    "Gender": "Men",
+    "Price": "4.99",
+    "Longevity": "68.2%",
+    "Sillage": "58.25%",
+    "General Notes": [
+      "Bergamot",
+      "Black Currant",
+      "Apple",
+      "Lemon",
+      "Pink Pepper",
+      "Pineapple",
+      "Patchouli",
+      "Moroccan Jasmine",
+      "Birch",
+      "Musk",
+      "oak moss",
+      "Ambroxan",
+      "Cedarwood"
+    ],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "woody",
+      "leather",
+      "smoky",
+      "citrus",
+      "musky",
+      "tropical",
+      "fresh",
+      "mossy"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "sweet": "68%",
+      "woody": "64%",
+      "leather": "64%",
+      "smoky": "57%",
+      "citrus": "55%",
+      "musky": "54%",
+      "tropical": "52%",
+      "fresh": "52%",
+      "mossy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.486
+      },
+      {
+        "name": "fall",
+        "score": 1.062
+      },
+      {
+        "name": "spring",
+        "score": 1.015
+      },
+      {
+        "name": "winter",
+        "score": 0.448
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.423
+      },
+      {
+        "name": "night out",
+        "score": 1.155
+      },
+      {
+        "name": "professional",
+        "score": 0.888
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Moroccan Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moroccan%20Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/sample.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-2ml?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus 30Ml",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-30ml.jpg",
+    "Gender": "Men",
+    "Price": "139.00",
+    "Longevity": "68.2%",
+    "Sillage": "58.25%",
+    "General Notes": [
+      "Bergamot",
+      "Black Currant",
+      "Apple",
+      "Lemon",
+      "Pink Pepper",
+      "Pineapple",
+      "Patchouli",
+      "Moroccan Jasmine",
+      "Birch",
+      "Musk",
+      "oak moss",
+      "Ambroxan",
+      "Cedarwood"
+    ],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "woody",
+      "leather",
+      "smoky",
+      "citrus",
+      "musky",
+      "tropical",
+      "fresh",
+      "mossy"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "sweet": "68%",
+      "woody": "64%",
+      "leather": "64%",
+      "smoky": "57%",
+      "citrus": "55%",
+      "musky": "54%",
+      "tropical": "52%",
+      "fresh": "52%",
+      "mossy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.486
+      },
+      {
+        "name": "fall",
+        "score": 1.062
+      },
+      {
+        "name": "spring",
+        "score": 1.015
+      },
+      {
+        "name": "winter",
+        "score": 0.448
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.423
+      },
+      {
+        "name": "night out",
+        "score": 1.155
+      },
+      {
+        "name": "professional",
+        "score": 0.888
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Moroccan Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moroccan%20Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/pop-creed-aventus-30ml.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-30ml?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus 8Ml Travel Spray",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-8ml-travel-spray.jpg",
+    "Gender": "Men",
+    "Price": "42.00",
+    "Longevity": "68.2%",
+    "Sillage": "58.25%",
+    "General Notes": [
+      "Bergamot",
+      "Black Currant",
+      "Apple",
+      "Lemon",
+      "Pink Pepper",
+      "Pineapple",
+      "Patchouli",
+      "Moroccan Jasmine",
+      "Birch",
+      "Musk",
+      "oak moss",
+      "Ambroxan",
+      "Cedarwood"
+    ],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "woody",
+      "leather",
+      "smoky",
+      "citrus",
+      "musky",
+      "tropical",
+      "fresh",
+      "mossy"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "sweet": "68%",
+      "woody": "64%",
+      "leather": "64%",
+      "smoky": "57%",
+      "citrus": "55%",
+      "musky": "54%",
+      "tropical": "52%",
+      "fresh": "52%",
+      "mossy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.486
+      },
+      {
+        "name": "fall",
+        "score": 1.062
+      },
+      {
+        "name": "spring",
+        "score": 1.015
+      },
+      {
+        "name": "winter",
+        "score": 0.448
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.423
+      },
+      {
+        "name": "night out",
+        "score": 1.155
+      },
+      {
+        "name": "professional",
+        "score": 0.888
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Moroccan Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moroccan%20Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Travelsprayvail_5daa5206-f4f8-4107-851d-b986b42383fc.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-8ml-travel-spray?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus Absolu",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-absolu.jpg",
+    "Gender": "Men",
+    "Price": "315.00",
+    "Longevity": "70.2%",
+    "Sillage": "56.75%",
+    "General Notes": [
+      "Grapefruit",
+      "Bergamot",
+      "Pink Pepper",
+      "Black Currant",
+      "Pineapple",
+      "Nutmeg",
+      "Cloves",
+      "Ginger",
+      "Citron",
+      "Cinnamon",
+      "Cardamom",
+      "Rose",
+      "Patchouli",
+      "Vetiver",
+      "Oakmoss",
+      "Ambroxan",
+      "Musk",
+      "Evernyl",
+      "Sandalwood",
+      "Tonka"
+    ],
+    "Main Accords": [
+      "citrus",
+      "warm spicy",
+      "aromatic",
+      "woody",
+      "fresh spicy",
+      "fruity",
+      "soft spicy",
+      "earthy",
+      "patchouli",
+      "cinnamon"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "warm spicy": "84%",
+      "aromatic": "64%",
+      "woody": "63%",
+      "fresh spicy": "54%",
+      "fruity": "52%",
+      "soft spicy": "50%",
+      "earthy": "50%",
+      "patchouli": "48%",
+      "cinnamon": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.975
+      },
+      {
+        "name": "winter",
+        "score": 1.665
+      },
+      {
+        "name": "spring",
+        "score": 1.348
+      },
+      {
+        "name": "summer",
+        "score": 1
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.881
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0.672
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Cloves",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cloves.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Citron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citron.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Evernyl",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Evernyl.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Tonka",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/images_59f2aa55-d902-413c-84c8-8b2a82160f8e.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-absolu?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus Cologne",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-cologne.jpg",
+    "Gender": "Men",
+    "Price": "5.99",
+    "Longevity": "62.8%",
+    "Sillage": "54.75%",
+    "General Notes": [
+      "Mandarin Orange",
+      "Ginger",
+      "Pink Pepper",
+      "Bergamot",
+      "Spearmint",
+      "Vetiver",
+      "Patchouli",
+      "Sandalwood",
+      "Ozonic notes",
+      "Musk",
+      "Birch",
+      "Tonka Bean",
+      "Styrax",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "musky",
+      "warm spicy",
+      "leather",
+      "smoky",
+      "powdery",
+      "aromatic",
+      "sweet",
+      "earthy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "97%",
+      "musky": "82%",
+      "warm spicy": "79%",
+      "leather": "70%",
+      "smoky": "62%",
+      "powdery": "62%",
+      "aromatic": "57%",
+      "sweet": "53%",
+      "earthy": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.667
+      },
+      {
+        "name": "winter",
+        "score": 1.469
+      },
+      {
+        "name": "spring",
+        "score": 1.299
+      },
+      {
+        "name": "summer",
+        "score": 1
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.421
+      },
+      {
+        "name": "night out",
+        "score": 2.1
+      },
+      {
+        "name": "casual",
+        "score": 1.218
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Spearmint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Spearmint.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Ozonic notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ozonic%20Notes.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Styrax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Styrax.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-aventus-cologne-100ml-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-cologne?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus For Her",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-for-her.jpg",
+    "Gender": "Men",
+    "Price": "4.99",
+    "Longevity": "73.4%",
+    "Sillage": "66.5%",
+    "General Notes": [
+      "Patchouli",
+      "Green Apple",
+      "Bergamot",
+      "Lemon",
+      "Violet"
+    ],
+    "Main Accords": [
+      "fruity",
+      "citrus",
+      "woody",
+      "powdery",
+      "musky",
+      "floral",
+      "fresh",
+      "soft spicy",
+      "green",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "citrus": "85%",
+      "woody": "79%",
+      "powdery": "74%",
+      "musky": "73%",
+      "floral": "61%",
+      "fresh": "60%",
+      "soft spicy": "55%",
+      "green": "55%",
+      "amber": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.415
+      },
+      {
+        "name": "fall",
+        "score": 1.918
+      },
+      {
+        "name": "summer",
+        "score": 1.78
+      },
+      {
+        "name": "winter",
+        "score": 0.993
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.172
+      },
+      {
+        "name": "casual",
+        "score": 1.792
+      },
+      {
+        "name": "night out",
+        "score": 1.207
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Green Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Apple.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Styrax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Styrax.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Lilac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lilac.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-aventus-for-her-75ml-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-for-her?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus For Her Edp 10Ml Wind Flowers Edp 10Ml Love In White Edp 10Ml",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-for-her-edp-10ml-wind-flowers-edp-10ml-love-in-white-edp-10ml.jpg",
+    "Gender": "Men",
+    "Price": "99.99",
+    "Longevity": "73.4%",
+    "Sillage": "66.5%",
+    "General Notes": [
+      "Green Apple",
+      "Bergamot",
+      "Lemon",
+      "Patchouli",
+      "Pink Pepper",
+      "Violet",
+      "Musk",
+      "Rose",
+      "Sandalwood",
+      "Styrax",
+      "Black Currant",
+      "Peach",
+      "Amber",
+      "Lilac",
+      "Ylang-Ylang"
+    ],
+    "Main Accords": [
+      "fruity",
+      "citrus",
+      "woody",
+      "powdery",
+      "musky",
+      "floral",
+      "fresh",
+      "soft spicy",
+      "green",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "citrus": "85%",
+      "woody": "79%",
+      "powdery": "74%",
+      "musky": "73%",
+      "floral": "61%",
+      "fresh": "60%",
+      "soft spicy": "55%",
+      "green": "55%",
+      "amber": "55%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.415
+      },
+      {
+        "name": "fall",
+        "score": 1.918
+      },
+      {
+        "name": "summer",
+        "score": 1.78
+      },
+      {
+        "name": "winter",
+        "score": 0.993
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.172
+      },
+      {
+        "name": "casual",
+        "score": 1.792
+      },
+      {
+        "name": "night out",
+        "score": 1.207
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Green Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Apple.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Styrax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Styrax.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Lilac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lilac.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/667f44972d0e5b30fc4e1622-creed-women-39-s-holiday-gift-coffret.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-for-her-edp-10ml-wind-flowers-edp-10ml-love-in-white-edp-10ml?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus Oil",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-oil.jpg",
+    "Gender": "Men",
+    "Price": "141.50",
+    "Longevity": "50.0%",
+    "Sillage": "35.5%",
+    "General Notes": [
+      "Pineapple",
+      "Apple",
+      "Bergamot",
+      "Black Currant",
+      "Birch",
+      "Jasmine",
+      "Patchouli",
+      "Rose",
+      "Oakmoss",
+      "Musk",
+      "Ambergris",
+      "Vanilla"
+    ],
+    "Main Accords": [
+      "fruity",
+      "woody",
+      "mossy",
+      "leather",
+      "earthy",
+      "sweet",
+      "smoky",
+      "fresh",
+      "white floral",
+      "tropical"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "woody": "70%",
+      "mossy": "70%",
+      "leather": "66%",
+      "earthy": "62%",
+      "sweet": "60%",
+      "smoky": "58%",
+      "fresh": "57%",
+      "white floral": "54%",
+      "tropical": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.126
+      },
+      {
+        "name": "summer",
+        "score": 0.954
+      },
+      {
+        "name": "spring",
+        "score": 0.57
+      },
+      {
+        "name": "winter",
+        "score": 0.49
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 0.93
+      },
+      {
+        "name": "night out",
+        "score": 0.686
+      },
+      {
+        "name": "professional",
+        "score": 0.49
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/4407542_AV_Oil_2000x_ba1b957a-337e-4051-bd53-b9571ec55e6a.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-oil?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Aventus Tester 100Ml",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-aventus-tester-100ml.jpg",
+    "Gender": "Men",
+    "Price": "225.00",
+    "Longevity": "68.2%",
+    "Sillage": "58.25%",
+    "General Notes": [
+      "Bergamot",
+      "Black Currant",
+      "Apple",
+      "Lemon",
+      "Pink Pepper",
+      "Pineapple",
+      "Patchouli",
+      "Moroccan Jasmine",
+      "Birch",
+      "Musk",
+      "oak moss",
+      "Ambroxan",
+      "Cedarwood"
+    ],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "woody",
+      "leather",
+      "smoky",
+      "citrus",
+      "musky",
+      "tropical",
+      "fresh",
+      "mossy"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "sweet": "68%",
+      "woody": "64%",
+      "leather": "64%",
+      "smoky": "57%",
+      "citrus": "55%",
+      "musky": "54%",
+      "tropical": "52%",
+      "fresh": "52%",
+      "mossy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.486
+      },
+      {
+        "name": "fall",
+        "score": 1.062
+      },
+      {
+        "name": "spring",
+        "score": 1.015
+      },
+      {
+        "name": "winter",
+        "score": 0.448
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.423
+      },
+      {
+        "name": "night out",
+        "score": 1.155
+      },
+      {
+        "name": "professional",
+        "score": 0.888
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Moroccan Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moroccan%20Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/WhatsApp-Image-2022-04-15-at-11.28.01-AM.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-aventus-tester-100ml?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Bois Du Portugal",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-bois-du-portugal.jpg",
+    "Gender": "Men",
+    "Price": "209.00",
+    "Longevity": "72.0%",
+    "Sillage": "60.5%",
+    "General Notes": [
+      "Lavender",
+      "Sandalwood",
+      "Vetiver",
+      "Ambergris",
+      "Cedar"
+    ],
+    "Main Accords": [
+      "woody",
+      "aromatic",
+      "lavender",
+      "citrus",
+      "powdery",
+      "fresh spicy",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "aromatic": "69%",
+      "lavender": "61%",
+      "citrus": "53%",
+      "powdery": "52%",
+      "fresh spicy": "51%",
+      "amber": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.38
+      },
+      {
+        "name": "winter",
+        "score": 1.084
+      },
+      {
+        "name": "spring",
+        "score": 0.96
+      },
+      {
+        "name": "summer",
+        "score": 0.53
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.126
+      },
+      {
+        "name": "night out",
+        "score": 0.48
+      },
+      {
+        "name": "casual",
+        "score": 0.477
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-bois-du-portugal-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-bois-du-portugal?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Carmina",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-carmina.jpg",
+    "Gender": "Men",
+    "Price": "218.00",
+    "Longevity": "71.2%",
+    "Sillage": "59.25%",
+    "General Notes": [
+      "violet",
+      "cashmere wood",
+      "peony",
+      "may rose",
+      "myrhh"
+    ],
+    "Main Accords": [
+      "rose",
+      "amber",
+      "musky",
+      "floral",
+      "cherry",
+      "warm spicy",
+      "fresh",
+      "powdery",
+      "violet",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "rose": "100%",
+      "amber": "88%",
+      "musky": "85%",
+      "floral": "81%",
+      "cherry": "70%",
+      "warm spicy": "63%",
+      "powdery": "57%",
+      "fresh": "57%",
+      "woody": "49%",
+      "violet": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.59
+      },
+      {
+        "name": "winter",
+        "score": 1.677
+      },
+      {
+        "name": "spring",
+        "score": 1.38
+      },
+      {
+        "name": "summer",
+        "score": 0.57
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.149
+      },
+      {
+        "name": "casual",
+        "score": 1.137
+      },
+      {
+        "name": "professional",
+        "score": 0.685
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Black Cherry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Cherry.png"
+        },
+        {
+          "name": "Saffron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Saffron.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "May Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/May%20Rose.png"
+        },
+        {
+          "name": "Peony",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peony.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Cashmere Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cashmere%20Wood.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Myrhh",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Myrhh.png"
+        },
+        {
+          "name": "Frankincense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Frankincense.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/1200x1200-Carmina-75.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-carmina?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Centaurus",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-centaurus.jpg",
+    "Gender": "Men",
+    "Price": "274.99",
+    "Longevity": "72.6%",
+    "Sillage": "61.0%",
+    "General Notes": [
+      "Cinnamon",
+      "Tobacco",
+      "Cardamom",
+      "Pink Pepper",
+      "Sandalwood",
+      "Patchouli",
+      "Heliotrope",
+      "Geranium",
+      "Jasmine",
+      "Benzoin",
+      "Bourbon Vanilla",
+      "Tonka Bean",
+      "Tolu Balsam",
+      "Ambroxan"
+    ],
+    "Main Accords": [
+      "warm spicy",
+      "amber",
+      "vanilla",
+      "sweet",
+      "powdery",
+      "cinnamon",
+      "tobacco",
+      "aromatic",
+      "balsamic",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "warm spicy": "100%",
+      "amber": "77%",
+      "vanilla": "69%",
+      "cinnamon": "59%",
+      "sweet": "59%",
+      "powdery": "57%",
+      "tobacco": "55%",
+      "aromatic": "49%",
+      "woody": "48%",
+      "balsamic": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.909
+      },
+      {
+        "name": "fall",
+        "score": 2.002
+      },
+      {
+        "name": "spring",
+        "score": 0.343
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.053
+      },
+      {
+        "name": "professional",
+        "score": 1.168
+      },
+      {
+        "name": "casual",
+        "score": 0.354
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Tobacco",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Heliotrope",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Heliotrope.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Tolu Balsam",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tolu%20Balsam.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/centaurus-creed-2024-1024x1024.png"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-centaurus?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Delphinus",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-delphinus.jpg",
+    "Gender": "Men",
+    "Price": "274.99",
+    "Longevity": "66.4%",
+    "Sillage": "52.5%",
+    "General Notes": [
+      "Almond",
+      "Incense",
+      "Black Pepper",
+      "Pink Pepper",
+      "Orris",
+      "Heliotrope",
+      "Orchid",
+      "Bourbon Vanilla",
+      "Tonka Bean",
+      "Leather",
+      "Amberwood",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "powdery",
+      "almond",
+      "sweet",
+      "iris",
+      "amber",
+      "leather",
+      "floral",
+      "nutty",
+      "fruity"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "powdery": "79%",
+      "almond": "76%",
+      "sweet": "63%",
+      "amber": "61%",
+      "iris": "61%",
+      "floral": "51%",
+      "leather": "50%",
+      "nutty": "50%",
+      "fruity": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.388
+      },
+      {
+        "name": "fall",
+        "score": 0.61
+      },
+      {
+        "name": "spring",
+        "score": 0.51
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.61
+      },
+      {
+        "name": "casual",
+        "score": 0.735
+      },
+      {
+        "name": "professional",
+        "score": 0.474
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Almond",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Almond.png"
+        },
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        },
+        {
+          "name": "Black Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Pepper.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Orris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris.png"
+        },
+        {
+          "name": "Heliotrope",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Heliotrope.png"
+        },
+        {
+          "name": "Orchid",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orchid.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Bourbon Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bourbon%20Vanilla.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Amberwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amberwood.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/Creed_-_Delphinus.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-delphinus?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Erolfa",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-erolfa.jpg",
+    "Gender": "Men",
+    "Price": "225.00",
+    "Longevity": "58.8%",
+    "Sillage": "52.5%",
+    "General Notes": [
+      "Nutmeg Flower",
+      "Cyclamen",
+      "Ginger",
+      "Jasmine",
+      "Pine Tree"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "fresh spicy",
+      "green",
+      "aromatic",
+      "amber",
+      "powdery",
+      "fresh",
+      "animalic",
+      "warm spicy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "69%",
+      "fresh spicy": "65%",
+      "green": "61%",
+      "aromatic": "59%",
+      "amber": "58%",
+      "powdery": "57%",
+      "fresh": "51%",
+      "animalic": "50%",
+      "warm spicy": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.311
+      },
+      {
+        "name": "summer",
+        "score": 1.876
+      },
+      {
+        "name": "fall",
+        "score": 1.569
+      },
+      {
+        "name": "winter",
+        "score": 1.407
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.764
+      },
+      {
+        "name": "casual",
+        "score": 1.41
+      },
+      {
+        "name": "night out",
+        "score": 0.948
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lime",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lime.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Melon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Melon.png"
+        },
+        {
+          "name": "Green Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Notes.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Caraway",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caraway.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Herbal Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Herbal%20Notes.png"
+        },
+        {
+          "name": "Pine Tree",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pine%20Tree.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        },
+        {
+          "name": "Cyclamen",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cyclamen.png"
+        },
+        {
+          "name": "Nutmeg Flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg%20Flower.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-erolfa-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-erolfa?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Green Irish Tweed",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-green-irish-tweed.jpg",
+    "Gender": "Men",
+    "Price": "215.00",
+    "Longevity": "69.6%",
+    "Sillage": "56.75%",
+    "General Notes": [
+      "sandalwood",
+      "lemon."
+    ],
+    "Main Accords": [
+      "citrus",
+      "ozonic",
+      "aquatic",
+      "iris",
+      "powdery",
+      "woody",
+      "amber",
+      "green",
+      "animalic",
+      "violet"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "ozonic": "97%",
+      "aquatic": "79%",
+      "woody": "79%",
+      "powdery": "79%",
+      "iris": "79%",
+      "amber": "76%",
+      "green": "60%",
+      "animalic": "58%",
+      "violet": "54%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 2.847
+      },
+      {
+        "name": "fall",
+        "score": 1.471
+      },
+      {
+        "name": "spring",
+        "score": 1.38
+      },
+      {
+        "name": "winter",
+        "score": 1.161
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.367
+      },
+      {
+        "name": "casual",
+        "score": 1.532
+      },
+      {
+        "name": "night out",
+        "score": 0.76
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon Verbena",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon%20Verbena.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/green-irish-tweed-100ml-1500x1500x_1.png"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-green-irish-tweed?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Green Irish Tweed",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-green-irish-tweed.jpg",
+    "Gender": "men",
+    "Price": "364.99",
+    "Longevity": "69.6%",
+    "Sillage": "56.75%",
+    "General Notes": [
+      "sandalwood",
+      "lemon."
+    ],
+    "Main Accords": [
+      "citrus",
+      "ozonic",
+      "aquatic",
+      "iris",
+      "powdery",
+      "woody",
+      "amber",
+      "green",
+      "animalic",
+      "violet"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "ozonic": "96%",
+      "aquatic": "79%",
+      "iris": "79%",
+      "powdery": "79%",
+      "woody": "79%",
+      "amber": "76%",
+      "green": "60%",
+      "animalic": "58%",
+      "violet": "54%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 2.839
+      },
+      {
+        "name": "fall",
+        "score": 1.471
+      },
+      {
+        "name": "spring",
+        "score": 1.38
+      },
+      {
+        "name": "winter",
+        "score": 1.161
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.367
+      },
+      {
+        "name": "casual",
+        "score": 1.532
+      },
+      {
+        "name": "night out",
+        "score": 0.76
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon Verbena",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon%20Verbena.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/298364.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/creed/creed-green-irish-tweed/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#298364"
+  },
+  {
+    "Name": "Creed Green Irish Tweed Soap",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-green-irish-tweed-soap.jpg",
+    "Gender": "Men",
+    "Price": "49.99",
+    "Longevity": "69.6%",
+    "Sillage": "56.75%",
+    "General Notes": [
+      "Lemon Verbena",
+      "Iris",
+      "Violet Leaf",
+      "Ambergris",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "citrus",
+      "ozonic",
+      "aquatic",
+      "iris",
+      "powdery",
+      "woody",
+      "amber",
+      "green",
+      "animalic",
+      "violet"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "ozonic": "97%",
+      "aquatic": "79%",
+      "woody": "79%",
+      "powdery": "79%",
+      "iris": "79%",
+      "amber": "76%",
+      "green": "60%",
+      "animalic": "58%",
+      "violet": "54%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 2.847
+      },
+      {
+        "name": "fall",
+        "score": 1.471
+      },
+      {
+        "name": "spring",
+        "score": 1.38
+      },
+      {
+        "name": "winter",
+        "score": 1.161
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.367
+      },
+      {
+        "name": "casual",
+        "score": 1.532
+      },
+      {
+        "name": "night out",
+        "score": 0.76
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon Verbena",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon%20Verbena.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/6661e57ee4dcec269c666b88-creed-green-irish-tweed-5-2-oz-perfumed.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-green-irish-tweed-soap?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Himalaya",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-himalaya.jpg",
+    "Gender": "Men",
+    "Price": "215.00",
+    "Longevity": "64.0%",
+    "Sillage": "56.0%",
+    "General Notes": [
+      "The exotic aroma of aromatic woods",
+      "grapefruit",
+      "lemon and musk."
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "powdery",
+      "musky",
+      "amber",
+      "aromatic",
+      "animalic",
+      "fresh spicy",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "85%",
+      "powdery": "71%",
+      "musky": "66%",
+      "amber": "57%",
+      "aromatic": "54%",
+      "animalic": "51%",
+      "fresh spicy": "50%",
+      "balsamic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.929
+      },
+      {
+        "name": "winter",
+        "score": 1.359
+      },
+      {
+        "name": "spring",
+        "score": 1.278
+      },
+      {
+        "name": "summer",
+        "score": 1
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.361
+      },
+      {
+        "name": "night out",
+        "score": 1.164
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Calabrian bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Calabrian%20Bergamot.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/himalaya-100ml-bottle_158e64d8-6c39-42de-aa2b-b0ad4720502b.webp"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-himalaya?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Les Royales Exclusives Jardin Damalfi",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-les-royales-exclusives-jardin-damalfi.jpg",
+    "Gender": "Men",
+    "Price": "325.00",
+    "Longevity": "61.2%",
+    "Sillage": "53.0%",
+    "General Notes": [
+      "Tangerine",
+      "Neroli",
+      "Bergamot",
+      "Pink Pepper",
+      "Bulgarian Rose",
+      "Apple",
+      "Virginia Cedar",
+      "White Musk",
+      "Haitian Vetiver",
+      "Cinnamon"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fruity",
+      "fresh spicy",
+      "green",
+      "aromatic",
+      "rose",
+      "white floral",
+      "woody",
+      "fresh",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fruity": "52%",
+      "fresh spicy": "50%",
+      "green": "49%",
+      "aromatic": "49%",
+      "rose": "48%",
+      "white floral": "47%",
+      "woody": "47%",
+      "fresh": "46%",
+      "musky": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.095
+      },
+      {
+        "name": "summer",
+        "score": 1.754
+      },
+      {
+        "name": "fall",
+        "score": 0.837
+      },
+      {
+        "name": "winter",
+        "score": 0.329
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.06
+      },
+      {
+        "name": "casual",
+        "score": 1.36
+      },
+      {
+        "name": "night out",
+        "score": 0.414
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Tangerine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tangerine.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Haitian Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Haitian%20Vetiver.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-les-royales-exclusives-jardin-d-amalfi-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-les-royales-exclusives-jardin-damalfi?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Les Royales Exclusives Spice And Wood",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-les-royales-exclusives-spice-and-wood.jpg",
+    "Gender": "Men",
+    "Price": "309.99",
+    "Longevity": "60.8%",
+    "Sillage": "52.25%",
+    "General Notes": [
+      "Apple",
+      "Lemon",
+      "Bergamot",
+      "Pepper",
+      "Birch",
+      "Clove",
+      "Angelica",
+      "Patchouli",
+      "Cedar",
+      "Musk",
+      "oak moss",
+      "Iris"
+    ],
+    "Main Accords": [
+      "woody",
+      "fresh spicy",
+      "warm spicy",
+      "powdery",
+      "musky",
+      "citrus",
+      "leather",
+      "smoky",
+      "fruity",
+      "earthy"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "fresh spicy": "81%",
+      "warm spicy": "75%",
+      "powdery": "71%",
+      "musky": "70%",
+      "citrus": "68%",
+      "leather": "64%",
+      "smoky": "57%",
+      "fruity": "55%",
+      "earthy": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.538
+      },
+      {
+        "name": "winter",
+        "score": 1.45
+      },
+      {
+        "name": "summer",
+        "score": 0.68
+      },
+      {
+        "name": "spring",
+        "score": 0.612
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.899
+      },
+      {
+        "name": "professional",
+        "score": 1.67
+      },
+      {
+        "name": "casual",
+        "score": 0.612
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        },
+        {
+          "name": "Birch",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Birch.png"
+        },
+        {
+          "name": "Clove",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clove.png"
+        },
+        {
+          "name": "Angelica",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Angelica.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "oak moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak%20Moss.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-les-royales-exclusives-spice-and-wood-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-les-royales-exclusives-spice-and-wood?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Les Royales Exclusives White Amber",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-les-royales-exclusives-white-amber.jpg",
+    "Gender": "Men",
+    "Price": "229.99",
+    "Longevity": "59.6%",
+    "Sillage": "61.5%",
+    "General Notes": [
+      "Fruits",
+      "Jasmine",
+      "Benzoin",
+      "Amber",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "white floral",
+      "amber",
+      "woody",
+      "fruity",
+      "powdery",
+      "warm spicy",
+      "sweet",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "amber": "85%",
+      "woody": "64%",
+      "fruity": "62%",
+      "powdery": "53%",
+      "warm spicy": "52%",
+      "sweet": "46%",
+      "floral": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.842
+      },
+      {
+        "name": "winter",
+        "score": 1.648
+      },
+      {
+        "name": "spring",
+        "score": 0.44
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.266
+      },
+      {
+        "name": "professional",
+        "score": 0.766
+      },
+      {
+        "name": "casual",
+        "score": 0.584
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Fruits",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruits.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-les-royales-exclusives-white-amber-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-les-royales-exclusives-white-amber?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Love In Black",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-love-in-black.jpg",
+    "Gender": "Men",
+    "Price": "4.50",
+    "Longevity": "57.6%",
+    "Sillage": "50.0%",
+    "General Notes": [
+      "Black Currant",
+      "Musk",
+      "Cloves",
+      "Iris",
+      "Bulgarian Rose"
+    ],
+    "Main Accords": [
+      "fruity",
+      "sweet",
+      "white floral"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "violet": "61%",
+      "powdery": "60%",
+      "sweet": "58%",
+      "woody": "55%",
+      "ozonic": "53%",
+      "white floral": "48%",
+      "leather": "48%",
+      "aquatic": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 0.847
+      },
+      {
+        "name": "fall",
+        "score": 0.495
+      },
+      {
+        "name": "winter",
+        "score": 0.385
+      },
+      {
+        "name": "spring",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.745
+      },
+      {
+        "name": "casual",
+        "score": 0.724
+      },
+      {
+        "name": "night out",
+        "score": 0.288
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Raspberry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Raspberry.png"
+        },
+        {
+          "name": "Cranberry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cranberry.png"
+        },
+        {
+          "name": "Violet Leaves",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaves.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Butter",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Butter.png"
+        },
+        {
+          "name": "Orris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-love-in-black-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-love-in-black?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Love In White",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-love-in-white.jpg",
+    "Gender": "Men",
+    "Price": "176.00",
+    "Longevity": "67.2%",
+    "Sillage": "59.75%",
+    "General Notes": [
+      "Narcissus",
+      "Rice",
+      "Magnolia",
+      "Rose",
+      "Jasmine"
+    ],
+    "Main Accords": [
+      "floral",
+      "citrus",
+      "yellow floral",
+      "white floral",
+      "powdery",
+      "iris",
+      "sweet",
+      "savory",
+      "green",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "citrus": "91%",
+      "yellow floral": "68%",
+      "white floral": "64%",
+      "powdery": "61%",
+      "iris": "60%",
+      "sweet": "59%",
+      "savory": "59%",
+      "green": "53%",
+      "woody": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.243
+      },
+      {
+        "name": "summer",
+        "score": 1.228
+      },
+      {
+        "name": "fall",
+        "score": 0.477
+      },
+      {
+        "name": "winter",
+        "score": 0.371
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.942
+      },
+      {
+        "name": "casual",
+        "score": 1.873
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Orange Peel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Peel.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        },
+        {
+          "name": "Rice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rice.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Italian Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Italian%20Jasmine.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Vanille",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanille.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/14983120_24794422_2048_50694e31-39d8-4e9d-af22-af0002e67a11.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-love-in-white?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Love In White Soap",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-love-in-white-soap.jpg",
+    "Gender": "Men",
+    "Price": "49.99",
+    "Longevity": "67.2%",
+    "Sillage": "59.75%",
+    "General Notes": [
+      "Orange Peel",
+      "Magnolia",
+      "Rice",
+      "Narcissus",
+      "Italian Jasmine",
+      "Iris",
+      "Bulgarian Rose",
+      "Ambergris",
+      "Sandalwood",
+      "Vanille"
+    ],
+    "Main Accords": [
+      "floral",
+      "citrus",
+      "yellow floral",
+      "white floral",
+      "powdery",
+      "iris",
+      "sweet",
+      "savory",
+      "green",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "citrus": "91%",
+      "yellow floral": "68%",
+      "white floral": "64%",
+      "powdery": "61%",
+      "iris": "60%",
+      "sweet": "59%",
+      "savory": "59%",
+      "green": "53%",
+      "woody": "53%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.243
+      },
+      {
+        "name": "summer",
+        "score": 1.228
+      },
+      {
+        "name": "fall",
+        "score": 0.477
+      },
+      {
+        "name": "winter",
+        "score": 0.371
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.942
+      },
+      {
+        "name": "casual",
+        "score": 1.873
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Orange Peel",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Peel.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        },
+        {
+          "name": "Rice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rice.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Italian Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Italian%20Jasmine.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Vanille",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanille.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/savon1.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-love-in-white-soap?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Millesime Imperial",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-millesime-imperial.jpg",
+    "Gender": "unisex",
+    "Price": "221.39",
+    "Longevity": "58.2%",
+    "Sillage": "50.5%",
+    "General Notes": [
+      "Iris",
+      "Bergamot",
+      "Mandarin Orange",
+      "Musk",
+      "Sea notes"
+    ],
+    "Main Accords": [
+      "marine",
+      "citrus",
+      "salty",
+      "fruity",
+      "aromatic",
+      "sweet",
+      "powdery",
+      "musky",
+      "woody",
+      "iris"
+    ],
+    "Main Accords Percentage": {
+      "marine": "100%",
+      "citrus": "94%",
+      "salty": "90%",
+      "fruity": "83%",
+      "aromatic": "74%",
+      "sweet": "59%",
+      "powdery": "59%",
+      "musky": "58%",
+      "woody": "53%",
+      "iris": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.364
+      },
+      {
+        "name": "fall",
+        "score": 0.999
+      },
+      {
+        "name": "summer",
+        "score": 0.94
+      },
+      {
+        "name": "winter",
+        "score": 0.371
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.217
+      },
+      {
+        "name": "casual",
+        "score": 1.2
+      },
+      {
+        "name": "night out",
+        "score": 0.522
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Sea Salt",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sea%20Salt.png"
+        },
+        {
+          "name": "Fruity Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruity%20Notes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sea Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sea%20Notes.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Woody Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woody%20Notes.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/298365.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/creed/creed-millesime-imperial/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#298365"
+  },
+  {
+    "Name": "Creed Millesime Imperial",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-millesime-imperial.jpg",
+    "Gender": "Men",
+    "Price": "209.00",
+    "Longevity": "58.2%",
+    "Sillage": "50.5%",
+    "General Notes": [
+      "Iris",
+      "Bergamot",
+      "Mandarin Orange",
+      "Musk",
+      "Sea notes"
+    ],
+    "Main Accords": [
+      "marine",
+      "citrus",
+      "salty",
+      "fruity",
+      "aromatic",
+      "sweet",
+      "powdery",
+      "musky",
+      "woody",
+      "iris"
+    ],
+    "Main Accords Percentage": {
+      "marine": "100%",
+      "citrus": "95%",
+      "salty": "90%",
+      "fruity": "83%",
+      "aromatic": "74%",
+      "sweet": "59%",
+      "powdery": "59%",
+      "musky": "58%",
+      "woody": "53%",
+      "iris": "51%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.373
+      },
+      {
+        "name": "fall",
+        "score": 0.999
+      },
+      {
+        "name": "summer",
+        "score": 0.95
+      },
+      {
+        "name": "winter",
+        "score": 0.371
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.225
+      },
+      {
+        "name": "casual",
+        "score": 1.209
+      },
+      {
+        "name": "night out",
+        "score": 0.522
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Sea Salt",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sea%20Salt.png"
+        },
+        {
+          "name": "Fruity Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fruity%20Notes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sicilian Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sea Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sea%20Notes.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Woody Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woody%20Notes.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/1200x1200-POW-Update-MI.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-millesime-imperial?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Neroli Sauvage",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-neroli-sauvage.jpg",
+    "Gender": "Men",
+    "Price": "209.00",
+    "Longevity": "52.8%",
+    "Sillage": "50.25%",
+    "General Notes": [
+      "Bergamot",
+      "Grapefruit",
+      "Neroli",
+      "Verbena",
+      "Ambergris"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "aromatic",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "53%",
+      "aromatic": "48%",
+      "amber": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.236
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0.48
+      },
+      {
+        "name": "winter",
+        "score": 0.384
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.28
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0.48
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Verbena",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Verbena.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-neroli-sauvage-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-neroli-sauvage?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Original Santal",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-original-santal.jpg",
+    "Gender": "Men",
+    "Price": "219.00",
+    "Longevity": "68.4%",
+    "Sillage": "58.0%",
+    "General Notes": [
+      "Juniper Berries",
+      "Coriander",
+      "Ginger",
+      "Rosemary",
+      "Bergamot",
+      "Mandarin Orange",
+      "Sandalwood",
+      "Lavender",
+      "Orange Blossom",
+      "Geranium",
+      "Tonka Bean",
+      "Musk",
+      "Cedar",
+      "Oakmoss"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "woody",
+      "fresh spicy",
+      "warm spicy",
+      "lavender",
+      "powdery",
+      "vanilla"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "woody": "86%",
+      "fresh spicy": "67%",
+      "warm spicy": "61%",
+      "lavender": "57%",
+      "powdery": "50%",
+      "vanilla": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.608
+      },
+      {
+        "name": "fall",
+        "score": 1.262
+      },
+      {
+        "name": "spring",
+        "score": 0.7
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.902
+      },
+      {
+        "name": "night out",
+        "score": 0.796
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Juniper Berries",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Juniper%20Berries.png"
+        },
+        {
+          "name": "Coriander",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coriander.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Rosemary",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rosemary.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/IMG_1535.webp"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-original-santal?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Original Vetiver",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-original-vetiver.jpg",
+    "Gender": "Men",
+    "Price": "215.00",
+    "Longevity": "62.6%",
+    "Sillage": "53.0%",
+    "General Notes": [
+      "Bergamot",
+      "Ginger",
+      "Mandarin Orange",
+      "Haitian Vetiver",
+      "Sandalwood",
+      "Iris",
+      "Musk",
+      "Ambergris"
+    ],
+    "Main Accords": [
+      "citrus",
+      "woody",
+      "aromatic",
+      "earthy",
+      "warm spicy",
+      "powdery",
+      "musky",
+      "amber",
+      "fresh spicy",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "woody": "94%",
+      "aromatic": "82%",
+      "earthy": "69%",
+      "warm spicy": "65%",
+      "powdery": "63%",
+      "musky": "53%",
+      "amber": "49%",
+      "fresh spicy": "49%",
+      "green": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.885
+      },
+      {
+        "name": "spring",
+        "score": 1.85
+      },
+      {
+        "name": "winter",
+        "score": 1.7
+      },
+      {
+        "name": "summer",
+        "score": 1.282
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 3.079
+      },
+      {
+        "name": "night out",
+        "score": 1.487
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Haitian Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Haitian%20Vetiver.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-original-vetiver-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-original-vetiver?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Pure White Cologne 2",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-pure-white-cologne-2.jpg",
+    "Gender": "Men",
+    "Price": "299.99",
+    "Longevity": "61.6%",
+    "Sillage": "54.5%",
+    "General Notes": [
+      "Grapefruit",
+      "Lemon",
+      "Sicilian Bergamot",
+      "Pear",
+      "Neroli",
+      "Galbanum",
+      "Rice",
+      "White Musk",
+      "Powdery Notes",
+      "Ambergris"
+    ],
+    "Main Accords": [
+      "citrus",
+      "powdery",
+      "aromatic",
+      "green",
+      "sweet",
+      "fresh spicy",
+      "fruity",
+      "fresh",
+      "musky"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "powdery": "55%",
+      "aromatic": "55%",
+      "green": "51%",
+      "sweet": "50%",
+      "fresh spicy": "49%",
+      "fruity": "49%",
+      "fresh": "47%",
+      "musky": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.163
+      },
+      {
+        "name": "summer",
+        "score": 1.776
+      },
+      {
+        "name": "fall",
+        "score": 0.423
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.139
+      },
+      {
+        "name": "casual",
+        "score": 1.67
+      },
+      {
+        "name": "night out",
+        "score": 0.423
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Sicilian Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Pear",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pear.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Rice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rice.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Powdery Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Powdery%20Notes.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/pure-white-cologne-75ml.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-pure-white-cologne-2?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Queen Of Silk",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-queen-of-silk.jpg",
+    "Gender": "Men",
+    "Price": "209.99",
+    "Longevity": "76.0%",
+    "Sillage": "66.0%",
+    "General Notes": [
+      "patchouli",
+      "incense",
+      "musk",
+      "cedarwood",
+      "Madagascar vanilla"
+    ],
+    "Main Accords": [
+      "amber",
+      "warm spicy",
+      "floral",
+      "musky",
+      "fruity",
+      "vanilla",
+      "sweet",
+      "tuberose",
+      "balsamic",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "amber": "100%",
+      "warm spicy": "94%",
+      "floral": "78%",
+      "musky": "76%",
+      "fruity": "75%",
+      "vanilla": "71%",
+      "sweet": "64%",
+      "tuberose": "59%",
+      "balsamic": "58%",
+      "woody": "57%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 3.184
+      },
+      {
+        "name": "fall",
+        "score": 2.949
+      },
+      {
+        "name": "spring",
+        "score": 0.78
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.933
+      },
+      {
+        "name": "casual",
+        "score": 0.93
+      },
+      {
+        "name": "professional",
+        "score": 0.399
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Saffron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Saffron.png"
+        },
+        {
+          "name": "Osmanthus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Osmanthus.png"
+        },
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Passionfruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Passionfruit.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Madagascar Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Madagascar%20Vanilla.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Myrrh",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Myrrh.png"
+        },
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/creed-queen-of-silk-eau-de-parfum-30-75ml_23134886_48920356_2048.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-queen-of-silk?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Royal Mayfair",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-royal-mayfair.jpg",
+    "Gender": "Men",
+    "Price": "38.00",
+    "Longevity": "66.6%",
+    "Sillage": "58.0%",
+    "General Notes": [
+      "Lime",
+      "Gin",
+      "Pine Tree",
+      "Rose",
+      "Orange"
+    ],
+    "Main Accords": [
+      "woody",
+      "aromatic",
+      "citrus",
+      "camphor",
+      "rose",
+      "conifer"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "aromatic": "70%",
+      "camphor": "50%",
+      "citrus": "49%",
+      "rose": "48%",
+      "conifer": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 0.931
+      },
+      {
+        "name": "fall",
+        "score": 0.9
+      },
+      {
+        "name": "winter",
+        "score": 0.7
+      },
+      {
+        "name": "summer",
+        "score": 0.49
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.792
+      },
+      {
+        "name": "casual",
+        "score": 0.441
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pine Tree",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pine%20Tree.png"
+        },
+        {
+          "name": "Gin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Gin.png"
+        },
+        {
+          "name": "Lime",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lime.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Eucalyptus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Eucalyptus.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-royal-mayfair-ladies-edp-120ml.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-royal-mayfair?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Royal Oud",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-royal-oud.jpg",
+    "Gender": "Men",
+    "Price": "199.00",
+    "Longevity": "70.4%",
+    "Sillage": "56.75%",
+    "General Notes": [
+      "Lemon",
+      "Pink pepper",
+      "Sicilian bergamot",
+      "Cedar",
+      "Galbanum"
+    ],
+    "Main Accords": [
+      "woody",
+      "musky",
+      "powdery",
+      "citrus",
+      "aromatic",
+      "soft spicy",
+      "green",
+      "oud",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "musky": "76%",
+      "powdery": "72%",
+      "citrus": "59%",
+      "aromatic": "55%",
+      "soft spicy": "54%",
+      "green": "50%",
+      "oud": "50%",
+      "amber": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.044
+      },
+      {
+        "name": "spring",
+        "score": 1.316
+      },
+      {
+        "name": "winter",
+        "score": 1.068
+      },
+      {
+        "name": "summer",
+        "score": 0.89
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.604
+      },
+      {
+        "name": "night out",
+        "score": 1.144
+      },
+      {
+        "name": "casual",
+        "score": 0.531
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Sicilian Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Angelica",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Angelica.png"
+        },
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-royal-oud-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-royal-oud?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Royal Princess Oud",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-royal-princess-oud.jpg",
+    "Gender": "Men",
+    "Price": "169.00",
+    "Longevity": "68.4%",
+    "Sillage": "60.25%",
+    "General Notes": [
+      "Tuscan Iris",
+      "Jasmine",
+      "Vanilla Absolute",
+      "Patchouli",
+      "Oud"
+    ],
+    "Main Accords": [
+      "powdery",
+      "woody",
+      "violet",
+      "citrus",
+      "patchouli",
+      "warm spicy",
+      "oud",
+      "iris",
+      "floral",
+      "amber"
+    ],
+    "Main Accords Percentage": {
+      "powdery": "100%",
+      "woody": "97%",
+      "violet": "91%",
+      "citrus": "75%",
+      "patchouli": "69%",
+      "warm spicy": "69%",
+      "oud": "68%",
+      "iris": "64%",
+      "floral": "64%",
+      "amber": "60%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.508
+      },
+      {
+        "name": "winter",
+        "score": 2.401
+      },
+      {
+        "name": "spring",
+        "score": 1.315
+      },
+      {
+        "name": "summer",
+        "score": 0.75
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.879
+      },
+      {
+        "name": "night out",
+        "score": 1.152
+      },
+      {
+        "name": "casual",
+        "score": 1.123
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Tuscan Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuscan%20Iris.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Vanilla Absolute",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla%20Absolute.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Siam Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Siam%20Benzoin.png"
+        },
+        {
+          "name": "Styrax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Styrax.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-royal-princess-oud-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-royal-princess-oud?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Royal Water",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-royal-water.jpg",
+    "Gender": "Men",
+    "Price": "209.00",
+    "Longevity": "66.2%",
+    "Sillage": "56.25%",
+    "General Notes": [
+      "Basil",
+      "Juniper Berries",
+      "Ambergris",
+      "Musk",
+      "Mint"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "fresh",
+      "aromatic",
+      "musky",
+      "green",
+      "herbal",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "92%",
+      "fresh": "68%",
+      "aromatic": "67%",
+      "musky": "64%",
+      "green": "59%",
+      "herbal": "50%",
+      "powdery": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.521
+      },
+      {
+        "name": "summer",
+        "score": 2.034
+      },
+      {
+        "name": "fall",
+        "score": 0.576
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.289
+      },
+      {
+        "name": "casual",
+        "score": 1.58
+      },
+      {
+        "name": "night out",
+        "score": 0.576
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Citruses",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citruses.png"
+        },
+        {
+          "name": "Lemon Verbena",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon%20Verbena.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        },
+        {
+          "name": "Allspice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Allspice.png"
+        },
+        {
+          "name": "Cumin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cumin.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Cedarwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedarwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/royal-water-100ml-1500x1500-new-lid-min.png"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-royal-water?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Silver Mountain Water",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-silver-mountain-water.jpg",
+    "Gender": "Men",
+    "Price": "225.00",
+    "Longevity": "61.4%",
+    "Sillage": "53.0%",
+    "General Notes": [
+      "fresh",
+      "crisp",
+      "and clean notes."
+    ],
+    "Main Accords": [
+      "citrus",
+      "green",
+      "fruity",
+      "musky",
+      "woody",
+      "aromatic",
+      "powdery",
+      "fresh spicy",
+      "fresh",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "green": "98%",
+      "fruity": "76%",
+      "musky": "71%",
+      "woody": "70%",
+      "aromatic": "66%",
+      "powdery": "64%",
+      "fresh spicy": "61%",
+      "fresh": "46%",
+      "floral": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 3.066
+      },
+      {
+        "name": "summer",
+        "score": 2.048
+      },
+      {
+        "name": "fall",
+        "score": 1.269
+      },
+      {
+        "name": "winter",
+        "score": 0.49
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 3.216
+      },
+      {
+        "name": "casual",
+        "score": 1.682
+      },
+      {
+        "name": "night out",
+        "score": 0.639
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Green Tea",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Tea.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Petitgrain",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Petitgrain.png"
+        },
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/silver-mountain-water-100ml-1500x1500-v2.png"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-silver-mountain-water?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Silver Mountain Water Perfumed Oil",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-silver-mountain-water-perfumed-oil.jpg",
+    "Gender": "Men",
+    "Price": "129.99",
+    "Longevity": "61.4%",
+    "Sillage": "53.0%",
+    "General Notes": [
+      "Bergamot",
+      "Mandarin Orange",
+      "Green Tea",
+      "Black Currant",
+      "Musk",
+      "Sandalwood",
+      "Petitgrain",
+      "Galbanum"
+    ],
+    "Main Accords": [
+      "citrus",
+      "green",
+      "fruity",
+      "musky",
+      "woody",
+      "aromatic",
+      "powdery",
+      "fresh spicy",
+      "fresh",
+      "floral"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "green": "98%",
+      "fruity": "76%",
+      "musky": "71%",
+      "woody": "70%",
+      "aromatic": "66%",
+      "powdery": "64%",
+      "fresh spicy": "61%",
+      "fresh": "46%",
+      "floral": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 3.066
+      },
+      {
+        "name": "summer",
+        "score": 2.048
+      },
+      {
+        "name": "fall",
+        "score": 1.269
+      },
+      {
+        "name": "winter",
+        "score": 0.49
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 3.216
+      },
+      {
+        "name": "casual",
+        "score": 1.682
+      },
+      {
+        "name": "night out",
+        "score": 0.639
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Green Tea",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Green%20Tea.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Petitgrain",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Petitgrain.png"
+        },
+        {
+          "name": "Galbanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Galbanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/silver_mountain_water_perfumed_oil.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-silver-mountain-water-perfumed-oil?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Spring Flower",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-spring-flower.jpg",
+    "Gender": "Men",
+    "Price": "194.00",
+    "Longevity": "61.0%",
+    "Sillage": "57.0%",
+    "General Notes": [
+      "Jasmine",
+      "Rose",
+      "Apple",
+      "Melon",
+      "Peach"
+    ],
+    "Main Accords": [
+      "fruity",
+      "fresh",
+      "white floral",
+      "musky",
+      "rose",
+      "aquatic",
+      "ozonic",
+      "powdery",
+      "sweet",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "fruity": "100%",
+      "fresh": "70%",
+      "white floral": "67%",
+      "musky": "63%",
+      "rose": "58%",
+      "aquatic": "56%",
+      "ozonic": "55%",
+      "powdery": "53%",
+      "sweet": "50%",
+      "green": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1.932
+      },
+      {
+        "name": "spring",
+        "score": 1.084
+      },
+      {
+        "name": "fall",
+        "score": 0.567
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.448
+      },
+      {
+        "name": "professional",
+        "score": 0.75
+      },
+      {
+        "name": "night out",
+        "score": 0.567
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Apple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Apple.png"
+        },
+        {
+          "name": "Melon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Melon.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/spring-flower-75ml-bottle_1_faa44ddd-7ffd-4fa3-af37-b50ae103711f.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-spring-flower?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Tabarome",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-tabarome.jpg",
+    "Gender": "Men",
+    "Price": "215.00",
+    "Longevity": "63.2%",
+    "Sillage": "55.25%",
+    "General Notes": [
+      "Bergamot",
+      "Tangerine",
+      "Ginger",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "citrus",
+      "warm spicy",
+      "tobacco",
+      "woody",
+      "sweet",
+      "animalic",
+      "amber",
+      "leather",
+      "balsamic",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "warm spicy": "96%",
+      "tobacco": "75%",
+      "woody": "74%",
+      "sweet": "62%",
+      "animalic": "59%",
+      "amber": "58%",
+      "leather": "54%",
+      "balsamic": "50%",
+      "powdery": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.292
+      },
+      {
+        "name": "fall",
+        "score": 2.014
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "spring",
+        "score": 0.9
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.672
+      },
+      {
+        "name": "professional",
+        "score": 1.606
+      },
+      {
+        "name": "casual",
+        "score": 1.272
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Tangerine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tangerine.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Tobacco",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Ambergris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambergris.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/tabarome-100ml.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-tabarome?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Travel Case",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-travel-case.jpg",
+    "Gender": "Men",
+    "Price": "59.00",
+    "Longevity": "70.2%",
+    "Sillage": "56.75%",
+    "General Notes": [
+      "Grapefruit",
+      "Bergamot",
+      "Pink Pepper",
+      "Black Currant",
+      "Pineapple",
+      "Nutmeg",
+      "Cloves",
+      "Ginger",
+      "Citron",
+      "Cinnamon",
+      "Cardamom",
+      "Rose",
+      "Patchouli",
+      "Vetiver",
+      "Oakmoss",
+      "Ambroxan",
+      "Musk",
+      "Evernyl",
+      "Sandalwood",
+      "Tonka"
+    ],
+    "Main Accords": [
+      "citrus",
+      "warm spicy",
+      "aromatic",
+      "woody",
+      "fresh spicy",
+      "fruity",
+      "soft spicy",
+      "earthy",
+      "patchouli",
+      "cinnamon"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "warm spicy": "84%",
+      "aromatic": "64%",
+      "woody": "63%",
+      "fresh spicy": "54%",
+      "fruity": "52%",
+      "soft spicy": "50%",
+      "earthy": "50%",
+      "patchouli": "48%",
+      "cinnamon": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.975
+      },
+      {
+        "name": "winter",
+        "score": 1.665
+      },
+      {
+        "name": "spring",
+        "score": 1.348
+      },
+      {
+        "name": "summer",
+        "score": 1
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.881
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0.672
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Black Currant",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Currant.png"
+        },
+        {
+          "name": "Pineapple",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pineapple.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Cloves",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cloves.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Citron",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Citron.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Ambroxan",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambroxan.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Evernyl",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Evernyl.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Tonka",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/files/creed-travel-case-blue-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-travel-case?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Viking",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-viking.jpg",
+    "Gender": "men",
+    "Price": "272.99",
+    "Longevity": "68.0%",
+    "Sillage": "57.25%",
+    "General Notes": [
+      "Calabrian Bergamot",
+      "Sicilian Lemon",
+      "Pink Pepper",
+      "Spicy Mint",
+      "Indian Patchouli"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "fresh spicy",
+      "green",
+      "citrus",
+      "soft spicy",
+      "lavender",
+      "woody",
+      "rose",
+      "musky",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "fresh spicy": "78%",
+      "green": "76%",
+      "citrus": "74%",
+      "soft spicy": "60%",
+      "lavender": "56%",
+      "woody": "52%",
+      "rose": "50%",
+      "musky": "48%",
+      "sweet": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.974
+      },
+      {
+        "name": "summer",
+        "score": 1.196
+      },
+      {
+        "name": "fall",
+        "score": 0.9
+      },
+      {
+        "name": "winter",
+        "score": 0.364
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.64
+      },
+      {
+        "name": "casual",
+        "score": 0.936
+      },
+      {
+        "name": "night out",
+        "score": 0.432
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Peppermint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peppermint.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Absinthe",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Absinthe.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Clove",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clove.png"
+        },
+        {
+          "name": "Allspice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Allspice.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/306335.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/creed/creed-viking/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#306335"
+  },
+  {
+    "Name": "Creed Viking Cologne",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-viking-cologne.jpg",
+    "Gender": "Men",
+    "Price": "209.00",
+    "Longevity": "60.4%",
+    "Sillage": "47.5%",
+    "General Notes": [
+      "bergamot",
+      "pink pepper",
+      "sandalwood",
+      "sage",
+      "nutmeg",
+      "rosemary"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "citrus",
+      "woody",
+      "fresh spicy",
+      "lavender",
+      "herbal",
+      "soft spicy",
+      "earthy",
+      "warm spicy"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "citrus": "88%",
+      "fresh spicy": "82%",
+      "woody": "82%",
+      "lavender": "53%",
+      "herbal": "50%",
+      "soft spicy": "49%",
+      "warm spicy": "45%",
+      "earthy": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.492
+      },
+      {
+        "name": "fall",
+        "score": 1.458
+      },
+      {
+        "name": "winter",
+        "score": 1.024
+      },
+      {
+        "name": "summer",
+        "score": 0.88
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.278
+      },
+      {
+        "name": "casual",
+        "score": 0.792
+      },
+      {
+        "name": "night out",
+        "score": 0.36
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Rosemary",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rosemary.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Olibanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Olibanum.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/viking-cologne-eau-de-parfum-50ml-029.png"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-viking-cologne?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Viking Edp",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-viking-edp.jpg",
+    "Gender": "Men",
+    "Price": "235.00",
+    "Longevity": "68.0%",
+    "Sillage": "57.25%",
+    "General Notes": [
+      "Pink Pepper",
+      "Peppermint",
+      "Bergamot",
+      "Lemon",
+      "Absinthe",
+      "Orange",
+      "Lavender",
+      "Bulgarian Rose",
+      "Clove",
+      "Allspice",
+      "Orris Root",
+      "Jasmine",
+      "Vetiver",
+      "Cedar",
+      "White Musk",
+      "Tonka Bean"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "fresh spicy",
+      "green",
+      "citrus",
+      "soft spicy",
+      "lavender",
+      "woody",
+      "rose",
+      "musky",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "fresh spicy": "78%",
+      "green": "76%",
+      "citrus": "74%",
+      "soft spicy": "60%",
+      "lavender": "56%",
+      "woody": "52%",
+      "rose": "50%",
+      "musky": "48%",
+      "sweet": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.974
+      },
+      {
+        "name": "summer",
+        "score": 1.196
+      },
+      {
+        "name": "fall",
+        "score": 0.9
+      },
+      {
+        "name": "winter",
+        "score": 0.364
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.64
+      },
+      {
+        "name": "casual",
+        "score": 0.936
+      },
+      {
+        "name": "night out",
+        "score": 0.432
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Peppermint",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peppermint.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Absinthe",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Absinthe.png"
+        },
+        {
+          "name": "Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Clove",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clove.png"
+        },
+        {
+          "name": "Allspice",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Allspice.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "White Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Musk.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed_viking_edp_100ml_perfume_for_men.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-viking-edp?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Virgin Island Water",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-virgin-island-water.jpg",
+    "Gender": "Men",
+    "Price": "185.00",
+    "Longevity": "61.2%",
+    "Sillage": "52.0%",
+    "General Notes": [
+      "Lime",
+      "Sicilian Mandarin",
+      "Ginger",
+      "Ylang-ylang",
+      "Hibiscus"
+    ],
+    "Main Accords": [
+      "citrus",
+      "sweet",
+      "coconut",
+      "vanilla",
+      "lactonic",
+      "rum",
+      "fresh spicy",
+      "woody"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "sweet": "79%",
+      "coconut": "76%",
+      "vanilla": "51%",
+      "lactonic": "46%",
+      "rum": "46%",
+      "fresh spicy": "45%",
+      "woody": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "spring",
+        "score": 0.9
+      },
+      {
+        "name": "winter",
+        "score": 0.767
+      },
+      {
+        "name": "fall",
+        "score": 0.396
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.374
+      },
+      {
+        "name": "professional",
+        "score": 1.108
+      },
+      {
+        "name": "night out",
+        "score": 0.357
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Coconut",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coconut.png"
+        },
+        {
+          "name": "Lime",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lime.png"
+        },
+        {
+          "name": "White Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Bergamot.png"
+        },
+        {
+          "name": "Sicilian Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sicilian%20Mandarin.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Indian Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Indian%20Jasmine.png"
+        },
+        {
+          "name": "Hibiscus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hibiscus.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "White Rum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/White%20Rum.png"
+        },
+        {
+          "name": "Sugar Cane",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sugar%20Cane.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/creed-virgin-island-water-en.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-virgin-island-water?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  },
+  {
+    "Name": "Creed Wind Flowers",
+    "Brand": "Creed",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/creed-wind-flowers.jpg",
+    "Gender": "Men",
+    "Price": "185.00",
+    "Longevity": "64.8%",
+    "Sillage": "54.75%",
+    "General Notes": [
+      "jasmine",
+      "peach",
+      "orange blossom",
+      "jasmine sambac",
+      "musk"
+    ],
+    "Main Accords": [
+      "white floral",
+      "sweet",
+      "powdery",
+      "musky",
+      "tuberose",
+      "woody",
+      "rose",
+      "iris",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "sweet": "67%",
+      "powdery": "63%",
+      "musky": "55%",
+      "tuberose": "48%",
+      "iris": "47%",
+      "woody": "47%",
+      "rose": "47%",
+      "animalic": "46%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 0.918
+      },
+      {
+        "name": "winter",
+        "score": 0.329
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.707
+      },
+      {
+        "name": "night out",
+        "score": 0.495
+      },
+      {
+        "name": "casual",
+        "score": 0.402
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Peach",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peach.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        },
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Praline",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Praline.png"
+        },
+        {
+          "name": "Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Iris.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://www.olfactoryfactoryllc.com/cdn/shop/products/599e1ce18cac70053d22421727da.jpg"
+    ],
+    "Purchase URL": "https://www.olfactoryfactoryllc.com/products/creed-wind-flowers?bg_ref=vCnDBaZWFf&utm_source=vCnDBaZWFf&utm_medium=affiliate&utm_campaign=Affiliate+Program"
+  }
+]

@@ -1,0 +1,2509 @@
+[
+  {
+    "Name": "Tom Ford",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford.jpg",
+    "Gender": "men",
+    "Price": "N/A",
+    "Longevity": "",
+    "Sillage": "",
+    "General Notes": [
+      "Bergamot",
+      "Basil",
+      "Violet Leaf",
+      "Lemon Leaf Oil",
+      "Mandarin Orange",
+      "Ginger",
+      "Grapefruit Blossom",
+      "Tobacco Leaf",
+      "Pepper",
+      "Tunisian Orange Blossom",
+      "Cedar",
+      "Vetiver",
+      "Cypriol Oil or Nagarmotha",
+      "Oakmoss",
+      "Leather",
+      "Patchouli",
+      "Amber"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "leather",
+      "vanilla",
+      "almond",
+      "amber",
+      "woody",
+      "lavender",
+      "sweet",
+      "powdery",
+      "animalic"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "aromatic": "84%",
+      "fresh spicy": "76%",
+      "green": "58%",
+      "citrus": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.484
+      },
+      {
+        "name": "fall",
+        "score": 0.9
+      },
+      {
+        "name": "summer",
+        "score": 0.828
+      },
+      {
+        "name": "winter",
+        "score": 0.7
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.446
+      },
+      {
+        "name": "casual",
+        "score": 0.432
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/250x250/181180.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/tom-ford/tom-ford/edt?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#181180"
+  },
+  {
+    "Name": "Tom Ford for Men Tom Ford for men",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-for-men-tom-ford-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "55%",
+    "Sillage": "51%",
+    "General Notes": [
+      "Lemon Leaf Oil",
+      "Ginger",
+      "Mandarin Orange",
+      "Bergamot",
+      "Basil",
+      "Violet Leaf",
+      "Tobacco Leaf",
+      "Pepper",
+      "Tunisian Orange Blossom",
+      "Grapefruit blossom",
+      "Amber",
+      "Cedar",
+      "Vetiver",
+      "Virginian Patchouli",
+      "Oakmoss",
+      "Leather",
+      "Cypriol Oil or Nagarmotha"
+    ],
+    "Main Accords": [
+      "citrus",
+      "fresh spicy",
+      "woody",
+      "aromatic",
+      "fresh",
+      "tobacco",
+      "earthy",
+      "amber",
+      "sweet",
+      "green"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "fresh spicy": "81%",
+      "woody": "60%",
+      "aromatic": "59%",
+      "fresh": "52%",
+      "tobacco": "51%",
+      "earthy": "48%",
+      "amber": "48%",
+      "sweet": "46%",
+      "green": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 2.185
+      },
+      {
+        "name": "summer",
+        "score": 1.784
+      },
+      {
+        "name": "fall",
+        "score": 1.404
+      },
+      {
+        "name": "winter",
+        "score": 0.804
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.206
+      },
+      {
+        "name": "casual",
+        "score": 1.696
+      },
+      {
+        "name": "night out",
+        "score": 0.48
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lemon Leaf Oil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon%20Leaf%20Oil.png"
+        },
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Basil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Basil.png"
+        },
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tobacco Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco%20Leaf.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        },
+        {
+          "name": "Tunisian Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tunisian%20Orange%20Blossom.png"
+        },
+        {
+          "name": "Grapefruit blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Virginian Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginian%20Patchouli.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Cypriol Oil or Nagarmotha",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cypriol%20Oil%20Or%20Nagarmotha.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-for-men-tom-ford-for-men.jpg"
+    ]
+  },
+  {
+    "Name": "Tom Ford for Men Extreme Tom Ford for men",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-for-men-extreme-tom-ford-for-men.jpg",
+    "Gender": "men",
+    "Price": "",
+    "Longevity": "69%",
+    "Sillage": "62%",
+    "General Notes": [],
+    "Main Accords": [
+      "woody",
+      "earthy",
+      "patchouli",
+      "fruity",
+      "citrus",
+      "warm spicy",
+      "sweet"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "earthy": "82%",
+      "patchouli": "68%",
+      "fruity": "60%",
+      "citrus": "49%",
+      "warm spicy": "49%",
+      "sweet": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.424
+      },
+      {
+        "name": "winter",
+        "score": 1.734
+      },
+      {
+        "name": "summer",
+        "score": 0.49
+      },
+      {
+        "name": "spring",
+        "score": 0.441
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.092
+      },
+      {
+        "name": "casual",
+        "score": 0.735
+      },
+      {
+        "name": "night out",
+        "score": 0.392
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-for-men-extreme-tom-ford-for-men.jpg"
+    ],
+    "Purchase URL": "https://www.amazon.com/tom-ford-extreme-cologne/s?k=tom+ford+extreme+cologne"
+  },
+  {
+    "Name": "Tom Ford Metallique",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-metallique.jpg",
+    "Gender": "women",
+    "Price": "279.99",
+    "Longevity": "64.6%",
+    "Sillage": "58.5%",
+    "General Notes": [
+      "Bergamot",
+      "Pink Pepper",
+      "Lily-of-the-valley",
+      "Hawthorn",
+      "Peru Balsam"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "aldehydic",
+      "powdery",
+      "floral",
+      "fresh",
+      "balsamic",
+      "woody",
+      "musky",
+      "sweet",
+      "soapy"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "aldehydic": "83%",
+      "powdery": "75%",
+      "floral": "69%",
+      "fresh": "62%",
+      "balsamic": "60%",
+      "woody": "54%",
+      "musky": "52%",
+      "sweet": "49%",
+      "soapy": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.698
+      },
+      {
+        "name": "spring",
+        "score": 1.31
+      },
+      {
+        "name": "fall",
+        "score": 0.954
+      },
+      {
+        "name": "summer",
+        "score": 0.62
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "casual",
+        "score": 1.397
+      },
+      {
+        "name": "night out",
+        "score": 1.168
+      },
+      {
+        "name": "professional",
+        "score": 0.828
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Aldehydes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Aldehydes.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Heliotrope",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Heliotrope.png"
+        },
+        {
+          "name": "Hawthorn",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hawthorn.png"
+        },
+        {
+          "name": "Lily-of-the-Valley",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily-of-the-valley.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Ambrette (Musk Mallow)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrette%20(musk%20Mallow).png"
+        },
+        {
+          "name": "Peru Balsam",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peru%20Balsam.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/345624.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/tom-ford/tom-ford-metallique/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#345624"
+  },
+  {
+    "Name": "Tom Ford Noir",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-noir.jpg",
+    "Gender": "men",
+    "Price": "224.99",
+    "Longevity": "70.8%",
+    "Sillage": "59.5%",
+    "General Notes": [
+      "Violet",
+      "Pink Pepper",
+      "Caraway",
+      "Verbena",
+      "Bergamot",
+      "Bulgarian Rose",
+      "Geranium",
+      "Clary Sage",
+      "Tuscan Iris",
+      "Nutmeg",
+      "Black Pepper",
+      "Civet",
+      "Benzoin",
+      "Vetiver",
+      "Leather",
+      "Indonesian Patchouli Leaf",
+      "Styrax",
+      "Amber",
+      "Vanilla",
+      "Opoponax"
+    ],
+    "Main Accords": [
+      "amber",
+      "powdery",
+      "fresh spicy",
+      "woody",
+      "violet",
+      "patchouli",
+      "warm spicy",
+      "earthy",
+      "aromatic",
+      "iris"
+    ],
+    "Main Accords Percentage": {
+      "amber": "100%",
+      "powdery": "88%",
+      "fresh spicy": "82%",
+      "woody": "77%",
+      "violet": "70%",
+      "patchouli": "69%",
+      "warm spicy": "66%",
+      "earthy": "66%",
+      "aromatic": "63%",
+      "iris": "63%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 3.232
+      },
+      {
+        "name": "winter",
+        "score": 2.551
+      },
+      {
+        "name": "spring",
+        "score": 0.441
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.697
+      },
+      {
+        "name": "night out",
+        "score": 1.528
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Violet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        },
+        {
+          "name": "Caraway",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caraway.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Verbena",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Verbena.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tuscan Iris",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuscan%20Iris.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Black Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Pepper.png"
+        },
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Geranium",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Geranium.png"
+        },
+        {
+          "name": "Clary Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clary%20Sage.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Indonesian Patchouli Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Indonesian%20Patchouli%20Leaf.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Civet",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Civet.png"
+        },
+        {
+          "name": "Opoponax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Opoponax.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Styrax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Styrax.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/228872.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/tom-ford/tom-ford-noir/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#228872"
+  },
+  {
+    "Name": "Tom Ford Tobacco Vanille",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-tobacco-vanille.jpg",
+    "Gender": "unisex",
+    "Price": "369.99",
+    "Longevity": "81.6%",
+    "Sillage": "70.75%",
+    "General Notes": [
+      "Tobacco Leaf",
+      "Vanilla",
+      "Cacao",
+      "Tobacco blossom",
+      "Dried fruit"
+    ],
+    "Main Accords": [
+      "vanilla",
+      "sweet",
+      "tobacco",
+      "warm spicy",
+      "fruity",
+      "woody",
+      "cacao",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "vanilla": "100%",
+      "sweet": "94%",
+      "tobacco": "85%",
+      "warm spicy": "71%",
+      "fruity": "61%",
+      "woody": "54%",
+      "cacao": "53%",
+      "powdery": "50%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 1.988
+      },
+      {
+        "name": "fall",
+        "score": 1.054
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.268
+      },
+      {
+        "name": "professional",
+        "score": 0.678
+      },
+      {
+        "name": "casual",
+        "score": 0.564
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Tobacco Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco%20Leaf.png"
+        },
+        {
+          "name": "Spicy Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Spicy%20Notes.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Cacao",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Tobacco Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tobacco%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Dried Fruits",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Dried%20Fruits.png"
+        },
+        {
+          "name": "Woody Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woody%20Notes.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/216296.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-tobacco-vanille/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#216296"
+  },
+  {
+    "Name": "Tom Ford Jasmin Rouge",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-jasmin-rouge.jpg",
+    "Gender": "women",
+    "Price": "319.99",
+    "Longevity": "67.2%",
+    "Sillage": "61.75%",
+    "General Notes": [
+      "Ginger",
+      "Cardamom",
+      "Cinnamon",
+      "Bergamot",
+      "Mandarin orange"
+    ],
+    "Main Accords": [
+      "white floral",
+      "yellow floral",
+      "warm spicy",
+      "citrus",
+      "woody",
+      "floral",
+      "sweet",
+      "amber",
+      "aromatic",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "yellow floral": "61%",
+      "warm spicy": "59%",
+      "citrus": "57%",
+      "woody": "52%",
+      "floral": "50%",
+      "sweet": "49%",
+      "amber": "47%",
+      "aromatic": "46%",
+      "fresh spicy": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.41
+      },
+      {
+        "name": "spring",
+        "score": 1.335
+      },
+      {
+        "name": "winter",
+        "score": 1.33
+      },
+      {
+        "name": "summer",
+        "score": 0.57
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.28
+      },
+      {
+        "name": "casual",
+        "score": 1.157
+      },
+      {
+        "name": "night out",
+        "score": 0.942
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Ginger",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ginger.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pepper.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Broom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Broom.png"
+        },
+        {
+          "name": "Clary Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Clary%20Sage.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Vanille",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanille.png"
+        },
+        {
+          "name": "Woodsy Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woodsy%20Notes.png"
+        },
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "French labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/French%20Labdanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/251690.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/tom-ford/tom-ford-jasmin-rouge/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#251690"
+  },
+  {
+    "Name": "Tom Ford Rose Prick",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-rose-prick.jpg",
+    "Gender": "women",
+    "Price": "304.99",
+    "Longevity": "69.4%",
+    "Sillage": "61.25%",
+    "General Notes": [
+      "Turmeric",
+      "Sichuan Pepper",
+      "Bulgarian Rose",
+      "Tonka Bean",
+      "Patchouli"
+    ],
+    "Main Accords": [
+      "rose",
+      "warm spicy",
+      "patchouli",
+      "fresh spicy",
+      "earthy",
+      "woody",
+      "citrus",
+      "vanilla",
+      "floral",
+      "herbal"
+    ],
+    "Main Accords Percentage": {
+      "rose": "100%",
+      "warm spicy": "95%",
+      "patchouli": "73%",
+      "fresh spicy": "69%",
+      "earthy": "58%",
+      "woody": "56%",
+      "citrus": "55%",
+      "vanilla": "51%",
+      "floral": "51%",
+      "herbal": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.385
+      },
+      {
+        "name": "fall",
+        "score": 2.239
+      },
+      {
+        "name": "spring",
+        "score": 1.005
+      },
+      {
+        "name": "summer",
+        "score": 0.55
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.117
+      },
+      {
+        "name": "casual",
+        "score": 0.852
+      },
+      {
+        "name": "professional",
+        "score": 0.832
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Sichuan Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sichuan%20Pepper.png"
+        },
+        {
+          "name": "Turmeric",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Turmeric.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "May Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/May%20Rose.png"
+        },
+        {
+          "name": "Bulgarian Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bulgarian%20Rose.png"
+        },
+        {
+          "name": "Turkish Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Turkish%20Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/438199.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/tom-ford/tom-ford-rose-prick/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#356474"
+  },
+  {
+    "Name": "Tom Ford Ombre Leather",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-ombre-leather.jpg",
+    "Gender": "unisex",
+    "Price": "254.99",
+    "Longevity": "77.2%",
+    "Sillage": "63.75%",
+    "General Notes": [
+      "jasmine sambac",
+      "orris",
+      "tobacco",
+      "leather",
+      "Violet leaf"
+    ],
+    "Main Accords": [
+      "leather",
+      "animalic",
+      "white floral",
+      "warm spicy",
+      "amber",
+      "smoky",
+      "earthy",
+      "mossy",
+      "patchouli"
+    ],
+    "Main Accords Percentage": {
+      "leather": "100%",
+      "animalic": "71%",
+      "white floral": "57%",
+      "warm spicy": "57%",
+      "amber": "53%",
+      "smoky": "51%",
+      "earthy": "47%",
+      "mossy": "46%",
+      "patchouli": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.677
+      },
+      {
+        "name": "winter",
+        "score": 1.354
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.841
+      },
+      {
+        "name": "professional",
+        "score": 0
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Moss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Moss.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/461931.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-ombre-leather/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#314946"
+  },
+  {
+    "Name": "Tom Ford Santal Blush",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-santal-blush.jpg",
+    "Gender": "women",
+    "Price": "327.99",
+    "Longevity": "69.0%",
+    "Sillage": "59.5%",
+    "General Notes": [
+      "Caraway",
+      "Jasmine",
+      "Rose",
+      "Agarwood",
+      "Sandalwood"
+    ],
+    "Main Accords": [
+      "woody",
+      "warm spicy",
+      "powdery",
+      "fresh spicy",
+      "musky",
+      "amber",
+      "oud",
+      "cinnamon",
+      "yellow floral",
+      "aromatic"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "warm spicy": "86%",
+      "powdery": "73%",
+      "fresh spicy": "55%",
+      "musky": "52%",
+      "amber": "50%",
+      "oud": "46%",
+      "cinnamon": "46%",
+      "yellow floral": "45%",
+      "aromatic": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 2.556
+      },
+      {
+        "name": "winter",
+        "score": 1.96
+      },
+      {
+        "name": "spring",
+        "score": 0.308
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.656
+      },
+      {
+        "name": "professional",
+        "score": 1.578
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Spices",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Spices.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Caraway",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Caraway.png"
+        },
+        {
+          "name": "Fenugreek",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Fenugreek.png"
+        },
+        {
+          "name": "Carrot Seeds",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Carrot%20Seeds.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Virginia Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Virginia%20Cedar.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/272710.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/tom-ford/tom-ford-santal-blush/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#272710"
+  },
+  {
+    "Name": "Tom Ford Neroli Portofino",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-neroli-portofino.jpg",
+    "Gender": "unisex",
+    "Price": "399.99",
+    "Longevity": "55.8%",
+    "Sillage": "50.25%",
+    "General Notes": [
+      "Myrtle",
+      "Lavender",
+      "Bitter Orange",
+      "Lemon",
+      "Rosemary",
+      "Mandarin Orange",
+      "Bergamot",
+      "Pitosporum",
+      "Neroli",
+      "Jasmine",
+      "African Orange Flower",
+      "Angelica",
+      "Ambrette (Musk Mallow)",
+      "Amber"
+    ],
+    "Main Accords": [
+      "citrus",
+      "white floral",
+      "aromatic",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "citrus": "100%",
+      "white floral": "72%",
+      "aromatic": "52%",
+      "fresh spicy": "52%"
+    },
+    "Season Ranking": [
+      {
+        "name": "spring",
+        "score": 1.264
+      },
+      {
+        "name": "summer",
+        "score": 1
+      },
+      {
+        "name": "fall",
+        "score": 0
+      },
+      {
+        "name": "winter",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 1.32
+      },
+      {
+        "name": "casual",
+        "score": 0.9
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Bitter Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bitter%20Orange.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Rosemary",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rosemary.png"
+        },
+        {
+          "name": "Myrtle",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Myrtle.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "African Orange Flower",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/African%20Orange%20Flower.png"
+        },
+        {
+          "name": "Neroli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Neroli.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Pitosporum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pitosporum.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Angelica",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Angelica.png"
+        },
+        {
+          "name": "Ambrette (Musk Mallow)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrette%20(musk%20Mallow).png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/179226.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-neroli-portofino/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#249768"
+  },
+  {
+    "Name": "Tom Ford Lost Cherry",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-lost-cherry.jpg",
+    "Gender": "unisex",
+    "Price": "409.99",
+    "Longevity": "62.6%",
+    "Sillage": "56.0%",
+    "General Notes": [
+      "Sour Cherry",
+      "Cinnamon",
+      "Patchouli",
+      "Sandalwood",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "cherry",
+      "sweet",
+      "almond",
+      "nutty",
+      "fruity",
+      "vanilla",
+      "warm spicy",
+      "amber",
+      "woody",
+      "balsamic"
+    ],
+    "Main Accords Percentage": {
+      "cherry": "100%",
+      "sweet": "96%",
+      "almond": "89%",
+      "nutty": "79%",
+      "fruity": "75%",
+      "vanilla": "66%",
+      "warm spicy": "59%",
+      "amber": "56%",
+      "woody": "53%",
+      "balsamic": "49%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.346
+      },
+      {
+        "name": "fall",
+        "score": 1.509
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.494
+      },
+      {
+        "name": "casual",
+        "score": 0.576
+      },
+      {
+        "name": "professional",
+        "score": 0.371
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Bitter Almond",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bitter%20Almond.png"
+        },
+        {
+          "name": "Black Cherry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Cherry.png"
+        },
+        {
+          "name": "Cherry Liqueur",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cherry%20Liqueur.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Sour Cherry",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sour%20Cherry.png"
+        },
+        {
+          "name": "Plum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Plum.png"
+        },
+        {
+          "name": "Turkish Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Turkish%20Rose.png"
+        },
+        {
+          "name": "Jasmine Sambac",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine%20Sambac.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Cinnamon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cinnamon.png"
+        },
+        {
+          "name": "Peru Balsam",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peru%20Balsam.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Cloves",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cloves.png"
+        },
+        {
+          "name": "Cedar",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cedar.png"
+        },
+        {
+          "name": "Patchouli",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Patchouli.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/337616.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-lost-cherry/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#337616"
+  },
+  {
+    "Name": "Tom Ford Ebene Fume",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-ebene-fume.jpg",
+    "Gender": "unisex",
+    "Price": "320.99",
+    "Longevity": "73.0%",
+    "Sillage": "56.75%",
+    "General Notes": [
+      "violet leaf",
+      "cade oil",
+      "ebony tree",
+      "guaic wood",
+      "resin",
+      "rose"
+    ],
+    "Main Accords": [
+      "woody",
+      "amber",
+      "smoky",
+      "balsamic",
+      "warm spicy",
+      "fresh spicy",
+      "aromatic",
+      "leather"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "amber": "80%",
+      "smoky": "55%",
+      "balsamic": "53%",
+      "warm spicy": "49%",
+      "fresh spicy": "48%",
+      "aromatic": "45%",
+      "leather": "45%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.201
+      },
+      {
+        "name": "fall",
+        "score": 2.092
+      },
+      {
+        "name": "spring",
+        "score": 0.315
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.737
+      },
+      {
+        "name": "professional",
+        "score": 1.15
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        },
+        {
+          "name": "Palo Santo",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Palo%20Santo.png"
+        },
+        {
+          "name": "Black Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Pepper.png"
+        },
+        {
+          "name": "Violet Leaf",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Violet%20Leaf.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Leather",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Leather.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        },
+        {
+          "name": "Cade oil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cade%20Oil.png"
+        },
+        {
+          "name": "Papyrus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Papyrus.png"
+        },
+        {
+          "name": "Rose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Resins",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Resins.png"
+        },
+        {
+          "name": "ebony tree",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ebony%20Tree.png"
+        },
+        {
+          "name": "Guaiac Wood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Guaiac%20Wood.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/436982.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-ebene-fume/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#436982"
+  },
+  {
+    "Name": "Tom Ford Grey Vetiver",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-grey-vetiver.jpg",
+    "Gender": "men",
+    "Price": "221.99",
+    "Longevity": "68.6%",
+    "Sillage": "55.25%",
+    "General Notes": [
+      "Sage",
+      "Orange Blossom",
+      "Grapefruit",
+      "Pimento",
+      "Orris Root",
+      "Nutmeg",
+      "Oakmoss",
+      "Amber",
+      "Woody Notes",
+      "Vetiver"
+    ],
+    "Main Accords": [
+      "woody",
+      "aromatic",
+      "earthy",
+      "citrus",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "woody": "100%",
+      "aromatic": "81%",
+      "earthy": "76%",
+      "citrus": "63%",
+      "fresh spicy": "48%",
+      "mossy": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.508
+      },
+      {
+        "name": "spring",
+        "score": 1.134
+      },
+      {
+        "name": "winter",
+        "score": 0.7
+      },
+      {
+        "name": "summer",
+        "score": 0.63
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.014
+      },
+      {
+        "name": "casual",
+        "score": 0.567
+      },
+      {
+        "name": "night out",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Grapefruit",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Grapefruit.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        },
+        {
+          "name": "Sage",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sage.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Nutmeg",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Nutmeg.png"
+        },
+        {
+          "name": "Orris Root",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orris%20Root.png"
+        },
+        {
+          "name": "Pimento",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pimento.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Woodsy Notes",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Woodsy%20Notes.png"
+        },
+        {
+          "name": "Oakmoss",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oakmoss.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/218581.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/cologne/tom-ford/tom-ford-grey-vetiver/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#218581"
+  },
+  {
+    "Name": "Tom Ford Soleil Blanc",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-soleil-blanc.jpg",
+    "Gender": "unisex",
+    "Price": "289.99",
+    "Longevity": "61.2%",
+    "Sillage": "54.0%",
+    "General Notes": [
+      "Tuberose",
+      "Ylang-Ylang",
+      "Amber",
+      "Coconut",
+      "Tonka Bean"
+    ],
+    "Main Accords": [
+      "white floral",
+      "coconut",
+      "sweet",
+      "tuberose",
+      "amber",
+      "yellow floral",
+      "vanilla",
+      "woody",
+      "warm spicy",
+      "citrus"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "coconut": "98%",
+      "sweet": "90%",
+      "tuberose": "78%",
+      "amber": "78%",
+      "yellow floral": "75%",
+      "vanilla": "70%",
+      "woody": "65%",
+      "warm spicy": "63%",
+      "citrus": "56%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.339
+      },
+      {
+        "name": "fall",
+        "score": 1.869
+      },
+      {
+        "name": "summer",
+        "score": 0.56
+      },
+      {
+        "name": "spring",
+        "score": 0.504
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.774
+      },
+      {
+        "name": "casual",
+        "score": 1.044
+      },
+      {
+        "name": "professional",
+        "score": 0.903
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Pistachio",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pistachio.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Pink Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Pink%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Ylang-Ylang",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ylang-ylang.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Coconut",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Coconut.png"
+        },
+        {
+          "name": "Amber",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Amber.png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/290189.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-soleil-blanc/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#290189"
+  },
+  {
+    "Name": "Tom Ford Myrrhe Mystere",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-myrrhe-mystere.jpg",
+    "Gender": "unisex",
+    "Price": "389.99",
+    "Longevity": "66.6%",
+    "Sillage": "54.25%",
+    "General Notes": [
+      "myrrh",
+      "sandalwood",
+      "vanilla",
+      "leather",
+      "jasmine"
+    ],
+    "Main Accords": [
+      "amber",
+      "warm spicy",
+      "woody",
+      "powdery",
+      "balsamic",
+      "vanilla",
+      "sweet",
+      "aromatic",
+      "musky",
+      "leather"
+    ],
+    "Main Accords Percentage": {
+      "amber": "100%",
+      "warm spicy": "80%",
+      "woody": "76%",
+      "powdery": "76%",
+      "balsamic": "72%",
+      "vanilla": "68%",
+      "sweet": "63%",
+      "aromatic": "62%",
+      "musky": "53%",
+      "leather": "48%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 3.248
+      },
+      {
+        "name": "fall",
+        "score": 2.801
+      },
+      {
+        "name": "spring",
+        "score": 0.434
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 2.881
+      },
+      {
+        "name": "professional",
+        "score": 1.608
+      },
+      {
+        "name": "casual",
+        "score": 0.378
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/473443.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-myrrhe-mystere/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#473444"
+  },
+  {
+    "Name": "Tom Ford Tubereuse Nue",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-tubereuse-nue.jpg",
+    "Gender": "unisex",
+    "Price": "369.99",
+    "Longevity": "73.4%",
+    "Sillage": "64.25%",
+    "General Notes": [
+      "tuberose",
+      "cacao",
+      "styrax",
+      "musk",
+      "suede"
+    ],
+    "Main Accords": [
+      "white floral",
+      "tuberose",
+      "musky",
+      "amber",
+      "leather",
+      "animalic",
+      "powdery"
+    ],
+    "Main Accords Percentage": {
+      "white floral": "100%",
+      "tuberose": "71%",
+      "musky": "61%",
+      "amber": "60%",
+      "leather": "53%",
+      "animalic": "49%",
+      "powdery": "47%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.149
+      },
+      {
+        "name": "winter",
+        "score": 0.48
+      },
+      {
+        "name": "spring",
+        "score": 0
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.467
+      },
+      {
+        "name": "professional",
+        "score": 0.282
+      },
+      {
+        "name": "casual",
+        "score": 0
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Lily",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lily.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Sichuan Pepper",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sichuan%20Pepper.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Tuberose",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tuberose.png"
+        },
+        {
+          "name": "Styrax",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Styrax.png"
+        },
+        {
+          "name": "Benzoin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Benzoin.png"
+        },
+        {
+          "name": "Cacao",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cacao.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Suede",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Suede.png"
+        },
+        {
+          "name": "Musk",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Musk.png"
+        },
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        },
+        {
+          "name": "Tonka Bean",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Tonka%20Bean.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/393475.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-tubereuse-nue/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#393475"
+  },
+  {
+    "Name": "Tom Ford Velvet Orchid",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-velvet-orchid.jpg",
+    "Gender": "women",
+    "Price": "239.99",
+    "Longevity": "72.4%",
+    "Sillage": "65.5%",
+    "General Notes": [
+      "Honey",
+      "Rum",
+      "Mandarin Orange",
+      "Bergamot",
+      "Orange Blossom",
+      "Heliotrope",
+      "Orchid",
+      "Narcissus",
+      "Black Orchid",
+      "Hyacinth",
+      "Rose Oil",
+      "Magnolia",
+      "Jasmine",
+      "Suede",
+      "Myrrh",
+      "Sandalwood",
+      "Vanilla",
+      "Labdanum",
+      "Peru Balsam"
+    ],
+    "Main Accords": [
+      "floral",
+      "sweet",
+      "powdery",
+      "amber",
+      "woody",
+      "vanilla",
+      "balsamic",
+      "honey",
+      "rum",
+      "warm spicy"
+    ],
+    "Main Accords Percentage": {
+      "floral": "100%",
+      "sweet": "88%",
+      "powdery": "79%",
+      "amber": "79%",
+      "woody": "71%",
+      "vanilla": "69%",
+      "balsamic": "68%",
+      "honey": "68%",
+      "rum": "63%",
+      "warm spicy": "56%"
+    },
+    "Season Ranking": [
+      {
+        "name": "winter",
+        "score": 2.786
+      },
+      {
+        "name": "fall",
+        "score": 1.877
+      },
+      {
+        "name": "spring",
+        "score": 1
+      },
+      {
+        "name": "summer",
+        "score": 0
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "night out",
+        "score": 1.721
+      },
+      {
+        "name": "casual",
+        "score": 1.228
+      },
+      {
+        "name": "professional",
+        "score": 0.971
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Rum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rum.png"
+        },
+        {
+          "name": "Honey",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Honey.png"
+        },
+        {
+          "name": "Mandarin Orange",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mandarin%20Orange.png"
+        },
+        {
+          "name": "Bergamot",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Bergamot.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Black Orchid",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Black%20Orchid.png"
+        },
+        {
+          "name": "Orchid",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orchid.png"
+        },
+        {
+          "name": "Jasmine",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Jasmine.png"
+        },
+        {
+          "name": "Heliotrope",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Heliotrope.png"
+        },
+        {
+          "name": "Hyacinth",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Hyacinth.png"
+        },
+        {
+          "name": "Rose Oil",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Rose%20Oil.png"
+        },
+        {
+          "name": "Narcissus",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Narcissus.png"
+        },
+        {
+          "name": "Magnolia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Magnolia.png"
+        },
+        {
+          "name": "Orange Blossom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Orange%20Blossom.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        },
+        {
+          "name": "Myrrh",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Myrrh.png"
+        },
+        {
+          "name": "Suede",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Suede.png"
+        },
+        {
+          "name": "Sandalwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Sandalwood.png"
+        },
+        {
+          "name": "Peru Balsam",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Peru%20Balsam.png"
+        },
+        {
+          "name": "Labdanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Labdanum.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/251064.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/perfume/tom-ford/tom-ford-velvet-orchid/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#251064"
+  },
+  {
+    "Name": "Tom Ford Oud Minerale",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-oud-minerale.jpg",
+    "Gender": "unisex",
+    "Price": "189.99",
+    "Longevity": "74.0%",
+    "Sillage": "58.0%",
+    "General Notes": [
+      "Sea Weed",
+      "Oud",
+      "Pink Pepper",
+      "Balsam Fir",
+      "Sea Salt"
+    ],
+    "Main Accords": [
+      "marine",
+      "aromatic",
+      "salty",
+      "oud",
+      "aquatic",
+      "amber",
+      "fresh spicy"
+    ],
+    "Main Accords Percentage": {
+      "marine": "100%",
+      "aromatic": "68%",
+      "salty": "67%",
+      "aquatic": "57%",
+      "oud": "57%",
+      "amber": "46%",
+      "fresh spicy": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "summer",
+        "score": 0.513
+      },
+      {
+        "name": "spring",
+        "score": 0.476
+      },
+      {
+        "name": "fall",
+        "score": 0.46
+      },
+      {
+        "name": "winter",
+        "score": 0.368
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 0.68
+      },
+      {
+        "name": "night out",
+        "score": 0.46
+      },
+      {
+        "name": "casual",
+        "score": 0.456
+      }
+    ],
+    "Notes": {
+      "Top": [],
+      "Middle": [],
+      "Base": []
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/437658.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-oud-minerale/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#437658"
+  },
+  {
+    "Name": "Tom Ford Costa Azzurra",
+    "Brand": "Tom Ford",
+    "Image URL": "https://d2k6fvhyk5xgx.cloudfront.net/images/tom-ford-costa-azzurra.jpg",
+    "Gender": "unisex",
+    "Price": "179.99",
+    "Longevity": "61.2%",
+    "Sillage": "49.75%",
+    "General Notes": [
+      "oud",
+      "celery seeds",
+      "seaweed",
+      "driftwood",
+      "ambrette"
+    ],
+    "Main Accords": [
+      "aromatic",
+      "woody",
+      "citrus",
+      "marine",
+      "fresh spicy",
+      "amber",
+      "herbal",
+      "warm spicy"
+    ],
+    "Main Accords Percentage": {
+      "aromatic": "100%",
+      "woody": "91%",
+      "citrus": "67%",
+      "marine": "58%",
+      "fresh spicy": "58%",
+      "amber": "47%",
+      "herbal": "47%",
+      "warm spicy": "44%"
+    },
+    "Season Ranking": [
+      {
+        "name": "fall",
+        "score": 1.641
+      },
+      {
+        "name": "winter",
+        "score": 1.453
+      },
+      {
+        "name": "spring",
+        "score": 1.303
+      },
+      {
+        "name": "summer",
+        "score": 0.67
+      }
+    ],
+    "Occasion Ranking": [
+      {
+        "name": "professional",
+        "score": 2.173
+      },
+      {
+        "name": "night out",
+        "score": 0.822
+      },
+      {
+        "name": "casual",
+        "score": 0.603
+      }
+    ],
+    "Notes": {
+      "Top": [
+        {
+          "name": "Driftwood",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Driftwood.png"
+        },
+        {
+          "name": "Seaweed",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Seaweed.png"
+        },
+        {
+          "name": "Agarwood (Oud)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Agarwood%20(oud).png"
+        },
+        {
+          "name": "Cardamom",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cardamom.png"
+        },
+        {
+          "name": "Ambrette (Musk Mallow)",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Ambrette%20(musk%20Mallow).png"
+        },
+        {
+          "name": "Celery Seeds",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Celery%20Seeds.png"
+        }
+      ],
+      "Middle": [
+        {
+          "name": "Cypress",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Cypress.png"
+        },
+        {
+          "name": "Lemon",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lemon.png"
+        },
+        {
+          "name": "Yellow Mandarin",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Yellow%20Mandarin.png"
+        },
+        {
+          "name": "Lavender",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Lavender.png"
+        },
+        {
+          "name": "Myrtle",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Myrtle.png"
+        },
+        {
+          "name": "Artemisia",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Artemisia.png"
+        }
+      ],
+      "Base": [
+        {
+          "name": "Incense",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Incense.png"
+        },
+        {
+          "name": "Vetiver",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vetiver.png"
+        },
+        {
+          "name": "Oak",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Oak.png"
+        },
+        {
+          "name": "Olibanum",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Olibanum.png"
+        },
+        {
+          "name": "Mastic or Lentisque",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Mastic%20Or%20Lentisque.png"
+        },
+        {
+          "name": "Vanilla",
+          "imageUrl": "https://d2k6fvhyk5xgx.cloudfront.net/note_images/Vanilla.png"
+        }
+      ]
+    },
+    "Image Fallbacks": [
+      "https://cdn.fragrancenet.com/images/photos/600x600/386907.jpg"
+    ],
+    "Purchase URL": "https://www.fragrancenet.com/fragrances/tom-ford/tom-ford-costa-azzurra/eau-de-parfum?mv_pc=LS&utm_campaign=MmJMBbLy6ow&utm_medium=Affiliate&utm_source=LS#386907"
+  }
+]
