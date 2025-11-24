@@ -2,9 +2,7 @@
 require_once __DIR__ . '/../models/connection.php';
 require_once __DIR__ . '/../models/DAO/user/update.php';
 
-session_start();
-
-// Update the session ID from the database if user is logged in
+// Set session to null in the db for the current user
 if (isset($_SESSION['user_id'])) {
     setNewUserSessionId($_SESSION['user_id'], null);
 }
@@ -21,10 +19,13 @@ if (ini_get("session.use_cookies")) {
     );
 }
 
+// Delete the IS_LOGGED cookie
+setcookie('IS_LOGGED', 0, time() - 1, '/');
+
 // Destroy the session
 session_destroy();
 
 // Redirect to home page
-header("Location: ../../index.php");
+header("Location: index.php");
 exit;
 ?>

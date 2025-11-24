@@ -12,7 +12,7 @@ if (isset($_SESSION['user_id'])) {
     if ($user['session'] !== session_id()) {
         // Session doesn't match - user logged in elsewhere
         session_destroy();
-        header("Location: ../../index.php?action=login&error=session_expired");
+        header("Location: index.php?action=login&error=session_expired");
         exit;
     }
     $loggedIn = true;

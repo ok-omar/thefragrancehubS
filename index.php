@@ -13,40 +13,52 @@ $files_to_import = array_diff(scandir(__DIR__ . '/app/models/data/'), ['.', '..'
 shuffle($files_to_import);
 
 
-if ($action == "filldb") {
-    if (count($files_imported) != 0) {
-        echo "Files already imported: " . print_r($files_imported, true) . "<br>";
-        return;
-    }
-    echo "Files to import: " . print_r($files_to_import, true) . "<br>";
-    
-    foreach ($files_to_import as $file) {
-        try {
-            insertFragrancesFromJson($pdo, __DIR__ . '/app/models/data/' . $file);
-            echo "✓ Successfully imported: {$file}<br>";
-        } catch (Exception $e) {
-            echo "✗ Error importing {$file}: " . $e->getMessage() . "<br>";
+switch ($action) {
+    case "filldb":
+        if (count($files_imported) != 0) {
+            echo "Files already imported: " . print_r($files_imported, true) . "<br>";
+            break;
         }
-    }
+        echo "Files to import: " . print_r($files_to_import, true) . "<br>";
+        
+        foreach ($files_to_import as $file) {
+            try {
+                insertFragrancesFromJson($pdo, __DIR__ . '/app/models/data/' . $file);
+                echo "✓ Successfully imported: {$file}<br>";
+            } catch (Exception $e) {
+                echo "✗ Error importing {$file}: " . $e->getMessage() . "<br>";
+            }
+        }
 
-    echo "<h1 style='color: red;'>You will be redirected to homepage in 3 seconds...</h1>";
-    sleep(20);
-    header("Location: controllers/charts.php");
-    exit;
+        echo "<h1 style='color: red;'>You will be redirected to homepage in 3 seconds...</h1>";
+        sleep(20);
+        header("Location: controllers/charts.php");
+        exit;
 
-} elseif ($action == "delete") {
-    deleteAllfragrances($pdo);
-    include 'index.view.php';
-} elseif ($action == "charts"){
-    include 'app/controllers/charts.php';
-} elseif ($action == "login") {
-    include 'app/controllers/auth.php';
-} elseif ($action == "register") {
-    include 'app/controllers/auth.php';
-} elseif ($action == "resetpassword") {
-    include 'app/controllers/resetpassword.php';
-} else {
-    include 'index.view.php';
+    case "delete":
+        deleteAllfragrances($pdo);
+        include 'index.view.php';
+        break;
+
+    case "charts":
+        header("Location: app/controllers/charts.php");
+        break;
+
+    case "login":
+    case "register":
+        include 'app/controllers/auth.php';
+        break;
+
+    case "resetpassword":
+        include 'app/controllers/resetpassword.php';
+        break;
+    case 'logout':
+        include 'app/controllers/logout.php';
+        break;
+
+    default:
+        include 'index.view.php';
+        break;
 }
 
 if ($error == 'session_expired') {

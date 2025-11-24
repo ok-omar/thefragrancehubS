@@ -40,6 +40,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 // Set session variables
                 $_SESSION['user_id'] = $user['id'];
                 $_SESSION['username'] = $username;
+                setcookie('SESSION_ID', $new_session_id, time() + 3600, '/');
+                setcookie('IS_LOGGED', true, time() + 3600,'/');
                 
                 // Redirect to charts page
                 header("Location: index.php?action=charts");
