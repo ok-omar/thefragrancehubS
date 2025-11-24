@@ -52,6 +52,7 @@ li {
 #nav li a:hover {
     color: #666;
 }
+/* Nav buttons */
 
 #buttons-container {
     display: flex;
