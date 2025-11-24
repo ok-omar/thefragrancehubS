@@ -88,6 +88,32 @@ li {
     border-color: #333;
 }
 
+#icons-container {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+#icons-container svg {
+    width: 32px;
+    height: 32px;
+    color: #333;
+    cursor: pointer;
+    transition: opacity 0.3s;
+    display: block;
+}
+
+#icons-container a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+#icons-container svg:hover {
+    opacity: 0.6;
+    color: #5c3b1e;
+}
+
 /* Hero Section */
 .hero {
     text-align: center;

@@ -69,6 +69,13 @@ body {
     color: #333;
     cursor: pointer;
     transition: opacity 0.3s;
+    display: block;
+}
+
+#icons-container a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
 }
 
 #icons-container svg:hover {
