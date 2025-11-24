@@ -1,9 +1,13 @@
 <?php
+require_once __DIR__ . '/app/controllers/common.php';
+session_start();
+
 require_once __DIR__ . '/app/models/connection.php';
-require_once __DIR__ . '/app/models/DAO/insert.php';
-require_once __DIR__ . '/app/models/DAO/delete.php';
+require_once __DIR__ . '/app/models/DAO/fragrance/create.php';
+require_once __DIR__ . '/app/models/DAO/fragrance/delete.php';
 
 $action = $_GET['action'] ?? null;
+$error = $_GET['error'] ?? null;
 $files_imported = [];
 $files_to_import = array_diff(scandir(__DIR__ . '/app/models/data/'), ['.', '..']);
 shuffle($files_to_import);
@@ -34,17 +38,18 @@ if ($action == "filldb") {
     deleteAllfragrances($pdo);
     include 'index.view.php';
 } elseif ($action == "charts"){
-    header("Location: app/controllers/charts.php");
+    include 'app/controllers/charts.php';
 } elseif ($action == "login") {
-    $_GET['mode'] = 'login';
     include 'app/controllers/auth.php';
 } elseif ($action == "register") {
-    $_GET['mode'] = 'register';
     include 'app/controllers/auth.php';
+} elseif ($action == "resetpassword") {
+    include 'app/controllers/resetpassword.php';
 } else {
     include 'index.view.php';
 }
 
-
-
+if ($error == 'session_expired') {
+    echo "<script>alert('Session expired... you will be redirected to the homepage');</script>";
+}
 ?>
