@@ -1,9 +1,9 @@
-DROP DATABASE IF EXISTS `pt03_omar_ouahoud`;
-CREATE DATABASE IF NOT EXISTS `pt03_omar_ouahoud`
+DROP DATABASE IF EXISTS `fragrancedb`;
+CREATE DATABASE IF NOT EXISTS `fragrancedb`
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
 
-USE `pt03_omar_ouahoud`;
+USE `fragrancedb`;
 
 CREATE TABLE fragrances (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -16,11 +16,10 @@ CREATE TABLE fragrances (
     sillage VARCHAR(10)
 );
 
-CREATE TABLE  users (
+CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(100) NOT NULL UNIQUE,
-    name VARCHAR(100) NOT NULL,
-    surname VARCHAR(100) NOT NULL,
-    email VARCHAR(150) NOT NULL UNIQUE,
-    password_hash VARCHAR(255) NOT NULL
+    email VARCHAR(255) NOT NULL UNIQUE,
+    password_hash VARCHAR(255) NOT NULL,
+    session VARCHAR(255) UNIQUE
 );
