@@ -26,6 +26,6 @@ setcookie('IS_LOGGED', 0, time() - 1, '/');
 session_destroy();
 
 // Redirect to home page
-header("Location: index.php");
+header("Location: ../views/logout.view.php");
 exit;
 ?>
