@@ -32,7 +32,7 @@ switch ($action) {
 
         echo "<h1 style='color: red;'>You will be redirected to homepage in 3 seconds...</h1>";
         sleep(20);
-        header("Location: controllers/charts.php");
+        header("Location: app/controllers/charts.php");
         exit;
 
     case "delete":
@@ -53,7 +53,7 @@ switch ($action) {
         include 'app/controllers/resetpassword.php';
         break;
     case 'logout':
-        include 'app/controllers/logout.php';
+        header('Location: app/controllers/logout.php');
         break;
 
     default:
