@@ -274,8 +274,8 @@ body {
     position: absolute;
     top: 10px;
     right: 10px;
-    width: 30px;
-    height: 30px;
+    width: 36px;
+    height: 36px;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 50%;
     display: flex;
@@ -292,7 +292,7 @@ body {
 
 .favorite-icon::before {
     content: "♡";
-    font-size: 18px;
+    font-size: 36px;
     color: #5c3b1e;
 }
 
