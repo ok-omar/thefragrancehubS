@@ -58,12 +58,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $repeat_password = $_POST['repeat_password'] ?? '';
         $accept_tos = isset($_POST['accept_tos']);
         
-        // Save form data to repopulate (don't save passwords)
+        // Save form data to repopulate (without passwords)
         $form_data['username'] = $username;
         $form_data['email'] = $email;
         $form_data['accept_tos'] = $accept_tos;
         
-        // Validation
+        // Inputs Validation
         if (empty($username) || empty($email) || empty($password) || empty($repeat_password)) {
             $error = 'Please fill in all fields';
         } elseif ($password !== $repeat_password) {
@@ -85,7 +85,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             } elseif (usernameAlreadyExists($username)) {
                 $error = 'Username already taken. Please choose a different one.';
             } else {
-                // Hash password ONCE
+                // Hash password
                 $hashed_password = password_hash($password, PASSWORD_DEFAULT);
                 
                 // Regenerate session ID for security

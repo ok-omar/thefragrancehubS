@@ -11,13 +11,13 @@ if (isset($_SESSION['user_id'])) {
 // Unset all session variables
 $_SESSION = array();
 
-// Delete the session cookie
+// Expire the session cookie
 setcookie('NON_FRESH_SESS', '', time() - 999, '/');
 
 // Destroy the session
 session_destroy();
 
-// Redirect to home page
+// Redirect to logout page
 header("Location: ../views/logout.view.php");
 exit;
 ?>
