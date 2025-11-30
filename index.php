@@ -35,29 +35,37 @@ switch ($action) {
 
     case "delete":
         deleteAllfragrances($pdo);
-        include 'index.view.php';
+        require 'index.view.php';
         break;
 
     case "charts":
         header("Location: app/controllers/charts.php");
         break;
 
+    case "fragrance":
+        $id = $_GET['id'] ?? ''; 
+        header("Location: app/controllers/fragrance.php?id=" . urlencode($id));
+        exit;
+
     case "login":
     case "register":
-        include 'app/controllers/auth.php';
+        require 'app/controllers/auth.php';
         break;
 
     case "resetpassword":
-        include 'app/controllers/resetpassword.php';
+        require 'app/controllers/resetpassword.php';
         break;
+
     case 'logout':
         header('Location: app/controllers/logout.php');
-        break;
+        exit;
+
     case 'session_expired':
         header('Location: app/controllers/expired.php');
-
+        exit;
+        
     default:
-        include 'index.view.php';
+        require 'index.view.php';
         break;
 }
 
