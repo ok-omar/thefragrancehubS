@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/common.php';
 require_once __DIR__ . '/../models/connection.php';
 require_once __DIR__ . '/../models/DAO/user/update.php';
 
@@ -11,16 +12,8 @@ if (isset($_SESSION['user_id'])) {
 $_SESSION = array();
 
 // Delete the session cookie
-if (ini_get("session.use_cookies")) {
-    $params = session_get_cookie_params();
-    setcookie(session_name(), '', time() - 42000,
-        $params["path"], $params["domain"],
-        $params["secure"], $params["httponly"]
-    );
-}
-
-// Delete the IS_LOGGED cookie
-setcookie('IS_LOGGED', 0, time() - 1, '/');
+setcookie('IS_LOGGED', '', time() - 999, '/');
+setcookie('SESSION_ID', '', time() - 999, '/');
 
 // Destroy the session
 session_destroy();

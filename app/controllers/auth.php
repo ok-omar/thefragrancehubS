@@ -7,7 +7,6 @@ require_once __DIR__ . '/../models/DAO/user/delete.php';
 require_once __DIR__ . '/common.php';
 
 
-
 $error = '';
 $success = '';
 $form_data = [];
@@ -40,8 +39,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 // Set session variables
                 $_SESSION['user_id'] = $user['id'];
                 $_SESSION['username'] = $username;
-                setcookie('SESSION_ID', $new_session_id, time() + 3600, '/');
-                setcookie('IS_LOGGED', true, time() + 3600,'/');
                 
                 // Redirect to charts page
                 header("Location: index.php?action=charts");
@@ -77,28 +74,59 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         } elseif (usernameAlreadyExists($username)) {
             $error = 'Username already taken. Please choose a different one.';
         } else {
-            // Hash password ONCE
-            $hashed_password = password_hash($password, PASSWORD_DEFAULT);
-            
-            // Regenerate session ID for security
-            session_regenerate_id(true);
-            $new_session_id = session_id();
-            
-            // Create user
-            $user_id = createUser($username, $email, $hashed_password, $new_session_id);
-            
-            if ($user_id) {
-                $_SESSION['user_id'] = $user_id;
-                $_SESSION['username'] = $username;
-                header("Location: index.php?action=charts");
-                exit;
+            $passwordErrors = validateStrongPassword($password);
+            if (!empty($passwordErrors)) {
+                $error = 'Password must contain ' . implode(', ', $passwordErrors);
+            } elseif (emailAlreadyExists($email)) {
+                $error = 'Email already exists. Please login instead.';
+            } elseif (usernameAlreadyExists($username)) {
+                $error = 'Username already taken. Please choose a different one.';
             } else {
-                $error = 'Registration failed. Please try again.';
+                // Hash password ONCE
+                $hashed_password = password_hash($password, PASSWORD_DEFAULT);
+                
+                // Regenerate session ID for security
+                session_regenerate_id(true);
+                $new_session_id = session_id();
+                
+                // Create user
+                $user_id = createUser($username, $email, $hashed_password, $new_session_id);
+                
+                if ($user_id) {
+                    $_SESSION['user_id'] = $user_id;
+                    $_SESSION['username'] = $username;
+                    header("Location: index.php?action=charts");
+                    exit;
+                } else {
+                    $error = 'Registration failed. Please try again.';
+                }
             }
         }
 
-
     }
+}
+
+// Function to validate strong password
+function validateStrongPassword($password) {
+    $errors = [];
+    
+    if (strlen($password) < 8) {
+        $errors[] = 'at least 8 characters';
+    }
+    if (!preg_match('/[A-Z]/', $password)) {
+        $errors[] = 'one uppercase letter';
+    }
+    if (!preg_match('/[a-z]/', $password)) {
+        $errors[] = 'one lowercase letter';
+    }
+    if (!preg_match('/[0-9]/', $password)) {
+        $errors[] = 'one number';
+    }
+    if (!preg_match('/[^A-Za-z0-9]/', $password)) {
+        $errors[] = 'one special character';
+    }
+    
+    return $errors;
 }
 
 require_once __DIR__ . '/../views/auth.view.php';
