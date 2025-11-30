@@ -55,13 +55,12 @@ switch ($action) {
     case 'logout':
         header('Location: app/controllers/logout.php');
         break;
+    case 'session_expired':
+        header('Location: app/controllers/expired.php');
 
     default:
         include 'index.view.php';
         break;
 }
 
-if ($error == 'session_expired') {
-    echo "<script>alert('Session expired... you will be redirected to the homepage');</script>";
-}
 ?>
