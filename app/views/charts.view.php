@@ -123,11 +123,34 @@
           <div class="card-image-container">
             <img src="<?= htmlspecialchars($fragrance['image_url']) ?>" alt="<?= htmlspecialchars($fragrance['name']) ?>">
             <?php if (isLoggedIn()): ?>
-            <div class="favorite-icon"></div>            
+              <div class="brand-badge-overlay"><?= htmlspecialchars($fragrance['brand']) ?></div>
+              <div class="favorite-icon"></div>            
               <a class="edit-pill" href="../../index.php?action=fragrance&id=<?= urlencode($fragrance['id']) ?>">Edit</a>
             <?php endif; ?>
           </div>
-          <p><?= htmlspecialchars($fragrance['name']) ?></p>
+          <div class="card-content">
+            <p class="card-name"><?= htmlspecialchars($fragrance['name']) ?></p>
+            <?php if (isLoggedIn()): ?>
+              <div class="card-details">
+                <span class="gender-badge gender-<?= strtolower($fragrance['gender']) ?>">
+                  <?= ucfirst($fragrance['gender']) ?>
+                </span>
+                <?php if (!empty($fragrance['price'])): ?>
+                  <span class="price-badge">$<?= number_format($fragrance['price'], 2) ?></span>
+                <?php endif; ?>
+              </div>
+              <?php if (!empty($fragrance['longevity']) || !empty($fragrance['sillage'])): ?>
+                <div class="card-stats">
+                  <?php if (!empty($fragrance['longevity'])): ?>
+                    <span class="stat-pill">Longevity: <?= htmlspecialchars($fragrance['longevity']) ?></span>
+                  <?php endif; ?>
+                  <?php if (!empty($fragrance['sillage'])): ?>
+                    <span class="stat-pill">Sillage: <?= htmlspecialchars($fragrance['sillage']) ?></span>
+                  <?php endif; ?>
+                </div>
+              <?php endif; ?>
+            <?php endif; ?>
+          </div>
         </div>
       <?php endforeach; ?>
     </div>
