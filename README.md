@@ -1,113 +1,162 @@
-# Fragrance Hub - Project README
+# The Fragrance Hub
 
-## Project Overview
-Fragrance Hub is a PHP-based web application for managing and displaying fragrance data. The application supports database operations, pagination, and displays fragrance information from various luxury brands.
+A full-stack PHP web application for managing and browsing luxury fragrances with user authentication, CRUD operations, and data visualization.
 
-## Project Structure
+## 🎯 Project Overview
+
+The Fragrance Hub is a comprehensive fragrance catalog system that allows users to browse, manage, and analyze data from luxury brands including Chanel, Dior, Creed, Tom Ford, and more. The application features secure user authentication, full CRUD functionality, pagination, and interactive charts.
+
+## ✨ Key Features
+
+- **User Authentication System**
+  - Secure login/registration with password hashing
+  - Session management with database-backed session IDs
+  - Session expiration handling
+
+- **Fragrance Management (CRUD)**
+  - Create, Read, Update, and Delete fragrance entries
+  - Bulk import from JSON files (14 luxury brands included)
+  - Detailed fragrance attributes (name, brand, price, longevity, sillage, gender)
+  - Image management with URLs
+
+## 🗂️ Project Structure
 
 ```
-index.php                 # Main entry point for database operations
-index.vista.php          # View for database import/clear operations
-app/
-├── controllers/
-│   └── homepage.php     # Main controller for fragrance display with pagination
-├── models/
-│   ├── connection.php   # Database connection configuration
-│   ├── DAO/
-│   │   ├── delete.php   # Database delete operations
-│   │   ├── insert.php   # Database insert operations (insertFragrancesFromJson)
-│   │   ├── read.php     # Database read operations (getAllfragrances, getFragranceInRange)
-│   │   └── scripts/
-│   │       └── create_fragrance_table.sql  # SQL table creation script
-│   └── data/            # JSON files with fragrance data
-│       ├── armani.json
-│       ├── burberry.json
-│       ├── calvin.json
-│       ├── chanel.json
-│       ├── creed.json
-│       ├── dior.json
-│       ├── dolce.json
-│       ├── hermes.json
-│       ├── jomalon.json
-│       ├── kilian.json
-│       ├── lv.json
-│       ├── maisonfrancis.json
-│       ├── Prada.json
-│       └── tomford.json
-└── views/
-    └── homepage.vista.php  # Main display view with pagination UI
-public/
-└── styles/
-    ├── dropdown.css     # Dropdown component styles
-    ├── homepage.css     # Homepage styling
-    └── index.css        # Index page styling with modern gradient design
+├── index.php                    # Database import/management entry point
+├── app/
+│   ├── controllers/
+│   │   ├── auth.php            # User authentication & registration
+│   │   ├── fragrance.php       # Fragrance CRUD operations
+│   │   ├── charts.php          # Data visualization controller
+│   │   ├── common.php          # Shared utilities (session validation)
+│   │   ├── logout.php          # Logout handler
+│   │   ├── resetpassword.php   # Password reset logic
+│   │   └── expired.php         # Session expiration handler
+│   ├── models/
+│   │   ├── connection.php      # PDO database connection
+│   │   ├── DAO/
+│   │   │   ├── fragrance/      # Fragrance CRUD operations
+│   │   │   ├── user/           # User CRUD operations
+│   │   │   └── scripts/
+│   │   │       └── create_db.sql  # Database schema
+│   │   └── data/               # JSON files (14 brands)
+│   └── views/                  # All view templates
+└── public/
+    ├── images/                 # Image assets
+    └── styles/                 # CSS stylesheets
 ```
 
-## Database Setup
+## 🚀 Getting Started
 
-### SQL Script Location
-The database table creation script is located at:
-**`app/models/DAO/scripts/create_fragrance_table.sql`**
+### Prerequisites
 
-This script creates the `fragrances` table with the following structure:
-- `id` (Primary Key)
-- `name`
-- `brand`
-- `image_url`
-- `gender`
-- `price`
-- `longevity`
-- `sillage`
+- **XAMPP** (Apache + MySQL + PHP)
+- PHP 7.4 or higher
+- MySQL 5.7 or higher
 
-### Initial Setup
-1. Run the SQL script to create the database table
-2. Navigate to `index.php`
-3. Click "Fill Database" to import fragrance data from JSON files in `app/models/data/`, you will be redirected automatically to the homepage after the import job is finished
-4. Click "Clear Database" to remove all fragrance data from the database
-5. Click "Go to Homepage" to view the fragrances, this is for when you enter the index.php again and you already imported all the data, redirects you to homepage.
+### Installation
 
-## User Interface
-
-### Index Page
-The main entry page (`index.vista.php`) features a modern, user-friendly design:
-- **Purple gradient background** for visual appeal
-- **Centered card layout** with shadow effects
-- **Three action buttons** with distinct gradient styles:
-  - Fill Database (purple gradient)
-  - Clear Database (pink gradient)
-  - Go to Homepage (cyan gradient)
-- **Hover animations** for interactive feedback
-- **Responsive design** that adapts to different screen sizes
-
-Styling is managed by `public/styles/index.css`
-
-## How Pagination Works
-
-The pagination system is implemented in `app/controllers/homepage.php`:
-
-### Key Components
-
-1. **Rows Per Page Selection**
-   - Users can select 3, 5, or 10 fragrances per page via dropdown in `homepage.vista.php`
-   - Selection is stored in a cookie (`rows-per-page`) for 30 days
-   - Default: 3 fragrances per page
-
-2. **Page Calculation**
-   ```php
-   $total_fragrances = count(getAllfragrances($pdo));
-   $pages = ceil($total_fragrances / $rows_per_page);
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ok-omar/thefragrancehubS.git
+   cd Pt4
    ```
 
-3. **Current Page Management**
+2. **Set up the database**
+   - Start XAMPP and ensure MySQL is running
+   - Import the SQL schema:
+   ```bash
+   mysql -u root < app/models/DAO/scripts/create_db.sql
+   ```
+   This creates:
+   - Database: `fragrancedb`
+   - Tables: `fragrances` and `users`
+
+3. **Configure database connection**
+   - Edit `app/models/connection.php` if needed
+   - Default settings:
+     - Host: `localhost`
+     - Database: `fragrancedb`
+     - User: `root`
+     - Password: *(empty)*
+
+4. **Import fragrance data**
+   - Navigate to `http://localhost/BACKEND/Pt4/index.php`
+   - Click **"Fill Database"** to import all JSON files
+   - Data from 14 luxury brands will be imported automatically
+
+5. **Create a user account**
+   - Go to the registration page
+   - Create your account with username, email, and password
+   - Login to view the fragrances with detailed information
+
+## 📊 Database Schema
+
+### `fragrances` Table
+| Column      | Type              | Description                    |
+|-------------|-------------------|--------------------------------|
+| id          | INT (PK)          | Auto-increment primary key     |
+| name        | VARCHAR(255)      | Fragrance name                 |
+| brand       | VARCHAR(100)      | Brand name                     |
+| image_url   | TEXT              | Product image URL              |
+| gender      | ENUM              | men / women / unisex           |
+| price       | DECIMAL(10,2)     | Price in currency              |
+| longevity   | VARCHAR(10)       | Fragrance longevity rating     |
+| sillage     | VARCHAR(10)       | Fragrance projection rating    |
+
+### `users` Table
+| Column        | Type              | Description                    |
+|---------------|-------------------|--------------------------------|
+| id            | INT (PK)          | Auto-increment primary key     |
+| username      | VARCHAR(100)      | Unique username                |
+| email         | VARCHAR(255)      | Unique email address           |
+| password_hash | VARCHAR(255)      | Hashed password         |
+| session       | VARCHAR(255)      | Current session ID             |
+
+## 🎨 Features In Detail
+
+### Authentication Flow
+- Passwords are hashed using `password_hash()` with bcrypt
+- Session IDs are regenerated on accessing the page, and set to your user when you login
+- Session validation occurs on protected pages
+- Expired sessions redirect to a dedicated session expiration page
+
+### Pagination System
+- Customizable rows per page (8, 16, 24)
+- Preferences stored in cookies for 30 days
+- Dynamic page calculation based on total records
+- Navigation controls for first, previous, next, and last pages
+
+### CRUD Operations
+- **Create**: Add new fragrances 
+- **Read**: Browse fragrances with pagination
+- **Update**: Edit existing fragrance details
+- **Delete**: Remove fragrances from database
+
+### Data Import
+- Bulk import from JSON files in `app/models/data/`
+- 14 luxury brands pre-loaded
+- Randomized import order
+- Error handling with feedback
+
+## 🔐 Security Features
+
+- SQL injection protection via PDO prepared statements
+- Password hashing with bcrypt algorithm
+- Session ID setup on authentication
+- Database-backed session validation
+- Cookie-based preferences with secure flags
+
+**Current Page Management**
    - Page number is passed via URL parameter `?page-number=X`
    - Current page is validated to stay within valid range (1 to max pages)
-   - Start position is calculated: `$start = ($current_page - 1) * $rows_per_page`
+   - The fragrance range is displayed by calculating the start: `$start = ($current_page - 1) * $rows_per_page` then showing the next amount: `fragrance_per_page`
 
-4. **Data Retrieval**
+**Data Retrieval**
    - `getFragranceInRange()` fetches only the fragrances for the current page
    - Uses `LIMIT` and `OFFSET` in SQL query for efficient pagination
 
-5. **Navigation Controls** (in `homepage.vista.php`)
+**Navigation Controls** (in `charts.view.php`)
    - **<<** First page
    - **<** Previous page (disabled on page 1)
    - Page counter: "X / Y"
@@ -115,15 +164,9 @@ The pagination system is implemented in `app/controllers/homepage.php`:
    - **>>** Last page
 
 ### Example URLs
-- First page with 3 items: `homepage.php?page-number=1&rows-per-page=3`
-- Second page with 5 items: `homepage.php?page-number=2&rows-per-page=5`
-- Navigate to page 3: `homepage.php?page-number=3`
-
-## Data Flow
-
-1. **Import**: `index.php` → `insert.php` → Database
-2. **Display**: `homepage.php` → `read.php` → `homepage.vista.php`
-3. **Delete**: `index.php` → `delete.php` → Database
+- First page with 8 items: `charts.php?page-number=1&rows-per-page=8`
+- Second page with 16 items: `charts.php?page-number=2&rows-per-page=16`
+- Navigate to page 20: `charts .php?page-number=20`
 
 ## Features
 
@@ -133,3 +176,12 @@ The pagination system is implemented in `app/controllers/homepage.php`:
 - **Responsive Navigation**: First, previous, next, and last page controls
 - **Brand Support**: 14 luxury fragrance brands
 - **Modern UI Design**: Gradient backgrounds, smooth animations, and clean styling
+
+## 🔧 Technology Stack
+
+- **Backend**: PHP 7.4+ with PDO
+- **Database**: MySQL with utf8mb4 encoding
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Architecture**: MVC pattern
+- **Security**: Password hashing, session management, prepared statements
+
