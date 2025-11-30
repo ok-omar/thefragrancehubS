@@ -22,7 +22,7 @@ The Fragrance Hub is a comprehensive fragrance catalog system that allows users 
 ## 🗂️ Project Structure
 
 ```
-├── index.php                    # Database import/management entry point
+├── index.php                    # Entry point / Router
 ├── app/
 │   ├── controllers/
 │   │   ├── auth.php            # User authentication & registration
