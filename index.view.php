@@ -14,7 +14,7 @@
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
-    <?php if (!isset($_COOKIE['IS_LOGGED'])): ?>
+    <?php if (!isLoggedIn()): ?>
       <div id="buttons-container">
           <button class="register-button" onclick="window.location.href='index.php?action=register'">Register</button>
           <button class="login-button" onclick="window.location.href='index.php?action=login'">Login</button>            

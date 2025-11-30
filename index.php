@@ -1,7 +1,5 @@
 <?php
 require_once __DIR__ . '/app/controllers/common.php';
-session_start();
-
 require_once __DIR__ . '/app/models/connection.php';
 require_once __DIR__ . '/app/models/DAO/fragrance/create.php';
 require_once __DIR__ . '/app/models/DAO/fragrance/delete.php';
