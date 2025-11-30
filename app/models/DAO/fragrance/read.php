@@ -16,5 +16,13 @@ function getFragranceInRange($pdo, $start, $offset) {
     return $stmt->fetchAll();
 }
 
+function getFragranceById($pdo, $id) {
+    $stmt = $pdo->prepare("SELECT * FROM fragrances WHERE id = :id LIMIT 1");
+    $stmt->bindValue(':id', $id, PDO::PARAM_INT);
+    $stmt->execute();
+
+    return $stmt->fetch();
+}
+
 
 ?>

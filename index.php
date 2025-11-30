@@ -38,6 +38,27 @@ switch ($action) {
         require 'index.view.php';
         break;
 
+    case "delete_fragrance":
+        require_once __DIR__ . '/app/controllers/common.php';
+        require_once __DIR__ . '/app/models/DAO/fragrance/delete.php';
+        
+        // Check if user is logged in
+        if (!isLoggedIn()) {
+            header("Location: index.php?action=login");
+            exit;
+        }
+        
+        // Get the fragrance ID
+        $id = $_GET['id'] ?? $_POST['id'] ?? null;
+        
+        if ($id) {
+            deleteFragranceById($pdo, $id);
+        }
+        
+        // Redirect back to charts page
+        header("Location: index.php?action=charts");
+        exit;
+
     case "charts":
         header("Location: app/controllers/charts.php");
         break;
@@ -63,7 +84,7 @@ switch ($action) {
     case 'session_expired':
         header('Location: app/controllers/expired.php');
         exit;
-        
+
     default:
         require 'index.view.php';
         break;

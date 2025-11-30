@@ -1,4 +1,33 @@
 <?php
+function createFragrance($pdo, array $data) {
+    // Prepare values
+    $name = $data['name'];
+    $brand = $data['brand'];
+    $image_url = $data['image_url'] ?? null;
+    $gender = $data['gender'] ?? 'unisex';
+    $price = $data['price'];
+    $longevity = $data['longevity'] ?? null;
+    $sillage = $data['sillage'] ?? null;
+
+    // Insert the fragrance    
+    $stmt = $pdo->prepare('
+        INSERT INTO fragrances (name, brand, image_url, gender, price, longevity, sillage) 
+        VALUES (:name, :brand, :image_url, :gender, :price, :longevity, :sillage)
+    ');
+
+    $stmt->execute([
+        ':name' => $name,
+        ':brand' => $brand,
+        ':image_url' => $image_url,
+        ':gender' => $gender,
+        ':price' => $price,
+        ':longevity' => $longevity,
+        ':sillage' => $sillage
+    ]);
+
+    // Return the new fragrance ID
+    return (int) $pdo->lastInsertId();
+}
 
 function insertFragrancesFromJson($pdo, $jsonFilePath) {
     if (!file_exists($jsonFilePath)) {
