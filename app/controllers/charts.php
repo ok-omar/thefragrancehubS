@@ -5,7 +5,7 @@ require_once __DIR__ . '/../models/DAO/fragrance/read.php';
 require_once __DIR__ . '/common.php';
 
 // Send to session expired if the user is no longer logged in
-if (!isLoggedIn()) {
+if (!isLoggedIn() && isset($_COOKIE['NON_FRESH_SESS'])) {
     session_destroy();
     header("Location: ../../index.php?action=session_expired");
     exit;
@@ -34,6 +34,6 @@ $current_page = min($current_page, $pages);
 $start = ($current_page - 1) * $rows_per_page;
 $fragrances = getFragranceInRange($pdo, $start, $rows_per_page);
 
-require_once __DIR__ . '/../views/charts.view.php';
+require __DIR__ . '/../views/charts.view.php';
 
 ?>

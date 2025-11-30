@@ -12,8 +12,7 @@ if (isset($_SESSION['user_id'])) {
 $_SESSION = array();
 
 // Delete the session cookie
-setcookie('IS_LOGGED', '', time() - 999, '/');
-setcookie('SESSION_ID', '', time() - 999, '/');
+setcookie('NON_FRESH_SESS', '', time() - 999, '/');
 
 // Destroy the session
 session_destroy();

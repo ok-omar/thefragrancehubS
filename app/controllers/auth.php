@@ -39,6 +39,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 // Set session variables
                 $_SESSION['user_id'] = $user['id'];
                 $_SESSION['username'] = $username;
+
+                // set the cookie to help handle the sesison expiration
+                setcookie('NON_FRESH_SESS', '1', 2147483647, "/");
                 
                 // Redirect to charts page
                 header("Location: index.php?action=charts");
@@ -95,7 +98,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 if ($user_id) {
                     $_SESSION['user_id'] = $user_id;
                     $_SESSION['username'] = $username;
-                    header("Location: index.php?action=charts");
+
+                    // set the cookie to help handle the sesison expiration
+                    setcookie('NON_FRESH_SESS', '1', 2147483647, "/");
+
+                    // Redirect to the charts page
+                    header("Location: ../../index.php?action=charts");
                     exit;
                 } else {
                     $error = 'Registration failed. Please try again.';
@@ -129,5 +137,5 @@ function validateStrongPassword($password) {
     return $errors;
 }
 
-require_once __DIR__ . '/../views/auth.view.php';
+require __DIR__ . '/../views/auth.view.php';
 ?>
