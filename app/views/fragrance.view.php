@@ -8,7 +8,7 @@
 </head>
 <body>
 	<header class="fragrance-header">
-		<a href="../../index.php" class="logo"><img src="../../public/images/logo.png" alt="LOGO"></a>
+		<a href="../../index.php" class="logo"><img src="../../public/images/logo.png" alt="Website Logo"></a>
 	</header>
 
 	<main class="fragrance-form-wrapper">

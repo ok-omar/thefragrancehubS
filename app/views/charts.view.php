@@ -9,9 +9,9 @@
 <body>
   <!-- Header Navigation -->
   <div class="header">
-    <a href="../../index.php" class="logo"><img src="../../public/images/logo.png" alt="LOGO"></a>
+    <a href="../../index.php" class="logo"><img src="../../public/images/logo.png" alt="Website Logo"></a>
     <div id="search-container">
-      <input type="text" id="search" placeholder="Search fragrances...">
+      <input type="text" id="search" placeholder="Search fragrances..." aria-label="Searchbar to search fragrances">
       <svg id="search-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
       </svg>
@@ -49,16 +49,16 @@
     <div id="filter-column">
       <p>PRICE</p>
       <div class="price-range">
-        <input type="range" min="0" max="500" value="500" class="price-slider">
+        <input type="range" min="0" max="500" value="500" class="price-slider" aria-label="Price slider">
         <div class="price-inputs">
-          <input type="number" value="0" min="0" max="500">
+          <input type="number" value="0" min="0" max="500" aria-label="Minimum price input">
           <span>-</span>
-          <input type="number" value="500" min="0" max="500">
+          <input type="number" value="500" min="0" max="500" aria-label="Maximum price input">
         </div>
       </div>
 
       <p>BRANDS</p>
-      <input type="text" class="brand-search" placeholder="Search brands...">
+      <input type="text" class="brand-search" placeholder="Search brands..." aria-label="Searchbar to search fragrance brands">
       <div class="brand-list">
         <div class="checkbox-item">
           <input type="checkbox" id="chanel">
