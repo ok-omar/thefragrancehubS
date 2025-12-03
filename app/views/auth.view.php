@@ -10,7 +10,7 @@
 </style>
 </head>
 <body>
-  <a href="index.php" class="logo"><img src="public/images/logo.png" alt="LOGO"></a>
+  <a href="index.php" class="logo"><img src="public/images/logo.png" alt="Website Logo"></a>
 
   <?php $action = $_GET['action'] ?? 'login'; ?>
   <div class="auth-box">

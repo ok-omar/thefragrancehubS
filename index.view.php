@@ -8,7 +8,7 @@
 </head>
 <body>    
     <div class="header" id="home">
-        <img src="public/images/logo.png" alt="LOGO">
+        <img src="public/images/logo.png" alt="Website logo">
         <ul id="nav">
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
@@ -58,12 +58,12 @@
         <div id="left-column">
             <img src="public/images/contact_img_1000x5000.webp" alt="">
         </div>
-        <div id="right-column">
-            <input type="email" placeholder="Email">
-            <input type="text" placeholder="Subject">
-            <textarea placeholder="Message"></textarea>
-            <button id="send-button">Send ➙</button>
-        </div>
+        <form id="right-column">
+            <input type="email" placeholder="Email" aria-label="Input for Email">
+            <input type="text" placeholder="Subject" aria-label="Input for subject">
+            <textarea placeholder="Message" aria-label="Input for message"></textarea>
+            <button id="send-button" action="submit">Send ➙</button>
+        </form>
     </section>
     <footer>
         <div class="button-group">
