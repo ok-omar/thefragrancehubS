@@ -7,9 +7,10 @@
   <title>The Fragrance Hub - Browse Collection</title>
 </head>
 <body>
-  <!-- Header Navigation -->
-  <div class="header">
-    <a href="../../index.php" class="logo"><img src="../../public/images/logo.png" alt="Website Logo"></a>
+  <!-- Header  -->
+  <header class="header" role="banner">
+    <h1 class="visually-hidden">Fragrance Hub - Find the Best Fragrances</h1>
+    <a href="../../index.php" class="logo"><img src="../../public/images/logo.png" alt="The Fragrance Hub Logo"></a>
     <div id="search-container">
       <input type="text" id="search" placeholder="Search fragrances..." aria-label="Searchbar to search fragrances">
       <svg id="search-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
@@ -23,17 +24,21 @@
       </div>
     <?php else: ?>
       <div id="icons-container">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" />
-        </svg>
+        <a href="#">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z" />
+          </svg>
+        </a>
         <a href="../../index.php?action=logout" title="Logout">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0 0 13.5 3h-6a2.25 2.25 0 0 0-2.25 2.25v13.5A2.25 2.25 0 0 0 7.5 21h6a2.25 2.25 0 0 0 2.25-2.25V15m3 0 3-3m0 0-3-3m3 3H9" />
           </svg>
         </a>
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
-        </svg>
+        <a href="#">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z" />
+          </svg>
+        </a>
         <a class="create-fragrance-btn" href="../../index.php?action=fragrance" title="Create New Fragrance">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
@@ -41,133 +46,162 @@
         </a>
       </div>
     <?php endif; ?>
-  </div>
+  </header>
 
   <!-- Main Content Container -->
-  <div id="content-container">
+  <main id="content-container" role="main">
     <!-- Filter Sidebar -->
-    <div id="filter-column">
-      <p>PRICE</p>
-      <div class="price-range">
-        <input type="range" min="0" max="500" value="500" class="price-slider" aria-label="Price slider">
-        <div class="price-inputs">
-          <input type="number" value="0" min="0" max="500" aria-label="Minimum price input">
-          <span>-</span>
-          <input type="number" value="500" min="0" max="500" aria-label="Maximum price input">
-        </div>
-      </div>
+    <aside id="filter-column" role="complementary" aria-label="Filter fragrances">
 
-      <p>BRANDS</p>
-      <input type="text" class="brand-search" placeholder="Search brands..." aria-label="Searchbar to search fragrance brands">
-      <div class="brand-list">
-        <div class="checkbox-item">
-          <input type="checkbox" id="chanel">
-          <label for="chanel">Chanel</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="checkbox" id="dior">
-          <label for="dior">Dior</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="checkbox" id="armani">
-          <label for="armani">Armani</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="checkbox" id="burberry">
-          <label for="burberry">Burberry</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="checkbox" id="calvin">
-          <label for="calvin">Calvin Klein</label>
-        </div>
-        <button class="show-more-btn">Show More</button>
-      </div>
-
-      <p>GENDER</p>
-      <div class="gender-list">
-        <div class="checkbox-item">
-          <input type="checkbox" id="male">
-          <label for="male">Male</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="checkbox" id="female">
-          <label for="female">Female</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="checkbox" id="unisex">
-          <label for="unisex">Unisex</label>
-        </div>
-      </div>
-
-      <p>FRAGRANCES PER PAGE</p>
-      <div class="gender-list">
-        <div class="checkbox-item">
-          <input type="radio" name="rows" id="rows3" value="8" <?= $rows_per_page == 8 ? 'checked' : '' ?>>
-          <label for="rows3">8 per page</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="radio" name="rows" id="rows5" value="16" <?= $rows_per_page == 16 ? 'checked' : '' ?>>
-          <label for="rows5">16 per page</label>
-        </div>
-        <div class="checkbox-item">
-          <input type="radio" name="rows" id="rows10" value="24" <?= $rows_per_page == 24 ? 'checked' : '' ?>>
-          <label for="rows10">24 per page</label>
-        </div>
-      </div>
-    </div>
-
-    <!-- Fragrance Cards Grid -->
-    <div id="container-column">
-      <?php foreach ($fragrances as $fragrance): ?>
-        <div class="card">
-          <div class="card-image-container">
-            <img src="<?= htmlspecialchars($fragrance['image_url']) ?>" alt="<?= htmlspecialchars($fragrance['name']) ?>">
-            <?php if (isLoggedIn()): ?>
-              <div class="brand-badge-overlay"><?= htmlspecialchars($fragrance['brand']) ?></div>
-              <div class="favorite-icon"></div>
-              <!-- Edit pill  -->
-              <a class="edit-pill" href="../../index.php?action=fragrance&id=<?= urlencode($fragrance['id']) ?>">Edit</a>
-              <!-- Delete pill -->
-              <form method="POST" action="../../index.php?action=delete_fragrance&id=<?= urlencode($fragrance['id']) ?>" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this fragrance?');">
-                <button type="submit" class="delete-pill" title="Delete Fragrance">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0" />
-                  </svg>
-                </button>
-              </form>
-            <?php endif; ?>
+      <fieldset>
+        <legend>PRICE</legend>
+        <div class="price-range">
+          <input type="range" min="0" max="500" value="500" class="price-slider" aria-label="Price slider">
+          <div class="price-inputs">
+            <input type="number" value="0" min="0" max="500" aria-label="Minimum price input">
+            <span>-</span>
+            <input type="number" value="500" min="0" max="500" aria-label="Maximum price input">
           </div>
-          <div class="card-content">
-            <p class="card-name"><?= htmlspecialchars($fragrance['name']) ?></p>
-            <?php if (isLoggedIn()): ?>
-              <div class="card-details">
-                <span class="gender-badge gender-<?= strtolower($fragrance['gender']) ?>">
-                  <?= ucfirst($fragrance['gender']) ?>
-                </span>
-                <?php if (!empty($fragrance['price'])): ?>
-                  <span class="price-badge">$<?= number_format($fragrance['price'], 2) ?></span>
-                <?php endif; ?>
-              </div>
-              <?php if (!empty($fragrance['longevity']) || !empty($fragrance['sillage'])): ?>
-                <div class="card-stats">
-                  <?php if (!empty($fragrance['longevity'])): ?>
-                    <span class="stat-pill">Longevity: <?= htmlspecialchars($fragrance['longevity']) ?></span>
-                  <?php endif; ?>
-                  <?php if (!empty($fragrance['sillage'])): ?>
-                    <span class="stat-pill">Sillage: <?= htmlspecialchars($fragrance['sillage']) ?></span>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>BRANDS</legend>
+        <input type="text" class="brand-search" placeholder="Search brands..." aria-label="Searchbar to search fragrance brands">
+        <div class="brand-list">
+          <div class="checkbox-item">
+            <input type="checkbox" id="chanel">
+            <label for="chanel">Chanel</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="checkbox" id="dior">
+            <label for="dior">Dior</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="checkbox" id="armani">
+            <label for="armani">Armani</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="checkbox" id="burberry">
+            <label for="burberry">Burberry</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="checkbox" id="calvin">
+            <label for="calvin">Calvin Klein</label>
+          </div>
+          <button class="show-more-btn">Show More</button>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>GENDER</legend>
+        <div class="gender-list">
+          <div class="checkbox-item">
+            <input type="checkbox" id="male">
+            <label for="male">Male</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="checkbox" id="female">
+            <label for="female">Female</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="checkbox" id="unisex">
+            <label for="unisex">Unisex</label>
+          </div>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>FRAGRANCES PER PAGE</legend>
+        <div class="fpp-list">
+          <div class="checkbox-item">
+            <input type="radio" name="rows" id="rows3" value="8" <?= $rows_per_page == 8 ? 'checked' : '' ?>>
+            <label for="rows3">8 per page</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="radio" name="rows" id="rows5" value="16" <?= $rows_per_page == 16 ? 'checked' : '' ?>>
+            <label for="rows5">16 per page</label>
+          </div>
+          <div class="checkbox-item">
+            <input type="radio" name="rows" id="rows10" value="24" <?= $rows_per_page == 24 ? 'checked' : '' ?>>
+            <label for="rows10">24 per page</label>
+          </div>
+        </div>
+      </fieldset>
+    </aside>
+
+
+    <section id="content-column" aria-label="Fragrance collection">
+      <!-- Fragrance Cards Grid -->
+       <?php if (isLoggedIn()): ?>
+        <div id="select-sec">
+          <!-- Order by selector -->
+          <select id="sort" aria-label="Sort fragrances by">
+            <option value="default">Sort…</option>
+            <option value="default">Default</option>
+            <option value="price-asc">Price: Low → High</option>
+            <option value="price-desc">Price: High → Low</option>
+            <option value="name-asc">Name: A → Z</option>
+            <option value="name-desc">Name: Z → A</option>
+          </select>
+          <button id="sort-btn" type="button" aria-label="Apply sort">Go</button>
+        </div>
+      <?php endif; ?>
+      <div id="fragrances-sec" role="region" aria-label="Fragrance cards grid">
+        <?php foreach ($fragrances as $fragrance): ?>
+          <div class="card">
+            <div class="card-image-container">
+              <img src="<?= htmlspecialchars($fragrance['image_url']) ?>" alt="<?= htmlspecialchars($fragrance['name']) ?>">
+              <?php if (isLoggedIn()): ?>
+                <div class="brand-badge-overlay"><?= htmlspecialchars($fragrance['brand']) ?></div>
+                <div class="favorite-icon"></div>
+
+                <!-- Edit pill  -->
+                <a class="edit-pill" href="../../index.php?action=fragrance&id=<?= urlencode($fragrance['id']) ?>">Edit</a>
+                
+                <!-- Delete pill -->
+                <form method="POST" action="../../index.php?action=delete_fragrance&id=<?= urlencode($fragrance['id']) ?>" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this fragrance?');">
+                  
+                  <button type="submit" class="delete-pill" title="Delete Fragrance">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0" />
+                    </svg>
+                  </button>
+                </form>
+              <?php endif; ?>
+            </div>
+            <div class="card-content">
+              <p class="card-name"><?= htmlspecialchars($fragrance['name']) ?></p>
+              <?php if (isLoggedIn()): ?>
+                <div class="card-details">
+                  <span class="gender-badge gender-<?= strtolower($fragrance['gender']) ?>">
+                    <?= ucfirst($fragrance['gender']) ?>
+                  </span>
+                  <?php if (!empty($fragrance['price'])): ?>
+                    <span class="price-badge">$<?= number_format($fragrance['price'], 2) ?></span>
                   <?php endif; ?>
                 </div>
+                <?php if (!empty($fragrance['longevity']) || !empty($fragrance['sillage'])): ?>
+                  <div class="card-stats">
+                    <?php if (!empty($fragrance['longevity'])): ?>
+                      <span class="stat-pill">Longevity: <?= htmlspecialchars($fragrance['longevity']) ?></span>
+                    <?php endif; ?>
+                    <?php if (!empty($fragrance['sillage'])): ?>
+                      <span class="stat-pill">Sillage: <?= htmlspecialchars($fragrance['sillage']) ?></span>
+                    <?php endif; ?>
+                  </div>
+                <?php endif; ?>
               <?php endif; ?>
-            <?php endif; ?>
+            </div>
           </div>
-        </div>
-      <?php endforeach; ?>
-    </div>
-  </div>
+        <?php endforeach; ?>
+      </div>
+    </section>    
+  </main>
 
   <!-- Pagination Footer -->
-  <div class="pagination-footer">
-    <div class="pagination-controls">
+  <footer class="pagination-footer" role="contentinfo" aria-label="Pagination navigation">
+    <nav class="pagination-controls" aria-label="Page navigation">
       <a href='?page-number=1' class="pagination-btn" <?= $current_page == 1 ? 'style="pointer-events:none;opacity:0.5"' : '' ?>>
         &lt;&lt;
       </a>
@@ -189,10 +223,29 @@
       <a href='?page-number=<?= $pages ?>' class="pagination-btn" <?= $current_page == $pages ? 'style="pointer-events:none;opacity:0.5"' : '' ?>>
         &gt;&gt;
       </a>
-    </div>
-  </div>
+    </nav>
+  </footer>
 
   <script>
+    // Sort button handler (accessible alternative to jump menu)
+    const sortBtn = document.getElementById('sort-btn');
+    const sortSelect = document.getElementById('sort');
+    
+    if (sortBtn && sortSelect) {
+      sortBtn.addEventListener('click', () => {
+        const selectedValue = sortSelect.value;
+        window.location.href = '?order=' + selectedValue;
+      });
+
+      // Allow Enter key on select to trigger the button
+      sortSelect.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          e.preventDefault(); 
+          sortBtn.click();
+        }
+      });
+    }
+
     // Rows per page radio button handler
     document.querySelectorAll('input[name="rows"]').forEach(radio => {
       radio.addEventListener('change', (e) => {
