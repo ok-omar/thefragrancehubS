@@ -6,11 +6,21 @@ function getAllfragrances($pdo) {
     return $stmt->fetchAll();
 }
 
-function getFragranceInRange($pdo, $start, $offset) {
+function getFragranceInRange($pdo, $start, $offset, $order) {
     $start = (int) $start;
     $offset = (int) $offset;
 
-    $stmt = $pdo->prepare("SELECT * FROM fragrances LIMIT $start, $offset");
+    $orderMap = [
+        "default"  => "",
+        "price-asc"  => "ORDER BY price ASC",
+        "price-desc" => "ORDER BY price DESC",
+        "name-asc"   => "ORDER BY name ASC",
+        "name-desc"  => "ORDER BY name DESC",
+    ];
+
+    $statementString = $orderMap[$order] ?? "";
+
+    $stmt = $pdo->prepare("SELECT * FROM fragrances $statementString LIMIT $start, $offset");
     $stmt->execute();
 
     return $stmt->fetchAll();
