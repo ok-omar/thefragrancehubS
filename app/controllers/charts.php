@@ -11,6 +11,18 @@ if (!isLoggedIn() && isset($_COOKIE['NON_FRESH_SESS'])) {
     exit;
 }
 
+// Get the order of fragrances in the page
+if (isset($_GET['order'])) {
+    setcookie('ORDER', $_GET['order'], time() + (86400 * 30), "/");
+    $fragrance_order = $_GET['order'];
+} elseif (isset($_COOKIE['ORDER'])) {
+    $fragrance_order = $_COOKIE['ORDER'];
+} else {
+    $fragrance_order = 'default';
+}
+
+
+
 // Get the fragrances per page from the get request if the user changed it, else from the cookie
 if (isset($_GET['rows-per-page'])) {
     setcookie('rows-per-page', $_GET['rows-per-page'], time() + (86400 * 30), "/");
@@ -36,7 +48,7 @@ $current_page = min($current_page, $pages);
 
 // Calculate the fragrance range to get from the database
 $start = ($current_page - 1) * $rows_per_page;
-$fragrances = getFragranceInRange($pdo, $start, $rows_per_page);
+$fragrances = getFragranceInRange($pdo, $start, $rows_per_page, $fragrance_order);
 
 require __DIR__ . '/../views/charts.view.php';
 
